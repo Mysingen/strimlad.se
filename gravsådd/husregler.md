@@ -28,25 +28,25 @@ Du kan aldrig kasta en besvärjelse som är två nivåer över din nivå i talan
 ### Magiskt missöde (s. 106)
 
 **Ersätter hela stycket och tabellen:**
-Om du slår en eller flera ![](bane.svg) när du kastar en besvärjelse har du släppt lös mäktiga krafter men lyckas inte kontrollera dem, och drabbas av ett magiskt missöde. Missödets grad bestäms av hur många tärningar du slagit och är lika med antalet tärningar upp till 3. Graden bestämmer missödets effekt. Graden kan sänkas genom att spendera ytterligare 1 KP per grad ner till grad 1. Missödets grad kan inte sänkas till noll.
+Om du slår två eller flera ![](bane.svg) när du kastar en besvärjelse har du släppt lös mäktiga krafter men lyckas inte kontrollera dem, och drabbas av ett magiskt missöde. Missödets grad bestäms av hur många tärningar du slagit och är lika med antalet tärningar upp till 3. Graden bestämmer missödets effekt. Graden kan sänkas genom att spendera ytterligare 1 KP per grad ner till grad 1. Missödets grad kan inte sänkas till noll.
 
 <table style="width:auto">
 <tr><td><b>Grad</b></td><td><b>Effekt</b></td><tr>
 <tr>
     <td style="width:auto">3</td>
-    <td>Du tar elände mot INT = antal rullade tärningar. Besvärjelsens effekt slår dessutom bakut. En offensiv besvärjelse drabbar dig själv i stället för det avsedda målet. En skyddande eller helande besvärjelse skadar istället för att läka. Ett hamnskifte går snett och du blir ett sinnesslött vilddjur. En frammanad odöd, demon eller illusion angriper dig. SL avgör detaljerna.</td>
+    <td>Du tar elände mot INT = antal rullade tärningar som inte visar <img src="framgång.svg"/>. Besvärjelsens effekt slår dessutom bakut. En offensiv besvärjelse drabbar dig själv i stället för det avsedda målet. En skyddande eller helande besvärjelse skadar istället för att läka. Ett hamnskifte går snett och du blir ett sinnesslött vilddjur. En frammanad odöd, demon eller illusion angriper dig. SL avgör detaljerna.</td>
 </tr>
 <tr>
     <td style="width:auto">2</td>
-    <td>Du tar elände mot INT = antal rullade tärningar. Besvärjelsen har avsedd effekt, men drabbar även en vän eller något annat oavsiktligt offer. En helande eller hjälpande besvärjelse påverkar en fiende.</td>
+    <td>Du tar elände mot INT = antal rullade tärningar som inte visar <img src="framgång.svg"/>. Besvärjelsen har avsedd effekt, men drabbar även en vän eller något annat oavsiktligt offer. En helande eller hjälpande besvärjelse påverkar en fiende.</td>
 </tr>
 <tr>
     <td style="width:auto">1</td>
-    <td>Du tar elände mot INT = antal rullade tärningar.</td>
+    <td>Du tar elände mot INT = antal rullade tärningar som inte visar <img src="framgång.svg"/>.</td>
 </tr>
 </table>
 
-*Exempel: Du använder tre tärningar och slår 1/3/6. Du tar 3 poäng elände mot INT och besvärjelsen snedtänder. Besvärjelsens effektgrad ökar med ett poäng (en slagen sexa)*
+*Exempel: Du använder fyra tärningar och slår ![](bane.svg)/![](bane.svg)/3/![](framgång.svg). Du tar 3 poäng elände mot INT och besvärjelsen snedtänder. Besvärjelsens effektgrad ökar med ett poäng (en slagen sexa)*
 
 *Om du spenderar 1 extra KP sänks missödets grad till två: Besvärjelsen har avsedd effekt men drabbar även ett oavsiktligt mål. Du tar 3 poäng elände mot INT.*
 
