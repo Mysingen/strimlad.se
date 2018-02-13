@@ -1,16 +1,16 @@
 # Broder Rost
 
-Vid äventyrets början återfinns rostbröderna Gervix & Robilan på [värdshuset Storstugan](värdshuset_storstugan.html). De är uttråkade, grälsjuka och väntar på att regnet ska avta så att de kan göra något åt det uppdrag de är utsända på.
+Vid äventyrets början återfinns rostbröderna Gervix & Robilan på [värdshuset Storstugan](storstugan.html). De är uttråkade, grälsjuka och väntar på att regnet ska avta så att de kan göra något åt det uppdrag de är utsända på.
 
 Rostbröderna gillar inte varandra särskilt mycket men är ändå ett väldrillat par när det kommer till samarbete. Ingen vinner på att stå ensam i farofyllda situationer och då får man stå ut med sin reskamrats later och ovanor resten av tiden. Ingen av dem är någon expert på vildmarksliv vilket de kompenserar för med att ta vad de vill ha från folk de stöter på.
 
-## Uppdraget
+## UPPDRAGET
 
 Bevärjare bland rostbröderna har upptäckt att mynt från hemsökta gravskatter kan användas som [ingredienser](husregler.html#ingredienser-s-107) i besvärjelser. Gervix och Robilan söker alltså sådana på uppdrag men vet inget om [Kalantinas skatts betydelse](kalantina.html#skattens-betydelse) i regionen de anlänt till.
 
 De har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [Slur](slur.html), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förvisso inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
 
-## Gervix
+## GERVIX
 
 Gervix är en fåfäng och snacksalig typ som förvisso inte är någon dumbom men också är utrustad med tillräckligt mycket arrogans för att sätta yxan i båten då och då. Han har den smått idiotiska vanan att föra dagbok över sina uppdrag som rostbroder då han inbillar sig vara en mästerdetektiv som kan härleda större sammanhang ur strödda detaljer. I boken återfinner man alltså hela historien om varför rostbröderna söker en skatt, att man pinohört bybor om Slur, etc.
 
@@ -44,11 +44,11 @@ Gervix känner sig otrygg med att sova under bar himmel men föredrar att framst
 **Knivkamp:** 1
 **Kock:** 1
 
-## Vapen & Utrustning
+### Vapen & Utrustning
 
 Dagbok, skrivdon, 2 dolkar, harnesk och armskydd i läder, rep, sadel, ridhäst (märkt med rostbrödernas sigill), oljelampa, tält och enkla medel att slå läger med, 1T4 ransoner mat/vatten.
 
-## Robilan
+## ROBILAN
 
 Robilan är en surmulen buse som tillbringar mer tid med putsduken mot svärdet än att föra samtal framåt. Det vore ett misstag att ta honom för dum även om det mesta av intelligensen yttrar sig i fingerspetskänsla för riskerna med öppen strid. Han kan ha svårt för Gervix intellektualiserande utläggningar men uppskattar samtidigt att slippa vara den som för samtal med främlingar.
 
@@ -89,6 +89,6 @@ Robilan är vidskeplig och föreställer sig att rester från besegrade fiender 
 
 † Defensiv om de avancerade stridsreglerna inte används.
 
-## Vapen & Utrustning
+### Vapen & Utrustning
 
 Dolk, kortsvärd, nitläderrustning, öppen hjälm, sadel, ridhäst (märkt med rostbrödernas sigill), 1T6 ransoner facklor, 1T4 ransoner mat/vatten, extra ullmantel, oljeimpregnerad mantel, slipsten.

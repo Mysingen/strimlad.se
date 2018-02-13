@@ -2,9 +2,9 @@
 
 Karismatisk men farlig och något instabil jägare, kusin och fiende till [Slur](slur.html) samt sökare av kunskap om odöda.
 
-## Fejden
+## FEJDEN
 
-Som barn upptäckte Slur och Tidir [Kalantina spöke](kalantina.html) med tillhörande skatt när de klättrade omkring i dräneringen under vägkorset utanför Storstugan. Då de hade en väletablerad tävlingsanda hånade Slur Tidir för hennes feghet om hon inte vågade sig in i graven för att ta något från skatten. Tidir kunde inte smälta detta och lyckades norpa åt sig ett mynt innan Kalantinas gast förargades och satte efter. Sedan dess dras Tidir med psykisk ohälsa och skyller, med viss rätt, mycket av sitt senare livs missöden på Slur.
+Som barn upptäckte Slur och Tidir [Kalantinas spöke](kalantina.html) med tillhörande skatt när de klättrade omkring i dräneringen under vägkorset utanför Storstugan. Då de hade en väletablerad tävlingsanda hånade Slur Tidir för hennes feghet om hon inte vågade sig in i graven för att ta något från skatten. Tidir kunde inte smälta detta och lyckades norpa åt sig ett mynt innan Kalantinas gast förargades och satte efter. Sedan dess dras Tidir med psykisk ohälsa och skyller, med viss rätt, mycket av sitt senare livs missöden på Slur.
 
 En konsekvens av skattstölden är Tidirs besatthet med odöda och spöken. Hon hoppas kunna bli löst från sina mardrömmar, osynliga röster, m.m. om hon bara fick kunskap nog att övervinna Kalantinas influens. Denna har annars uppenbarligen krupit in för att stanna. Hon håller tyst om sin stöld från skatten:
 

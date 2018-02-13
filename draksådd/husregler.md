@@ -2,14 +2,14 @@
 
 Alla sidhänvisningar är till den svenska alfaversionen av grundreglerna såsom de såg ut 2018-02-11.
 
-## Bruten
+## BRUTEN
 
 ### Effekt (s. 98)
 
 **Tillägg:**
 Magi kan användas om besvärjaren är vid medvetande, inte brutits i INT, och får arbeta ostört (SL avgör vad som räknas som störande). Besvärjelsens aktivering måste rymmas inom de allmäna begränsningarna av att vara bruten. Ritualer kan inte utföras.
 
-## Magi
+## MAGI
 
 ### Chanskasta (s. 105)
 
@@ -23,7 +23,7 @@ Du kan aldrig kasta en besvärjelse som är två nivåer över din nivå i talan
 
 *Exempel: En besvärjelse på nivå två med effektgrad 3 kostar fem KP att lägga och spelaren rullar fem tärningar.*
 
-*Exempel: Ett kraftord på nivå två tar två handlingar att lägga. En besvärjelse på nivå tre tar tre rundor att lägga. En ritual på nivå tre tar tre dygnsperioder att lägga.*
+*Exempel: Ett kraftord på nivå två tar två korta handlingar att lägga. En besvärjelse på nivå tre tar en runda plus en lång handling att lägga. En ritual på nivå tre tar tre kvartsdygn att lägga.*
 
 ### Magiskt missöde (s. 106)
 
@@ -60,7 +60,7 @@ Om du slår en eller flera ![](bane.svg) när du kastar en besvärjelse har du s
 Alla besvärjelser anger ingredienser, föremål som *krävs* för att kasta besvärjelsen. När du har kastat besvärjelsen är ingrediensen förbrukad och kan inte användas igen. Vad som menas med "förbrukad" beror på ingrediensens beskaffenhet. Mer beständiga föremål som t.ex. förstoringsglas behöver rengöras under en dygnsperiod innan de kan användas igen. Enklare ingredienser förbrukas i sin helhet och kan inte återställas. SL avgör.
 
 **Tillägg:**
-Enskilda mynt från hemsökta skatter kan används som ingrediens i vissa nekromantiska besvärljelser. Om detta inte passar din kampanj får du ge rostbröderna något annat intresse för [Kalantinas skatt](kalantina.html).
+Enskilda mynt från hemsökta skatter kan används som ingrediens i vissa mörka besvärljelser. Om detta inte passar din kampanj får du ge rostbröderna något annat intresse för [Kalantinas skatt](kalantina.html).
 
 ### BLODSBAND (s. 122)
 
