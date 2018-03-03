@@ -4,7 +4,7 @@
 
 > Mina spelare antog uppdraget att söka upp Slur mot en ersättning av några fattiga resurstärningar mat och en skvätt sprit.
 
-Kalina är väl medveten om sin anmoder [Kalantinas](kalantina.html) hemsökelse av dräneringen under vägkorset men kommer näppeligen att nämna detta bekymmer utan starka skäl. Den osaliga anden hemsöker förvisso värdshusets källare på vintersolståndets natt men detta är görligt att dölja för obehöriga. Hemligheten är alltså tills vidare bevarad.
+Kalina är väl medveten om sin anmoder [Kalantinas](kalantina.html) hemsökelse av dräneringen under vägkorset utanför men kommer näppeligen att nämna detta bekymmer utan starka skäl. Den osaliga anden hemsöker förvisso värdshusets källare på vintersolståndets natt men detta är görligt att dölja för obehöriga. Hemligheten är alltså tills vidare bevarad.
 
 ### Grundegenskaper
 
@@ -33,7 +33,7 @@ Kalina är väl medveten om sin anmoder [Kalantinas](kalantina.html) hemsökelse
 **Tursam:** Nivå 1.
 
 ### Vapen & utrustning
-**Mörningshammare †:** Bonus 2, skada 2, egg, krok.
+**Mörningshammare:** Bonus 2, skada 2, egg†, krok.
 
 † Hammarens klo är formad som ett blad för att kunna hacka isär senor och annat slaktrens. Vapnet kan alltså användas för att ge både kross- och huggskada.
 

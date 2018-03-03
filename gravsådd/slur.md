@@ -10,5 +10,3 @@ Vid spelets början befinner sig Slur på ett slags diplomatisk resa i bergen no
 
 Slur söker en lösning på problemet med Kalantina så att han ska kunna bärga hennes skatt och gifta sig fint. Detta har hans mor, Kalina, ingen aning om och skulle bli både arg och rädd om hon fick veta.
 
-> Stats saknas för Slur då han ännu inte kommit i spel i min kampanj.
-

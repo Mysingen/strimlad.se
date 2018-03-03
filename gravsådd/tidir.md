@@ -1,6 +1,6 @@
 # Tidir
 
-Karismatisk men farlig och något instabil jägare, kusin och fiende till [Slur](slur.html) samt sökare av kunskap om odöda.
+Karismatisk men farlig och något instabil jägare, kusin och fiende till [Slur](slur.html) samt sökare av kunskap om odöda. God vän med [häxan Xaye](xaye_askmara.html).
 
 ## FEJDEN
 
@@ -14,6 +14,4 @@ En konsekvens av skattstölden är Tidirs besatthet med odöda och spöken. Hon 
 Tyvärr är det inte hälsosamt att bära omkring på mörka hemligheter men i primitiva fantasyvärldar är det långt mellan psykoterapeuterna. Tidir kommer knappast till insikt om detta på egen hand.
 
 Tack vare sin expertis i vildmarksliv, stora karisma och ett tydligt uttalat mål att söka gravskatter och dödens hemligheter har Tidir kunnat samla ett gäng äventyrslystna lokala förmågor runt sig. Hon är knappast populär bland befolkningen som mest förknippar henne med förolämpningar, knivslagsmål och osunt inflytande på ungdomar.
-
-> Stats saknas för Tidir eftersom hon ännu inte kommit i spel i kampanjen.
 

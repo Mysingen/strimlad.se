@@ -8,11 +8,11 @@ Rostbröderna gillar inte varandra särskilt mycket men är ändå ett väldrill
 
 Bevärjare bland rostbröderna har upptäckt att mynt från hemsökta gravskatter kan användas som [ingredienser](husregler.html#ingredienser-s-107) i besvärjelser. Gervix och Robilan söker alltså sådana på uppdrag men vet inget om [Kalantinas skatts betydelse](kalantina.html#skattens-betydelse) i regionen de anlänt till.
 
-De har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [Slur](slur.html), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förvisso inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
+De har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [Slur](slur.html), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förstås inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
 
 ## GERVIX
 
-Gervix är en fåfäng och snacksalig typ som förvisso inte är någon dumbom men också är utrustad med tillräckligt mycket arrogans för att sätta yxan i båten då och då. Han har den smått idiotiska vanan att föra dagbok över sina uppdrag som rostbroder då han inbillar sig vara en mästerdetektiv som kan härleda större sammanhang ur strödda detaljer. I boken återfinner man alltså hela historien om varför rostbröderna söker en skatt, att man pinohört bybor om Slur, etc.
+Gervix är en fåfäng och snacksalig typ, utrustad med tillräckligt mycket arrogans för att sätta yxan i båten då och då. Han har den smått korkade vanan att föra dagbok över sina uppdrag som rostbroder då han inbillar sig vara en mästerdetektiv som kan härleda större sammanhang ur strödda detaljer. I boken återfinner man alltså hela historien om varför rostbröderna söker en skatt, att man pinohört bybor om Slur, etc. Boken ger BILDNING +1 i frågor om Rostbröderna.
 
 Gervix känner sig otrygg med att sova under bar himmel men föredrar att framställa sig som en person med lite mer raffinerade vanor. Alltså reser han sitt tält (som bara rymmer honom) och tar sysslan att SLÅ LÄGER vid övernattningar i det fria.
 
@@ -92,3 +92,12 @@ Robilan är vidskeplig och föreställer sig att rester från besegrade fiender 
 ### Vapen & Utrustning
 
 Dolk, kortsvärd, nitläderrustning, öppen hjälm, sadel, ridhäst (märkt med rostbrödernas sigill), 1T6 ransoner facklor, 1T4 ransoner mat/vatten, extra ullmantel, oljeimpregnerad mantel, slipsten.
+
+## INTENDENT MAMLIN
+
+Intendenten och helaren (nivå 3) Mamlin bereser Rostbrödernas domäner i sällskap av den tystlåtne riddaren Eres. Den senare är en fullblodig våldsverkare i helrustning, komplett med stridshammare och ansiktet ständigt dolt i en tunnhjälm. Mamlin benämner Eres slarvigt som sin "väpnare". Vad Eres anser om detta vet sannolikt bara han själv men hittills har han varit oantastligt lojal mot sin orden och Mamlin.
+
+De två plockar förr eller senare upp spåret efter Gervix och Robilan och bestämmer sig för att ta kommandot över deras skattjakt.
+
+> Mamlin och Eres fungerar som backup och kan t.ex. ÅTERUPPVÄCKA Gervix och Robilan om de skulle trilla av pinn i onödan. Särskilt Eres bör vara en ytterst farlig motståndare som inte sätts in fullt ut mot rollpersonerna förrän tiden är mogen.
+
