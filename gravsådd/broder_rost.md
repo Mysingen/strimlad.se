@@ -95,7 +95,7 @@ Dolk, kortsvärd, nitläderrustning, öppen hjälm, sadel, ridhäst (märkt med 
 
 ## INTENDENT MAMLIN
 
-Intendenten och helaren (nivå 3) Mamlin bereser Rostbrödernas domäner i sällskap av den tystlåtne riddaren Eres. Den senare är en fullblodig våldsverkare i helrustning, komplett med stridshammare och ansiktet ständigt dolt i en tunnhjälm. Mamlin benämner Eres slarvigt som sin "väpnare". Vad Eres anser om detta vet sannolikt bara han själv men hittills har han varit oantastligt lojal mot sin orden och Mamlin.
+Intendenten och helaren (nivå 3) Mamlin bereser Rostbrödernas domäner i sällskap av den tystlåtne riddaren Erev. Den senare är en fullblodig våldsverkare i helrustning, komplett med stridshammare och ansiktet ständigt dolt i en tunnhjälm. Mamlin benämner Erev slarvigt som sin "väpnare". Vad Erev anser om detta vet sannolikt bara han själv men hittills har han varit oantastligt lojal mot sin orden och Mamlin.
 
 De två plockar förr eller senare upp spåret efter Gervix och Robilan och bestämmer sig för att ta kommandot över deras skattjakt.
 
