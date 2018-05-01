@@ -56,7 +56,7 @@ Vapen och skida bär släkten Tramahans insignia. Det kan identifieras med BILDN
 
 ## BUX BARE TRAMAHAN
 
-Kanske är det krigarens brutala bortgång som ligger bakom. Kanske är det oönskade sidoeffekter av besvärjelserna som lagts över hans grav. I vilket fall går Bux igen som GAST (**s. 150**).
+Kanske är det *Bestämmarens* brutala bortgång som ligger bakom. Kanske är det oönskade sidoeffekter av besvärjelserna som lagts över hans grav. I vilket fall går Bux igen som GAST (**s. 150**).
 
 En besvärjare som behärskar TALA MED DÖD kan försöka MANIPULERA den döde till stillnad och samtal. Detta är åtmintone [häxan Xayes](xaye_askmara.html) plan för att öka på sitt kunnande om både dödsriket och tiden då Bux Bestämmaren var i livet. Om hon är med vid öppnandet av graven är hon beredd att oskadliggöra skyddande magi men vill på inga villkor att gasten fördrivs. Hon har tidigare gjort försök att kommunicera med gasten nattetid, utanför graven, men funnit det svårt att MANIPULERA den då dess aktivitet är högre vilket gör den svårmästrad.
 

@@ -12,7 +12,15 @@ Det är inte första gången på senare tid som hemsökta skatter traktas av utb
 
 Garin och Raffir erbjuder belöning mot information om skattens placering men Slur tror sig hålla på att bli lurad. Förhandlingar inleds sålunda.
 
-> Detta får gärna sammanfalla med att [intrångslarmet i Bux Bares grav](gravröset.html#vad-hander-sedan) börjar klämta så att man måste ge sig av, med Slur i släptåg.
+### Intrånget i graven
+
+Medan förhandlingar pågår klämtar [intrångslarmet i Bux Bares grav](gravröset.html#vad-hander-sedan) varpå dvärgarna befinner sig i åtagsknipa. Hantera Slur eller ge sig av för att åtgärda problemet?
+
+* Ge sig av med Slur i släptåg.
+* Ge sig av och överlämna Slur i syskonen Syns vårdnad. Alverna [påstår sig förstå människor](syskonen_syn.html#slur), så varför störa Göff med detta?
+* Låta sig övertygas av Slur att han förstår människoarv och därför är sällsynt väl [lämpad att leda expeditionen](slur.html#narrativ-funktion).
+
+> SL väljer det alternativ som passar kampanjen bäst, så klart. Det kan vara effektfullt att låta Slur dyka upp i sällskap av mycket bestämda dvärgar som kräver Bux Bares svärd tillbaka samtidigt som [Slur utlovar rikedom och berömmelse](slur.html#narrativ-funktion) om de bara gör dvärgarna till viljes.
 
 ## VIGSTEJNS RUINER
 
@@ -24,3 +32,6 @@ Några platser bevakas fortfarande av dvärgar på roterande uppdrag. Dessa plat
 
 Kung Göff vill återta och bosätta hela ruinbandet men riksens planering av företaget går långsamt och kantas av gräl om detaljer.
 
+## BESÖKARE
+
+Dvärgarna tolererar särskilt inte rostbröder i sitt rike. Budbärare oavsett tillhörighet förväntas hålla sig på den stora raka väg som leder till den mur som avgränsar ruinbandet från rikets inre delar.
