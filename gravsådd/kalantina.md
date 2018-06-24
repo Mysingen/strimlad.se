@@ -4,7 +4,7 @@ Gast enligt bestiariet. Anmoder till [fru Kalina](fru_kalina.html).
 
 Kalantina var inblandad i en affär som gick agurk och orsakade mycket onödigt lidande. Samvetet har sedan dess plågat henne och hon vakar över den skatt av blodspengar som hon kom över i genomförandet av affären.
 
-## SKATTENS BETYDELSE
+## Skattens betydelse
 
 Skattens betydelse är obestämd tills vidare men [har något med dvärgar att göra](kung_göff.html#garin-raffir).
 

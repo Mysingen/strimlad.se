@@ -6,7 +6,7 @@ Syn Ora har inte synts till på hundratals år. Senast sågs hen kasta sig ut f�
 
 > *Låt för all del RPna få till uppdrag att söka synen och hitta en sargad men inte uträknad demon i botten av en klyfta.*
 
-## MÄNSKLIGA RELATIONER
+## Mänskliga relationer
 
 Syn Ora utvecklade en praktisk kommunikationsteknik som besökare till människoland gärna lärde sig för att bättre undvika "socialt gnissel". I rätt händer kan den även användas för att snärja en människa i begär:
 
@@ -17,7 +17,7 @@ Syn Ora utvecklade en praktisk kommunikationsteknik som besökare till människo
 * Upprepa. Snart uppstår mer skuldkänslor som behöver förlåtas.
 * Använd offrets kända begär för att föra hen till handlingar av instrumentellt värde.
 
-### KOLLANTIA
+### Kollantia
 
 Synen lämnade ofärdigt arbete efter sig, med en uppmaning till pilgrimer att uppenbara systemets helhet.
 
@@ -31,7 +31,7 @@ En ond spiral av växlande preferens tycks utmärka den drabbade. Kärlek utan b
 
 Syn Ora kallade principen *Kollantia* efter termerna *hol'dea*, uppgången i det fullkomliga, och *kant'no*, uteslutning som definierar det återstående.
 
-## VILJA VS RESON
+## Vilja vs reson
 
 Syn Ora tog fasta på att magi uppstår i gränslandet mellan det som är och det som inte är. Allt som är tydligt och befäst är svårt att manipulera, men i gränslandet mellan tydligheterna uppenbarar sig möjligheter. Därför är magi mer potent i gryningen och skymningen än under dagen och natten; Därför är demoner lättare att åkalla i portaler som avgränsar det inre och det yttre. Alkemisten kan lösa upp eller stärka de [metaforer](#om-metaforer) som hägnar dessa gränstrakter.
 
@@ -47,7 +47,7 @@ Extrem trohet till ideal är aldrig ett stabilt fundament; Pilgrimens förmåga 
 Den pilgrim som ändå dristar sig att använda dessa krafter måste
 dölja manipulation av passion bakom offrets egna livsval. "Har jag någonsin tvingat dig till något du inte ville göra?"
 
-## BLANDADE VISDOMAR
+## Blandade visdomar
 
 ### Om pilgrimen
 

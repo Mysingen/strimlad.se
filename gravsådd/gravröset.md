@@ -2,7 +2,7 @@
 
 En timme norr om [Stubbasten](stubbasten.html) finns fyra gravrösen på en ås med god utsikt över den omkringliggande skogen. Naturligtvis finns här både en skatt och en varelse som vakar över denna.
 
-## GRAVEN
+## Graven
 
 Det största av rösena hade en gång en korridor som länkade in- och utsida, tillbommad med en rejäl runsten i var ända. Gången har rasat in sedan [Gubben Mons](gubben_mons.html) och [Xaye Askmara](xaye_askmara.html) försökt ta sig in. De vet dock var den inre dörren befinner sig bakom rasmassorna och går i funderingar om [hur de ska ta sig in](xaye_askmara.html#en-riskabel-plan). Den äventyrslystna orch de anlitat för grovjobbet [hämtades hem av sin klan](stubbasten.html#forsta-besoket) och lär inte synas till igen.
 
@@ -16,7 +16,7 @@ Rollpersonerna förväntas gå först in i graven för att ta den första smäll
 
 Utanför graven ligger den runsten som tjänade som yttre lås mot de levandes land. Den magi som en gång fanns i den till skydd mot inkräktare har neutraliserats av Xaye men besvärjare kan ännu skönja skuggan av kraften i runans ådror.
 
-BILDNING: Stenen är ristad av människor och bär släkten Tramahans märke. Tramahans anspråk på namnkunnighet går genom den beryktade krigaren Bux Bare, Bestämmaren, som för hundratals år sedan gjorde gemensam sak med dvärgar för att driva tillbaka Theranias demoniska horder från ett ansatt bergspass. Bux ska ha dött en hjältes död på slagfältet. Är det månne hans grav som samlar mossa här?
+BILDNING: Stenen är ristad av människor och bär släkten Tramahans märke. Tramahans anspråk på namnkunnighet går genom den beryktade krigaren Bux Bare, [Bestämmaren](syn_ora.html#om-metaforer), som för hundratals år sedan gjorde gemensam sak med dvärgar för att driva tillbaka Theranias demoniska horder från ett ansatt bergspass. Bux ska ha dött en hjältes död på slagfältet. Är det månne hans grav som samlar mossa här?
 
 ### Raset
 
@@ -54,7 +54,7 @@ Bux Bare, Bestämmaren, tog sitt vapen med sig på den sista resan. Det är ett 
 
 Vapen och skida bär släkten Tramahans insignia. Det kan identifieras med BILDNING. Dvärgar med anknytning till området slår med +2.
 
-## BUX BARE TRAMAHAN
+## Bux Bare Tramahan
 
 Kanske är det *Bestämmarens* brutala bortgång som ligger bakom. Kanske är det oönskade sidoeffekter av besvärjelserna som lagts över hans grav. I vilket fall går Bux igen som GAST (**s. 150**).
 
@@ -66,7 +66,7 @@ Det är inte rekommenderat att bevista gravarna nattetid då Bux gast kan röra 
 
 Komplikationer bör uppstå om röjningsarbetet sinkas och man fortfarande inte är klara när mörkret sänker sig. Xaye och Mons känner väl till farorna men ser ingen anledning att berätta något om det inte är alldeles nödvändigt.
 
-## VAD HÄNDER SEDAN?
+## Vad händer sedan?
 
 När det inre låsets magi utlöses klämtar en klocka hos [ättlingarna till de dvärgar](kung_göff.html) som en gång hjälpte till med begravningen av Bux Bare, Bergabrodern. Eftersom anfädernas konung svurit att skydda hjältens sista viloplats är det bara att ge sig ut för att återställa ordningen. Ett löfte är ett löfte.
 

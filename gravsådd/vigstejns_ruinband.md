@@ -8,7 +8,7 @@ Några platser bevakas fortfarande av dvärgar på roterande uppdrag. Dessa plat
 
 [Kung Göff](kung_göff.html) vill återta och bosätta hela ruinbandet men riksens planering av företaget går långsamt och kantas av gräl om detaljer.
 
-## SLUMPMÖTEN
+## Slumpmöten
 
 > Tipz: Jag lät mina spelare springa på trollbindarna och minotauren som ett kombinerat möte. Minotauren angrep trollen varför trollbindarna såg sig tvungna att ingripa, samtidigt som det ena trollet gav sig på RPna.
 
@@ -81,7 +81,7 @@ För att sockra erbjudandet kan älvestamlingen, tillika jungfrusyskon och jäga
 
 #### Kompassen
 
-När [Dron](ässjapott.html#dron) anföll ett fäste ca 10 mil söderut i alderkrigens slutskede slapp några eldelementarer ur bestens mage. De har levt sitt eget liv sedan dess och, likt nyfikna katter, förirrat sig till fångenskap hos en rostbroder och blodsmagiker som sedemera tagit över det gamla fästet. Brodern gör kopplingen att eld är att betrakta som drakars blod och studerar varelserna. Hen vill mycket ogärna låta befria dem.
+När [Dron](ässjapott.html#dron-eldslukaren) anföll ett fäste ca 10 mil söderut i alderkrigens slutskede slapp några eldelementarer ur bestens mage. De har levt sitt eget liv sedan dess och, likt nyfikna katter, förirrat sig till fångenskap hos en rostbroder och blodsmagiker som sedemera tagit över det gamla fästet. Brodern gör kopplingen att eld är att betrakta som drakars blod och studerar varelserna. Hen vill mycket ogärna låta befria dem.
 
 Kompassen består av en spira i bränd keramik som alltid är varmare i den ände som bäst pekar i riktning mot elementarerna. Det tar ca 15 minuter för kompassen att kalibrera sig när den får ligga stilla.
 

@@ -10,6 +10,6 @@ Vid spelets början befinner sig Slur på ett slags diplomatisk resa i bergen no
 
 Slur söker en lösning på problemet med Kalantina så att han ska kunna bärga hennes skatt och gifta sig fint. Detta har hans mor, Kalina, ingen aning om och skulle bli både arg och rädd om hon fick veta.
 
-## NARRATIV FUNKTION
+## Narrativ funktion
 
 Slur bör få tillfällen att ta äran åt sig för saker som RPna åstadkommit. Han kan t.ex. ha pratat in sig hos [Garin & Raffir](kung_göff.html#intranget-i-graven) och utlovat en lösning på deras plötsliga problem, med abrovinken att uppdraget nog kräver förstärkningar för att lyckas. När sedan RPna valsar in blir de påsålda ett uppdrag som redan har en utsedd ledare, vilket de inte blir varse förrän dvärgarna, enligt gammal sed, utför en social ritual där Slur formellt behängs med parafernalia som gör honom till expeditionens ledare och samtidigt garanterar honom äran av framgång, oavsett vem som egentligen gjort jobbet. Väl på väg någonstans gör Slur det tydligt att uppdraget inte kan räknas som lyckat om inte *han* återför lämpliga bevis, varpå han börjar bossa omkring med RPna under hot om att vägra dela något av äran med dem.

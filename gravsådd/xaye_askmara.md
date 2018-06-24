@@ -4,7 +4,7 @@ Xaye är en andra nivåns dödsmagiker och god vän med [Gubben Mons](gubben_mon
 
 Tre unga akolyter följer ständigt Xaye. De uthärdar alla ett tystnadslöfte under sin tidigaste skolning (ingen av dem har lärt sig någon magi än). De är målade med rödblandad aska i ansiktet och bär identiska fotlånga kläder i svart, grått och mörklila.
 
-## EN RISKABEL PLAN
+## En riskabel plan
 
 Xaye har fattat intresse för ett [gravröse](gravröset.html) norr om [Stubbasten](stubbasten.html) och gjort gemensam sak med Mons för att gräva ut det. Mons hoppas på rikedomar som låter honom sluta med det tunga skogsarbetet när åldern nu börjar ta ut sin rätt. Med sin lite makabra och ganska cyniska livssyn är han i vart fall fascinerad av Xayes berättelser om tillvaron bortom livet, och om legenden runt härföraren som ska ligga begravd på platsen. Xaye själv vill öka sitt kunnande och sin kraft genom den gast som tycks vaka över graven.
 

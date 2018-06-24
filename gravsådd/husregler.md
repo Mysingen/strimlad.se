@@ -2,14 +2,14 @@
 
 Alla sidhänvisningar är till den svenska alfaversionen av grundreglerna såsom de såg ut 2018-02-11.
 
-## BRUTEN
+## Bruten
 
 ### Effekt (s. 98)
 
 **Tillägg:**
 Magi kan användas om besvärjaren är vid medvetande, inte brutits i INT, och får arbeta ostört (SL avgör vad som räknas som störande). Besvärjelsens aktivering måste rymmas inom de allmäna begränsningarna av att vara bruten. Ritualer kan inte utföras.
 
-## MAGI
+## Magi
 
 ### Chanskasta (s. 105)
 
@@ -62,7 +62,7 @@ Alla besvärjelser anger ingredienser, föremål som *krävs* för att kasta bes
 **Tillägg:**
 Enskilda mynt från hemsökta skatter kan används som ingrediens i vissa mörka besvärljelser. Om detta inte passar din kampanj får du ge rostbröderna något annat intresse för [Kalantinas skatt](kalantina.html).
 
-### BLODSBAND (s. 122)
+### Blodsband (s. 122)
 
 **Ändring:**
 Om du och målet är av olika släkten måste besvärjelsen kastas en effektgrad högre än antalet poäng som ska överföras.

@@ -8,7 +8,7 @@ BILDNING (krävande): Något av magman föll hela 10 hexrutor söderut och kross
 
 BILDNING (svår): Magma från ett vulkanutbrott brukar rinna nedför vulkanens sidor medan aska kan röra sig över stora områden. Det mycket selektiva nedslaget av magma så långt ifrån vulkanen är därför synnerligen märkvärdigt.
 
-## DRON ELDSLUKAREN
+## Dron Eldslukaren
 
 I Ässjapott bor draken Dron, Eldslukaren den Förskräcklige, Askans Plogbill och Förändringars Sköte. Ormens sista kända aktivitet bestod i utplånandet av det samhälle i söder som sedemera tillskrivits Ässjapotts utbrott.
 

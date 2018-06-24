@@ -2,13 +2,13 @@
 
 Alvsyskonen Syn Dhe och Syn Tikh rådslår [dvärgakungen Göff](kung_göff.html) om allt som rör Drejarens domäner. Drejaren drog även drakar ur dyn och alltså får syskonen Syn lov att även vara experter på det där med [ormen Dron som sover](ässjapott.html#dron-eldslukaren) under magman i [Ässjapott](ässjapott.html). De kommer inte alltid väl över ens med de lärde bland stenfolket men har tjänat riket i några tusen år så det må vara hänt. Deras status är smått mytologisk.
 
-## DRON
+## Dron
 
 Dron har sovit en god stund nu och syskonen har bidat sin tid men förändringarnas timme tycks nu närma sig. Sedan ett par tiotal år - en blinkning i alviska sammanhang - besöks deras drömmar av en allt mer yster Dron. De funderar som bäst på vilken uppgift de själva kan tänkas ha när draken väl vaknar. Det viktigaste tecknet de väntar på är så klart vulkanisk aktivitet men de vill helst ge sig ut, eller sända andra, för att leta tecken som kan sia om deras uppgift *innan* startskottet ekar mellan bergen.
 
 De dvärgar som har regelbunden kontakt med syskonen har noterat deras raskare steg och kortare temperament. Det viskas oroligt att alverna planerar något men Kung Göff avfärdar alla sådana frågor som strunt.
 
-## SLUR
+## Slur
 
 Syskonen blir genast intresserade av Slur. De vill ha ögon och öron bland människorna och Slurs girighet går utmärkt väl att bända till alvernas syften. Detta är till stor del en konsekvens av den rastlöshet som följt på Drons ysterhet. Minnet må vara kort men inte så kort att de glömt sin gamla läromästare [Syn Ora](syn_ora.html), grundaren av det nätverk av övervakare de ingår i.
 
@@ -16,7 +16,7 @@ Syskonen studerar Syn Oras gamla skrifter och i sin släktesbestämda demens har
 
 Således: En handlingarnas man som Slur borde unna sig lite excesser. Han kommer att må bättre om han kan närma sig sin [bestämmelse](syn_ora.html#vilja-vs-reson). Synerna kan hjälpa till att utröna den store mannens bestämmelse. Små men viktiga steg på vägen vore att ge sig ut och [anskaffa saker](begravningen.html) som för övrigt kunde vara värda rika belöningar. Det där fina giftermålet... Bux Bare var en *Bestämmare*. Det kan Slur också bli. Givetvis underskattar de honom. Rejält.
 
-## TIDIR
+## Tidir
 
 Syskonen kan enkelt göra [Oras manöver](syn_ora.html#manskliga-relationer) på [Tidir](tidir.html), förutom att hon är nästan obegripligt ostyrig i sina passioner och därför svår att kontrollera.
 

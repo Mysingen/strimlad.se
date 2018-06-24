@@ -4,13 +4,13 @@ Vid äventyrets början återfinns rostbröderna Gervix & Robilan på [värdshus
 
 Rostbröderna gillar inte varandra särskilt mycket men är ändå ett väldrillat par när det kommer till samarbete. Ingen vinner på att stå ensam i farofyllda situationer och då får man stå ut med sin reskamrats later och ovanor resten av tiden. Ingen av dem är någon expert på vildmarksliv vilket de kompenserar för med att ta vad de vill ha från folk de stöter på.
 
-## UPPDRAGET
+## Uppdraget
 
 Bevärjare bland rostbröderna har upptäckt att mynt från hemsökta gravskatter kan användas som [ingredienser](husregler.html#ingredienser-s-107) i besvärjelser. Gervix och Robilan söker alltså sådana på uppdrag men vet inget om [Kalantinas skatts betydelse](kalantina.html#skattens-betydelse) i regionen de anlänt till.
 
 De har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [Slur](slur.html), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förstås inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
 
-## GERVIX
+## Gervix
 
 Gervix är en fåfäng och snacksalig typ, utrustad med tillräckligt mycket arrogans för att sätta yxan i båten då och då. Han har den smått korkade vanan att föra dagbok över sina uppdrag som rostbroder då han inbillar sig vara en mästerdetektiv som kan härleda större sammanhang ur strödda detaljer. I boken återfinner man alltså hela historien om varför rostbröderna söker en skatt, att man pinohört bybor om Slur, etc. Boken ger BILDNING +1 i frågor om Rostbröderna.
 
@@ -48,7 +48,7 @@ Gervix känner sig otrygg med att sova under bar himmel men föredrar att framst
 
 Dagbok, skrivdon, 2 dolkar, harnesk och armskydd i läder, rep, sadel, ridhäst (märkt med rostbrödernas sigill), oljelampa, tält och enkla medel att slå läger med, 1T4 ransoner mat/vatten.
 
-## ROBILAN
+## Robilan
 
 Robilan är en surmulen buse som tillbringar mer tid med putsduken mot svärdet än att föra samtal framåt. Det vore ett misstag att ta honom för dum även om det mesta av intelligensen yttrar sig i fingerspetskänsla för riskerna med öppen strid. Han kan ha svårt för Gervix intellektualiserande utläggningar men uppskattar samtidigt att slippa vara den som för samtal med främlingar.
 
@@ -93,7 +93,7 @@ Robilan är vidskeplig och föreställer sig att rester från besegrade fiender 
 
 Dolk, kortsvärd, nitläderrustning, öppen hjälm, sadel, ridhäst (märkt med rostbrödernas sigill), 1T6 ransoner facklor, 1T4 ransoner mat/vatten, extra ullmantel, oljeimpregnerad mantel, slipsten.
 
-## INTENDENT MAMLIN
+## Intendent Mamlin
 
 Intendenten och helaren (nivå 3) Mamlin bereser Rostbrödernas domäner i sällskap av den tystlåtne riddaren Erev. Den senare är en fullblodig våldsverkare i helrustning, komplett med stridshammare och ansiktet ständigt dolt i en tunnhjälm. Mamlin benämner Erev slarvigt som sin "väpnare". Vad Erev anser om detta vet sannolikt bara han själv men hittills har han varit oantastligt lojal mot sin orden och Mamlin.
 
@@ -101,6 +101,6 @@ De två plockar förr eller senare upp spåret efter Gervix och Robilan och best
 
 > Mamlin och Erev fungerar som backup och kan t.ex. ÅTERUPPVÄCKA Gervix och Robilan om de skulle trilla av pinn i onödan. Särskilt Eres bör vara en ytterst farlig motståndare som inte sätts in fullt ut mot rollpersonerna förrän tiden är mogen.
 
-## VIGSTEJN
+## Vigstejn
 
 Rostbröderna vet att de inte är välkomna i Vigstejn och att de förväntas hålla sig till de stora, raka vägarna om de till äventyrs ändå skulle färdas i [ruinbandet](vigstejns_ruinband.html). Skulle de förfölja Slur eller RPna i denna riktning så vet de att de inte blir insläppta i riket även om de håller sig till dessa vägar. Så varför riskera något? Det går lika bra att vänta tills de kommer tillbaka samma väg.
