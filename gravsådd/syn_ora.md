@@ -55,7 +55,7 @@ dölja manipulation av passion bakom offrets egna livsval. "Har jag någonsin tv
 
 ### Om gott och ont
 
-*Drejaren drog varelser med egen vilja och skaparkraft ur dyn. Viljan kom före ont och gott. De kan inte särskiljas. Att vända den illa viljan till en god är en helig princip för skapelsens skötsel. Därför kan ont även användas för att åstadkomma gott. Den pilgrim som så dristar sig släpper lös krafter som hen måste följa till sin upplösning.*
+*Drejaren drog varelser med egen vilja och skaparkraft ur dyn. Viljan kom före ont och gott. De kan inte särskiljas. Att vända den illa viljan till en god är en helig princip för skapelsens skötsel. Därför kan ont även användas för att åstadkomma gott. Den pilgrim som så dristar sig släpper lös krafter som måste följas till sin upplösning.*
 
 ### Om döden
 
@@ -73,4 +73,4 @@ dölja manipulation av passion bakom offrets egna livsval. "Har jag någonsin tv
 
 *I de tvenne ursolar, **Solaris**, finns förebilderna till alla intelligenta varelser. Vi kanaliserar dessa källor till hopp och förtvivlan i lika mängd.*
 
-*Pilgrimens strävan är att förstå källorna och föra något av det heliga tillbaka till världen; Något som förmår blända de skuggor vi tar för sanningar i våra dagliga liv. Hen kan delta i detta gudomliga arbete genom att uppenbara metaforer och hen skall icke rädas när mörkret tycks kväva allt liv ty Ljuset finns där i lika mängd för den som kan avtäcka det.*
+*Pilgrimens strävan är att förstå källorna och föra något av det heliga tillbaka till världen; Något som förmår blända de skuggor vi tar för sanningar i våra dagliga liv. Hen kan delta i detta gudomliga arbete genom att uppenbara metaforer och hen skall icke rädas när Mörkret tycks kväva allt liv ty Ljuset finns där i lika mängd för den som kan avtäcka det.*

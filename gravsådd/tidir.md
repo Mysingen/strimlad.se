@@ -15,3 +15,12 @@ Tyvärr är det inte hälsosamt att bära omkring på mörka hemligheter men i p
 
 Tack vare sin expertis i vildmarksliv, stora karisma och ett tydligt uttalat mål att söka gravskatter och dödens hemligheter har Tidir kunnat samla ett gäng äventyrslystna lokala förmågor runt sig. Hon är knappast populär bland befolkningen som mest förknippar henne med förolämpningar, knivslagsmål och osunt inflytande på ungdomar.
 
+## FÖLJESLAGARE
+
+### Grao Askanda
+
+Grao är en muskulös pomp som inte drar sig för att råna nya medlemmar i Tidirs följe om han kan finna ett sätt att komma undan med det. Hans andedräkt är obehaglig av rökningen av örter som han tror ska bättra på hans mandom.
+
+### Narvi Nåldyna
+
+Narvi är tystlåten och nedslagen till sättet. Hon har förvisso ökat sin rikedom genom att delta i Tidirs bravader men hennes självbild är ändå dyster. Hon gör som hon blir tillsagd och sväljer verbala kränkningar med en suck och en sorgsen blick. Hennes tillnamn kommer sig av att ha överlevt ett stort antal skott från pilbåge. Hon kan räkna 14 ärr över blandade delar av kroppen.

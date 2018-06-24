@@ -99,8 +99,8 @@ Intendenten och helaren (nivå 3) Mamlin bereser Rostbrödernas domäner i säll
 
 De två plockar förr eller senare upp spåret efter Gervix och Robilan och bestämmer sig för att ta kommandot över deras skattjakt.
 
-> Mamlin och Eres fungerar som backup och kan t.ex. ÅTERUPPVÄCKA Gervix och Robilan om de skulle trilla av pinn i onödan. Särskilt Eres bör vara en ytterst farlig motståndare som inte sätts in fullt ut mot rollpersonerna förrän tiden är mogen.
+> Mamlin och Erev fungerar som backup och kan t.ex. ÅTERUPPVÄCKA Gervix och Robilan om de skulle trilla av pinn i onödan. Särskilt Eres bör vara en ytterst farlig motståndare som inte sätts in fullt ut mot rollpersonerna förrän tiden är mogen.
 
 ## VIGSTEJN
 
-Rostbröderna vet att de inte är välkomna i Vigstejn och att de förväntas hålla sig till de stora, raka vägarna om de till äventyrs ändå skulle färdas i [ruinbandet](kung_göff.html#vigstejns-ruiner). Skulle de förfölja Slur eller RPna i denna riktning så vet de att de inte blir insläppta i riket även om de håller sig till dessa vägar. Så varför riskera något? Det går lika bra att vänta tills de kommer tillbaka samma väg.
+Rostbröderna vet att de inte är välkomna i Vigstejn och att de förväntas hålla sig till de stora, raka vägarna om de till äventyrs ändå skulle färdas i [ruinbandet](vigstejns_ruinband.html). Skulle de förfölja Slur eller RPna i denna riktning så vet de att de inte blir insläppta i riket även om de håller sig till dessa vägar. Så varför riskera något? Det går lika bra att vänta tills de kommer tillbaka samma väg.
