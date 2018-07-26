@@ -2,23 +2,23 @@
 
 Myggmarsken är ett flackt träsklandskap av småöar, sankmark och vattendrag med mangroveträd. Långbenta fåglar jagar groddjur och småfisk i det grunda vattnet.
 
-Inspiration: [Hexenbracken](http://save.vs.totalpartykill.ca/grab-bag/hexenbracken)
+> Tipz: Internet dräller av utmärkta inspirationskällor. När jag skrev om Myggmarsken lånade jag några idéer från [Hexenbracken](http://save.vs.totalpartykill.ca/grab-bag/hexenbracken).
 
 ## Vägen dit
 
-Resenärer som kommer norrifrån kan uppskatta områdets storlek till ett par kvadratmil då träsket övergår i bergigare terräng på denna sida. Träsket fylls på av det vatten som rinner ner från bergen.
+Resenärer som kommer norrifrån kan uppskatta områdets storlek till ett par kvadratmil då träsket övergår i högre och bergigare terräng på denna sida. Träsket fylls på av det vatten som rinner ner från bergen.
 
-På södersidan övergår träsket i stäpp med frodigt gräs. Stäppen bebos av vilda, enorma svarta getter. Hjorden leds av en surmulen och lynnig hanne som avskyr halvlingar.
+På södersidan övergår träsket i stäpp med frodigt gräs. Stäppen bebos av vilda, enorma svarta getter. Hjorden leds av en surmulen och lynnig hanne som avskyr halvlingar. Svartalferna i träsket tar ogärna denna väg när de gör utfärder utanför Myggmarsken.
 
 ## Invånare
 
 * [Samisam, Kackaren på höga kullen](#samisam).
 * [Rifen Rödnagel](rifen_rödnagel.html).
-* En [svartalfsby](#svartalfsbyn) där invånarna tillber kadavret av ett uråldrigt vidunder.
+* En [svartalfsby](#svartalfsbyn) där invånarna tillber Nattvararen.
 * Orchen och biodlaren [Kreshnar Söte](#kreshnar-sote).
 * [Sökare](#sokarna) av skapelsens hemligheter, hippies om man så vill, som uppvaktar Samisam.
 * [Ryckarna](#ryckarna); odöda människor som drar ner oförsiktiga resenärer i de djupare vattendragen.
-* [Odal Surt](#odal-surt), en galen rese som stulit huvudet från kadavret som svartalferna tillber.
+* [Odal Surt](#resarna), en galen rese som stulit en av svartalfernas reliker.
 
 ## Växtlighet
 
@@ -26,7 +26,7 @@ Psykotropiska svampar och sjögräs som växer i området uppskattas av svartalf
 
 ## Samisam
 
-Samisam, Kackaren på höga kullen, runmagiker och botanist, bor i en hydda på träskets högst belägna punkt.
+Samisam, Kackaren på Höga Kullen, runmagiker och botanist, bor i en hydda på träskets högst belägna punkt.
 
 Under kullen finns en grotta med en koloni av fladdermöss. Grottans golv står under vatten och täcks av mössens träck. Taket genomkorsas av rotsystemen från träden som växer ovanför. Stanken är obeskrivlig.
 
@@ -38,7 +38,7 @@ Samisams lärjunge, [Rifen Rödnagel](rifen_rödnagel.html), är ofta på utfär
 
 Samisam roar sig med att träna fladdermössen att nattetid stjäla små metallföremål. De mer begåvade små älsklingarna har även lärt sig att knycka hela penningpungar. Djuren samarbetar.
 
-Samisams tillnamn "Kackaren på höga kullen" kommer delvis av att han kommenderat mössen att flygbomba personer och platser med träck. Detta roade honom kanske alltför mycket. Av aktsamhet om relationen med sina släktesfränder avstår han nu från att ens nämna möjligheten. Detta betyder på inget sätt att förmågan är förlorad.
+Samisams tillnamn "Kackaren på Höga Kullen" är en arvetitel men kommer sig delvis också av att han ibland kommenderat mössen att flygbomba personer och platser med träck. Detta roade honom kanske alltför mycket. Av aktsamhet om relationen med sina släktesfränder avstår han nu från att ens nämna möjligheten. Detta betyder på inget sätt att förmågan är förlorad.
 
 ## Kreshnar Söte
 
@@ -54,30 +54,52 @@ En av de större öarna i Myggmarsken huserar ett semipermanent läger för sök
 
 Dessa odöda soldater sorterade under [Bux Bare Tramahan](gravröset.html#bux-bare-tramahan) i Alderkrigens slutskede. Kompaniet separerades från *Bestämmarens* armé, gick vilse och sedan under när de flydde undan en fiendehord i [Vigstejns utkanter](vigstejns_ruinband.html). Varelserna rör sig över bottnarna av de större vattendragen och gör ibland exkursioner upp på land för att röva bort oförsiktiga resenärer. Blandade skatter från offren är samlade i krypin under mangroveträdens rötter.
 
+Myggmarskens svartalfer försöker eliminera Ryckarna, som i sin tur växer i antal genom rov, vilket gjort dem till en tämligen heterogen grupp. Skaran utgörs ändå huvudsakligen av människor.
+
+Tursamt nog agerar Ryckarna oftast enskilt.
+
 ## Svartalfsbyn
 
-Invånarna tillber kadavret av ett enormt, förhistoriskt djur. En silver- och kopparskatt är prydligt staplad mellan dess revben. Skallen är borta. Den stals för två månader sedan av Odal Surts posse.
+Svartalferna i Myggmarsken genomled de alderländska krigen med jämnmod. Militär logistik och träsk har dålig passform varför invånarna slapp kontakt med hela arméer. De verkliga problemen startade först i krigens slutskede då ett mänskligt kompani gick vilse i träsken och återuppstod som odöda. Trots ansträngningar att reducera antalet "ryckare" är de fortfarande ett problem.
 
-## Odal Surt
+Invånarna i byn ser Myggmarsken som en aspekt av Nattvararen och har, till skillnad från de flesta andra folk, ett tempel tillägnat guden. Under alderkrigen blodsoffrade man gärna de mänskliga utbölingar som hade oturen att hitta byn. Detta stärkte tron eftersom man i övrigt fick vara ifred. 
 
-Någon kilometer utanför [Vigstejns ruinband](vigstejns_ruinband.html) huserar en grupp resar i och kring ett antal gamla och förfallna dvärgiska maskiner. Det går inte längre att avgöra vilka syften apparaterna en gång haft då dvärgarna monterat ned och fört med sig alla mindre delar. De stommar och skal som återstår är alla i sten och erbjuder bekväm parkering för sittfläsk åt de storvuxna resarna.
+### Hammar Synblödare
 
-Gruppen leds av Odal Surt som ofta sitter på sin "tron", viskandes med det hiskeliga kraniet av något förhistoriskt odjur. De övriga resarna har börjat bekymras över Odals hälsa sedan man tillsammans stal kraniet från svartalferna. Hysset var tänkt som ett kortlivat spratt. Man ville bara pröva alfernas sinne för humor och tänkte lämna tillbaka reliken, och en försoningsgåva därtill, men Odal har kastat denna plan över bord och vaktar föremålet svartsjukt. Resten av gruppen är rådvill då ingen ännu är helt villig att utmana Odal om ledarskapet för gruppen.
+Introduktionen av Ryckarna rörde till relationen med Nattvararen då svartalferna tolkade de vandrande döingarna som ett straff. Den dåvarande Kackaren på Höga Kullen, Hammar Synblödare, gjorde den ultimata uppoffringen för att säkra stammens överlevnads och har sedan dess bestått som en eterisk varelse inflyttad i ett beläte i det tempel som tillägnats guden.
 
-Bakom tronen har resarna samlat högar av rester och bråte från sina äventyr, plus en och annan äventyrare som dristat sig för nära skatterna. Olycksaligas kvarlevor attraherar asätare. En flock harpyor är återkommande matgäster.
+Tråkigt nog har Odal Surt och hans gäng nyligen knyckt reliken. Resarna och svartalferna har en relation som går långt tillbaka och man har alltid retats vänskapligt med varandra. En av de långlivade trätofrågorna handlar just om det gudomliga. Stor är Störst och störst går först, enligt resarna. För att "bevisa" detta stal man en detalj från Nattvararens tempel och råkade få med sig Hammars ande. Hysset var tänkt som ett kortlivat spratt men Odal Surt har behållit reliken.
 
-Odal Surt har blivit galen sedan han stal kraniet av det urtidsdjur som svartalferna tillber. Närmare bestämt är huvudet besatt av svartalfen Hammar Synblödares ande. Hammar är svartalfernas andliga ledare och Samisams gamla läromästare. Odal är känslig för Hammars telepatiska viskningar och har blivit förryckt av kontakten. Han skulle egentligen må bäst av att skiljas från sällskapet som följt med kraniet men Hammars inflytande på försäkrar att detta inte sker av sig självt.
+Reliken består av kraniet från något stort och hiskeligt förhistoriskt odjur med överdimensionerade horn och huggtänder.
 
-1. Odal blir rädd för äventyrarna och slinker iväg med kraniet för att hålla avstånd. Han lovar att berätta om dolda skatter i någon annan hexagon om de bara låter honom vara. Denna information är undantagslöst falsk.
+Svartalferna har samlat rikedomar från de människor man offrat till Nattvararen. Dessa finns också i templet. Man är alltså stadd vid god kassa om någon erbjuder sig att återföra reliken mot betalning.
 
-2. Ett tjut följs av hejdlöst gråtande. Odal lägger pannan i händerna och berättar för äventyrarna att han drabbats av en förbannelse och egentligen inte alls är en jätte utan en rese. Odal ska ha levt lyckligt med hustru och berömdhet för sin skicklighet med det bombastiska stränginstrument resar gärna plägar använda. Detta är dock en lögn inplanterad av Hammar.
+## Resarna
 
-3. Odal skriker anklagelser mot äventyrarna. Märkligt nog är dessa sanna, med abrovinken att det är saker som äventyrarna gjort, men inte mot Odal. Om äventyrarna inte gör tydliga gester av ånger och vilja att kompensera jätten blir de attackerade.
+Någon kilometer utanför [Vigstejns ruinband](vigstejns_ruinband.html) huserar en grupp resar i och kring ett antal förfallna dvärgiska maskiner. Det går inte längre att avgöra vilka syften apparaterna en gång haft då dvärgarna monterat ned och fört med sig alla mindre delar. De stommar och skal som återstår är alla i sten men erbjuder skydd och parkering för sittfläsk åt de storvuxna resarna.
 
-4. Odal ställer sig upp och marscherar med en bister uppsyn mot äventyrarna, med avsikten att slå ihjäl varenda en av dem.
+På ruinernas "bakgård" har resarna samlat bråte från sina äventyr, plus en och annan äventyrare som dristat sig för nära skatterna. Olycksaligas kvarlevor attraherar asätare. En flock harpyor är återkommande matgäster. Resarna lägger ut kadaver (oftast från vanliga djur) för att underhålla kontakten. Man är inte särskilt rädda för dem då monstren är för små för att rå på ett gäng råbarkade resar.
 
-5. Fradga väller ut vid jättens mungipor varefter han faller ihop medvetslös. Hammar tar sedan över kroppen och styr den med en grace som mest minner om dockteater. Hammar kan i det här tillståndet lägga besvärjelser (runmagi, dödsmagi).
+### Odal Surt
 
-6. Odal och Hammar samarbetar så att jätten kan attackera samtidigt som Hammar kan lägga sina besvärjelser.
+Gruppen leds av Odal Surt som ofta sitter på sin "tron", viskandes med det kranium resarna stulit från svartalfernas tempel. De övriga resarna bekymras över Odals mentala hälsa. Man ville bara pröva alfernas sinne för humor och tänkte lämna tillbaka reliken, och en försoningsgåva därtill, men Odal har kastat denna plan över bord och vaktar föremålet svartsjukt. Resten av gruppen är rådvill då ingen ännu är villig att utmana Odal om ledarskapet.
 
-Om kraniet förstörs återfår Odal sitt vett och verkliga personlighet, vilket inte nödvändigtvis är en förbättring. Till dess kan SL slå tärning för att bestämma jättens beteende:
+Odal Surt har blivit galen sedan han stal kraniet av det urtidsdjur som svartalferna tillber. Närmare bestämt är huvudet besatt av svartalfen Hammar Synblödares ande. Hammar är svartalfernas andliga ledare och Samisams gamla läromästare. Odal är känslig för Hammars telepatiska viskningar och har blivit förryckt av kontakten. Han skulle egentligen må bäst av att skiljas från sällskapet som följt med reliken men Hammars inflytande på Odal försäkrar att detta inte sker av sig självt.
+
+Om kraniet återförs till svartalferna återfår Odal sitt vett och normala personlighet, vilket inte nödvändigtvis är en förbättring. Skulle kraniet förstöras så tappar Hammar sitt grepp om de levandes värld och försvinner. Svartalferna skulle bli synnerligen förbistrade över detta, kanske hämnas och sedan be Samisam om hjälp att återupprätta kontakten med Nattvararen.
+
+#### Beteende
+
+Odal kan gärna spelas som en svartsjuk och schizofren föreningsordförande med dåligt ölsinne. Ett enskilt beteende kan plötsligt övergå i ett annat. Förslag:
+
+* Odal blir rädd och slinker iväg med kraniet för att hålla avstånd. Han lovar att berätta om dolda skatter i någon annan hexagon om de bara låter honom vara. Denna information är undantagslöst falsk.
+
+* Odal lägger pannan i händerna, gråter hejdlöst och berättar att han drabbats av Nattvararens förbannelse. Odal ska ha åtnjutit berömdhet för sin skicklighet med det bombastiska stränginstrument resar gärna plägar använda, men förlorat talangen. Delen om musikalisk talang är en lögn inplanterad av Hammar, vilket kan bekräftas av de andra resarna.
+
+* Odal faller ut i predikan om Nattvararen och kräver att åhörarna ger sig ut för att samla månljus och rökslingor.
+
+* Odal anklagar andra för att hindra världens närmande av guden Stor. Detaljerna består märkligt nog av saker som de anklagade faktiskt gjort, men som inte har någon koppling alls till Stor. Odal förväntar sig tydliga gester av ånger och vilja att kompensera. Om dessa uteblir blir han rasande.
+
+* Fradga väller ut ur resens mungipor varefter han faller ihop medvetslös. Hammar tar sedan över kroppen och styr den med en grace som mest minner om dockteater. Hammar kan i det här tillståndet lägga besvärjelser (runmagi, dödsmagi).
+
+* Odal ställer sig upp och marscherar med en bister uppsyn mot äventyrarna, med avsikten att slå ihjäl varenda en av dem.
