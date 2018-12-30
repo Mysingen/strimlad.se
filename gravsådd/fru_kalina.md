@@ -1,3 +1,5 @@
+<title>Fru Kalina - Gravsådd</title>
+
 # Fru Kalina
 
 Ägare och föreståndare av värdshuset [Storstugan](storstugan.html). Kalina är en matrona av rang som inte är rädd att tillgripa våld mot stökiga gäster. Hennes öga för affärer är osvikligt varför SL alltid bör ge spelare det snålast möjliga erbjudande som de ändå inte kan tacka nej till.

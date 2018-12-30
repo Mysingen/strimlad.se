@@ -1,3 +1,5 @@
+<title>Gravröset - Gravsådd</title>
+
 # Gravröset
 
 En timme norr om [Stubbasten](stubbasten.html) finns fyra gravrösen på en ås med god utsikt över den omkringliggande skogen. Naturligtvis finns här både en skatt och en varelse som vakar över denna.

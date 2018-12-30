@@ -1,4 +1,6 @@
-# Värdshuset Storstugan
+<title>Storstugan - Gravsådd</title>
+
+# Storstugan
 
 Förestås av [Fru Kalina](fru_kalina.html). Storstugan är belägen intill ett gammalt stenlagt vägkors varifrån sex rutter leder till intillliggande hexagoner på världskartan. Platsen var ursprungligen en välmående handelsplats och by där de flesta husen är byggda i sten eller korsvirke. Under alderkrigens härjningar flydde de flesta av invånarna västerut för att undslippa de trupper som tog användbara hus och andra resurser i besittning. När blodsdimman sedan lade sig över landet flyttade man inte tillbaka utan behöll sin nya bosättning. Bara Kalinas anmoder [Kalantina](kalantina.html) blev kvar med sitt värdshus som hade gjort goda vinster under krigen. Storstugan är idag det enda hus som inte är svårt förfallet.
 

@@ -1,3 +1,5 @@
+<title>Kung Göff av Vigstejn - Gravsådd</title>
+
 # Kung Göff av Vigstejn
 
 Kung Göff av Harkernas ätt regerar dvärgariket Vigstejn i norr. Missnöjd är han med sin lott. Helst skulle han se sina gamla dryckes- och vapenbröder Garin och Raffir bland sina närmaste rådgivare och föreståndare. Urgamla turordningsregler och meritokratiska system vill annorlunda. Riksens faktiska rådgivare och disponenter tråkar ut honom med myopiska detaljplaner som aldrig tycks klarna nog för faktiska genomföranden. Han drömmer om att personligen leda det bosättningsprojekt som ska återinviga [Vigstejns ruinband](vigstejns_ruinband.html) i rikets hägn.

@@ -1,3 +1,5 @@
+<title>Slur - Gravsådd</title>
+
 # Slur
 
 Son till [fru Kalina](fru_kalina.html), stigfinnare, äventyrare och skrytmåns. Han är en av [Storstugans](storstugan.html) reguljära vägvisare och befinner sig ofta ute på vägarna för att ledsaga betalande resenärer rätt.

@@ -1,3 +1,5 @@
+<title>Stubbasten - Gravsådd</title>
+
 # Stubbasten
 
 Med formen av en gigantisk trädstubbe, 25 meter bred och med en platå nästan 15 meter över marken, utmanar Stubbasten de närmaste trädens höjd. Pjäsen tycks formad ur ett enda stenblock och sidorna är kraftigt beväxta av mossa och klängväxter där insekter och smådjur frodas. Platån ovanpå rymmer fyra byggnader och tjänar som [Gubben Mons](gubben_mons.html) hemvist. En trång passage huggen ur stenen leder upp på utsidan. Hängbroar leder från toppen till plattformar och kojor i de närmaste träden.
@@ -48,5 +50,5 @@ Det är svårt att känna sig välkommen på Stubbasten. Hundarna utgör en stä
 
 ## Första besöket
 
-> När mina spelare nådde Stubbasten hade Mons besök av häxan [Xaye Askmara](xaye_askmara.html). De dividerade som bäst hur de skulle ersätta orchen som tagit jobbet som hjälpreda i utgrävningen av gravröset i norr men nu hämtats hem av sin stam. Mons, som inte förklarar något i onödan, erbjöd rollpersonerna mat och övernattning mot ett ospecificerat dagsverke, vilket de accepterade. De hade tidigare stött på orcherna med rymmlingen från slumpmötestabellen (**s. 179**) och blivit varnade för gravrösen i norr men tänkte inte på att fråga närmare om flyktingen och visste alltså inte vad de gav sig in på.
+> När mina spelare nådde Stubbasten hade Mons besök av häxan [Xaye Askmara](xaye_askmara.html). De dividerade som bäst hur de skulle ersätta orchen som tagit jobbet som hjälpreda i utgrävningen av gravröset i norr men nu hämtats hem av sin stam. Mons, som inte förklarar något i onödan, erbjöd rollpersonerna mat och övernattning mot ett ospecificerat dagsverke, vilket de accepterade. De hade tidigare stött på orcherna med rymmlingen från slumpmöte 3 (**SL-boken s. 144**) och blivit varnade för gravrösen i norr men tänkte inte på att fråga närmare om flyktingen och visste alltså inte vad de gav sig in på.
 

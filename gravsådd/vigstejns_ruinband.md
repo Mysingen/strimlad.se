@@ -1,3 +1,5 @@
+<title>Vigstejns ruinband - Gravsådd</title>
+
 # Vigstejns ruinband
 
 Dvärgariket Vigstejns utbredning har krympt sedan blodsdimman trängde tillbaka dvärgarna till deras hemdomäns kärna. Rikets utkanter kryllar av övergivna och övervuxna strukturer som blivit nya hem åt ljusskygga element och allehanda varelser av mer eller mindre monstruös konstitution. Området är populärt bland skattletare men risken att aldrig ses till igen är påtaglig.

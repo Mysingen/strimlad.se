@@ -1,3 +1,5 @@
+<title>Syskonen Syn - Gravsådd</title>
+
 # Syskonen Syn
 
 Alvsyskonen Syn Dhe och Syn Tikh rådslår [dvärgakungen Göff](kung_göff.html) om allt som rör Drejarens domäner. Drejaren drog även drakar ur dyn och alltså får syskonen Syn lov att även vara experter på det där med [ormen Dron som sover](ässjapott.html#dron-eldslukaren) under magman i [Ässjapott](ässjapott.html). De kommer inte alltid väl över ens med de lärde bland stenfolket men har tjänat riket i några tusen år så det må vara hänt. Deras status är smått mytologisk.

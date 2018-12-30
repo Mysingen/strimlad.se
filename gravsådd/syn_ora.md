@@ -1,3 +1,5 @@
+<title>Syn Ora - Gravsådd</title>
+
 # Syn Ora
 
 Alven Syn Ora insåg att människor är nästan djuriskt lätta att binda till sina passioner men också att konsten ändå är praktiskt svår eftersom den kräver en trovärdig relation med den manipulerade. Principen var redan känd men fann inte mycket användning innan den kaotiska och övertaliga människan gjorde sitt inträde i Ravland.

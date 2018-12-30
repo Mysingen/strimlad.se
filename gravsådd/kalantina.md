@@ -1,3 +1,5 @@
+<title>Kalantinas osaliga ande - Gravsådd</title>
+
 # Kalantinas osaliga ande
 
 Gast enligt bestiariet. Anmoder till [fru Kalina](fru_kalina.html).

@@ -1,3 +1,5 @@
+<title>Tidir - Gravsådd</title>
+
 # Tidir
 
 Karismatisk men farlig och något instabil jägare, kusin och fiende till [Slur](slur.html) samt sökare av kunskap om odöda. God vän med [häxan Xaye](xaye_askmara.html).

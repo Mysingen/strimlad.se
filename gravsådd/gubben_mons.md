@@ -1,3 +1,5 @@
+<title>Gubben Mons - Gravsådd</title>
+
 # Gubben Mons
 
 Gubben Mons är ingift släkt med [Kalina](fru_kalina.html), [Slur](slur.html) och [Tidir](tidir.html) men lever ensam på [Stubbasten](stubbasten.html) sedan hans hustru gått bort. Hans barn, som sedan länge är utflyttade, besöker inte gärna sin gamle far då han är en svår typ med lika långt till skratt som han är full av förebråelser. I övrigt har han inte mycket att säga, utom när [häxan Xaye](xaye_askmara.html) hälsar på och drar med honom i spekulationer om de hädangångnas rike. Till sällskap och försvar har han ett tjugotal hundar som lyder honom i allt. Han försörjer sig på framställning av grövre materiel i trä som han hämtar från skogen. Tyvärr känner han av sin ålder och [drömmer om ett lättare liv](xaye_askmara.html#en-riskabel-plan).

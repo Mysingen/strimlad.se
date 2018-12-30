@@ -1,3 +1,5 @@
+<title>Ässjapott - Gravsådd</title>
+
 # Ässjapott
 
 Vulkanen Ässjapott är inklämd bak andra berg i [Kung Göffs](kung_göff.html) dvärgarike. Få utmostående har därför sett berget med egna ögon. Röken som ibland undslipper vulkanens kägla är däremot ett välkänt fenomen och betraktas som ett omen om stundande och omvälvande förändringar.

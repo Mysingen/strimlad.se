@@ -1,3 +1,5 @@
+<title>Begravningen - Gravsådd</title>
+
 # Begravningen
 
 Mycket löst hållet...
