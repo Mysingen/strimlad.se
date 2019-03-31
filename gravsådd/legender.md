@@ -4,7 +4,7 @@
 
 För referens och egna noteringar.
 
-Alla sidhänvisningar är till Korpens Klagan.
+Alla sidhänvisningar är till **Korpens Klagan**.
 
 ## Stanengist
 
@@ -42,6 +42,8 @@ Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Staneng
 
 **S. 212**: *De eländiska korpsystrarna är kända som ett fridsamt systerskap...*
 
+Bekant med [Rifen Rödnagel](rifen_rödnagel.html) som hon ibland råkar på i [Myggmarsken](myggmarsken.html) när hon letar växter och kryp i träsken.
+
 ## Zertorme
 
 **S. 212**: *Zertorme sägs vara trollkarlen Zygofers egen son...*
@@ -70,6 +72,8 @@ Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Staneng
 
 **S. 214**: *Det sägs att dvärgarna bröt all blåmarmor som fanns att skörda i Korpehåla stenbrott ...*
 
+[Rifen Rödnagel](rifen_rödnagel.html) har ibland vägarna förbi stenbrottet.
+
 ## Eners Pik
 
 **S. 214**: *Det viskas att halvalven Zertorme var en av monstret Zygofers första generaler...*
@@ -77,6 +81,8 @@ Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Staneng
 ## Rosenöga
 
 **S. 215**: *Det glömda landets orcher har sökt sin plats i världen allt sedan de skickades i krig mot människorna...*
+
+[Rifen Rödnagel](rifen_rödnagel.html) känner till platsen och kan peka sökare i rätt riktning.
 
 ## Pelagia
 
