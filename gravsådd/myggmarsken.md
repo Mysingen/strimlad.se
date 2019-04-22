@@ -20,7 +20,8 @@ På södersidan övergår träsket i stäpp med frodigt gräs. Stäppen bebos av
 * Orchen och biodlaren [Kreshnar Söte](#kreshnar-sote).
 * [Sökare](#sokarna) av skapelsens hemligheter, hippies om man så vill, som uppvaktar Samisam.
 * [Ryckarna](#ryckarna); odöda människor som drar ner oförsiktiga resenärer i de djupare vattendragen.
-* [Odal Surt](#resarna), en galen rese som planerar att kidnappa [Hammar Synblödare](#hammar-synblodare) för att skoja med Vargvinarna i Korpehåla.
+* [Odal Surt](#odal-surt), en rese som vill göra sig en hatt av kraniet [Hammar Synblödare](#hammar-synblodare) bor i. Alltid stör det någon. Vargvinarna i Korpehåla t.ex.
+* [Silkestradören](#silkestradoren). Inget träsk utan jättespindlar, inga spindlar utan silke och inget silke utan nasare som gör pengar på det.
 
 ## Växtlighet
 
@@ -85,3 +86,7 @@ Svartalferna har samlat rikedomar från de varelser man offrat till Nattvararen.
 I östra utkanten av [Vigstejns ruinband](vigstejns_ruinband.html), inte långt från Korpehåla, finns ett antal förfallna dvärgiska maskiner som uppskattas av resar på utfärd. Det går inte längre att avgöra vilka syften apparaterna en gång haft då dvärgarna monterat ned och fört med sig alla mindre delar. De stommar och skal som återstår är alla i sten men erbjuder skydd och parkering för sittfläsk åt storvuxna folk.
 
 På ruinernas "bakgård" har Odal och hans kumpaner samlat bråte från sina äventyr, plus en och annan äventyrare som dristat sig för nära skatterna. Olycksaligas kvarlevor attraherar asätare. En flock harpyor är återkommande matgäster. Resarna lägger ut kadaver (oftast från vanliga djur) för att underhålla kontakten. Man är inte särskilt rädda för dem då monstren är för små för att rå på ett gäng råbarkade resar. Resarna hanterar harpyorna som ett farligt nöje för adrenalindårar men får ibland intressant information av odjuren.
+
+## Silkestradören
+
+> Vi har bara sprungit på den här karaktären en gång och vet inte så mycket om den förutom att den har Samisam, Kreshnar och kräsna kunder från Trame i sitt nätverk.
