@@ -32,7 +32,7 @@ Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Staneng
 
 **S. 211**: *Namnet Merigall flyger som en vag skugga med gula ögon över Det glömda landet...*
 
-[Ett av Merigalls barn](släkten_tramahan.html#herind-guloga) räknar Trame som sin hemvist.
+[Ett av Merigalls barn](herind_gulöga.html) räknar Trame som sin hemvist.
 
 ## Krasylla
 

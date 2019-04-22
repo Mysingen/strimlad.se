@@ -12,7 +12,7 @@ Xaye har fattat intresse för ett [gravröse](gravröset.html) norr om [Stubbast
 
 ### Bux & Stanengist
 
-Skulle Xaye förstå [vem gasten egentligen är](gravröset.html#bux-bare-tramahan) så ökar hennes riskbenägenhet av ren iver. Hon vet att *Bestämmaren* samarbetade med en [dvärgisk magiker](börri_skröjare.html). Häxor berättar fortfarande groteska historier om det. Och Bux sägs ha hållit kronan [Stanengist](legender.html#statengist) i sina egna händer...
+Skulle Xaye förstå [vem gasten egentligen är](gravröset.html#bux-bare-tramahan) så ökar hennes riskbenägenhet av ren iver. Hon vet att *Bestämmaren* samarbetade med en [dvärgisk magiker](börri_skröjare.html). Häxor berättar fortfarande groteska historier om det. Och Bux sägs ha hållit kronan [Stanengist](legender.html#stanengist) i sina egna händer...
 
 ## Dessa Tramahan...
 
@@ -20,7 +20,7 @@ Xayes verkliga familjenamn är [Tramahan](släkten_tramahan.html). Häxan har vi
 
 Hennes tidigare liv som respektabel adelsdam blir ibland synligt. Om [Garin och Raffir](kung_göff.html#garin-raffir) ger rollpersoner i uppdrag att återställa [Bux Bares grav](gravröset.html#aterstallning-av-graven) så inkluderar det nödvändigtvis att säkra hjälp av en SYMBOLIST av Trahamans ätt. Xaye kan då (men måste inte) tipsa om [Daras Döderdressare](släkten_tramahan.html#daras-döderdressare). Hon kan även berätta något om spliten som råder mellan de mänskliga och halvalviska förgreningarna av släkten Tramahan.
 
-Xaye har hört talas om [Herind Gulöga](släkten_tramahan.html#herind-gulöga) men vet inte mycket, bara att han för tankarna till legenderna om [Merigalls barn](legender.html#merigall). Hon har inte träffat honom och skulle uppskatta detaljer om denne mystiske man som inblandat sig i ätten Tramahan.
+Xaye har hört talas om [Herind Gulöga](herind_gulöga.html) men vet inte mycket, bara att han för tankarna till legenderna om [Merigalls barn](legender.html#merigall). Hon har inte träffat honom och skulle uppskatta detaljer om denne mystiske man som inblandat sig i ätten Tramahan.
 
 ## Broder Rost
 

@@ -18,9 +18,6 @@ Buximil planerar för sin hädangång och avdelar en betydande del av Trames res
 ## ...
 
 * Tramahans familjegrenar tenderar att baktala varandra, även inför främlingar.
-* Herinds musik lockar djur och fåglar till sig.
-* Om Herind tvingas ut på vägarna kommer han att vilja spendera flera dagar på förberedelser så att han kan ta med sig alla sina instrument, inkl. en stor och tung kejsarharpa.
-* Herind kan lätt få överdådiga drömmar om storslagen publik.
 * Giriga Korpen, Ölande Ödlan.
 * De slingrigare partierna av vägen (stenlagd) till Trame är långa trappsystem där man måste leda riddjur där det bär nedåt. Perfekt för stråtrövare.
 * Rövarbandet xxx
