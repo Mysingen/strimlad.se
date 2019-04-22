@@ -6,7 +6,7 @@ Släkten Tramahan stammar från de älvestamlingar som föddes i Ravland sedan g
 
 ## Buximil Stormare Tramahan
 
-Den ena familjens överhuvud, människan Buximil Stormare, är idag staden Trames starke man och ledare av stadsrådet. Han kallar sig Trames *Bestämmare*, en titel han lånat från Bux Bare Tramahan. Buximils makt hotas av flera saker:
+Den ena familjens överhuvud, människan Buximil Stormare, är idag staden Trames starke man och ledare av stadsrådet. Han kallar sig Trames *Bestämmare*, en titel han inte förstår utan bara lånat från Bux Bare Tramahan för att den ligger bra på tungan. Buximils makt hotas av flera saker:
 
 * Ättens älvestamlingar lever längre och har därmed ett starkare anspråk på kontinuitet. Listigt manövrerande pågår för att säkra att Trames ledning inte överlåts till en ny generation Stormare när Buximil väl dör.
 * Buximils eget gördelmått är rent ohälsosamt och kommer att bli hans död. Se [Begravningen](begravningen.html).
