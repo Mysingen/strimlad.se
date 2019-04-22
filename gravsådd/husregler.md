@@ -4,6 +4,15 @@
 
 Alla sidhänvisningar är till Spelarboken.
 
+## Din äventyrare
+
+### Förbrukningsvaror (s. 36)
+
+**Ändring:**
+T4 ersätter T6 som lägsta resurstärning.
+
+> En rest från alfaversionen av reglerna.
+
 ## Färdigheter
 
 ### Kraftpoäng (s. 44)
