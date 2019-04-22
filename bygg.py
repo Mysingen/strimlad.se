@@ -118,8 +118,8 @@ class LänkLus(HTMLParser):
             return
         if href.startswith('/'):
             return
-        if href.startswith('#'): #fixme
-            return
+        if href.startswith('#'): # länk inom sidan
+            href = self.html_sökväg + href
 
         split = href.split('#', 1)
         sökväg = split[0]
