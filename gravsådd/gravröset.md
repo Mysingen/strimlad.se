@@ -105,8 +105,7 @@ Detta arbete erbjuder mest slag mot STYRKEPROV och HANTVERK. Man behöver dessut
 
 Dvärgarna är pragmatiska och pålästa nog att ta sig an problemen ett åt gången. Svärdet är viktigast, följt av lejandet av en lämplig SYMBOLIST av Tramahans ätt. När man väl har delarna kan man återvända till graven för att utföra grovarbetet.
 
-Garin eller Raffir behärskar STENSÅNG enligt SL's diskretion.
-Sökandet efter ätten Tramahan kan ev. leda till att man övervarar en av medlemmarnas [begravning](begravningen.html).
+Garin eller Raffir behärskar STENSÅNG enligt SL's diskretion. Sökandet efter [ätten Tramahan](släkten_tramahan.html) torde leda till staden [Trame](trame.html).
 
 ### Störningar
 
