@@ -6,7 +6,7 @@ Dvärgariket Vigstejns utbredning har krympt sedan blodsdimman trängde tillbaka
 
 Området är mestadels svårt att färdas i då resterna av dvärgarnas byggnationsprojekt bildar kanjoner och murar där man minst vill finna dem. Ett fåtal utmärkt raka och stenlagda vägar leder visserligen rätt igenom bandet av ruiner men den som färdas på dem skriver eget namn på något vidunders frukostmeny. Vägarna har utposter i form av triumfbågar halvvägs mellan bandets utkant och kungadömets inre domäner.
 
-Några platser bevakas fortfarande av dvärgar på roterande uppdrag. Dessa platser anses så värdefulla att de helt enkelt inte får falla i orätta händer. De antar rätt och slätt att alla som reser i området utan att hålla sig till de större vägarna är inkräktare och skattletare som förtjänar ett par skott från ballistan.
+Några platser bevakas fortfarande av dvärgar på roterande uppdrag. Dessa platser anses så värdefulla att de helt enkelt inte får falla i orätta händer. De antar rätt och slätt att alla som reser i området utan att hålla sig till de större vägarna är inkräktare och skattletare som förtjänar ett par skott från ballistan. ([Börri Skröjares krukmakeri](börri_skröjare.html) är en sådan plats.)
 
 [Kung Göff](kung_göff.html) vill återta och bosätta hela ruinbandet men riksens planering av företaget går långsamt och kantas av gräl om detaljer.
 

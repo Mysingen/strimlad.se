@@ -8,7 +8,11 @@ Tre unga akolyter följer ständigt Xaye. De uthärdar alla ett tystnadslöfte u
 
 ## En riskabel plan
 
-Xaye har fattat intresse för ett [gravröse](gravröset.html) norr om [Stubbasten](stubbasten.html) och gjort gemensam sak med Mons för att gräva ut det. Mons hoppas på rikedomar som låter honom sluta med det tunga skogsarbetet när åldern nu börjar ta ut sin rätt. Med sin lite makabra och ganska cyniska livssyn är han i vart fall fascinerad av Xayes berättelser om tillvaron bortom livet, och om legenden runt härföraren som ska ligga begravd på platsen. Xaye själv vill öka sitt kunnande och sin kraft genom den gast som tycks vaka över graven.
+Xaye har fattat intresse för ett [gravröse](gravröset.html) norr om [Stubbasten](stubbasten.html) och gjort gemensam sak med Mons för att gräva ut det. Mons hoppas på rikedomar som låter honom sluta med det tunga skogsarbetet när åldern nu börjar ta ut sin rätt. Med sin lite makabra och ganska cyniska livssyn är han i vart fall fascinerad av Xayes berättelser om tillvaron bortom livet, och om legenden runt härföraren som ska ligga begravd på platsen. Xaye själv vill öka sitt kunnande och sin kraft genom att samtala med gasten som vakar över graven.
+
+### Bux & Stanengist
+
+Skulle Xaye förstå [vem gasten egentligen är](gravröset.html#bux-bare-tramahan) så ökar hennes riskbenägenhet av ren iver. Hon vet att *Bestämmaren* samarbetade med en [dvärgisk magiker](börri_skröjare.html). Häxor berättar fortfarande groteska historier om det. Och Bux sägs ha hållit kronan [Stanengist](legender.html#statengist) i sina egna händer...
 
 ## Dessa Tramahan...
 
@@ -20,6 +24,8 @@ Xaye har hört talas om [Herind Gulöga](släkten_tramahan.html#herind-gulöga) 
 
 ## Broder Rost
 
-Rostbröderna söker kunskap om demoner genom att studera livet. Xaye söker kunskap om döden genom att studera livet. Finns mån för utbyte? Javisst! Xaye har en lång historia av att utbyta kunnande med [Intendent Mamlin](rostbröder.html#intendent-mamlin). Båda är helare och berömmer sig om att se bortom politiska popularitetstävlingar i sökandet efter högre kunskap (Mamlin är dock även en politisk spelare).
+Rostbröderna söker kunskap om demoner genom att studera livet. Xaye söker kunskap om döden genom att studera livet. Finns mån för utbyte? Javisst! Xaye har en lång historia av att utbyta kunnande med [Intendent Mamlin](rostbröder.html#intendent-mamlin). Båda är helare och berömmer sig om att kunna se bortom politiska popularitetstävlingar i sökandet efter högre kunskap. (Mamlin är samtidigt själv en politisk spelare.)
 
 Ursprungligen var förhållandet mellan häxan och läkaren jämbördigt (och synnerligen hemligt). Ormekyrkans styrka har tilltagit med tiden och Rostbröderna syns allt oftare. Förhållandet har ändrats därefter. Mamlin är fortfarande diskret men förväntar sig nu hjälpsamhet från Xaye utan ersättning. SL kan och bör använda Xaye för att förråda RPnas intressen. (Särskilt så om RPna etablerat en god relation.) Häxan är inte längre en villig deltagare i utbytena med Mamlin men tre ynkliga akolyter är inte mycket att komma med mot väpnaren [Erev](rostbröder.html#riddare-erev). Xaye biter alltså i tungan och säger så lite hon kan när hon har oturen att springa på intendenten.
+
+Xaye känner till något litet om att ett av Börris [Barbeskrin](börri_skröjare.html#barbeskrinet) ska ha tagits till Trame i slutet av alderkrigen. Ingen särskild tanke ägnas detta förrän spelarna listar ut att Mamlin är skrinen på spåren. Xaye blir bekymrad om hon hör detta eftersom silverskatten skulle kunna göra stor skada i Trame om dess båda delar kom i fel händer.

@@ -4,6 +4,13 @@
 
 Alla sidhänvisningar är till Spelarboken.
 
+## Färdigheter
+
+### Kraftpoäng (s. 44)
+
+**Tillägg:**
+Du kan använda kraftpoäng som extra D6 (grundtärning) när du slår eller pressar ett färdighetsslag.
+
 ## Talanger
 
 ### Tjuvens Talanger (s. 69)
@@ -39,8 +46,11 @@ Om du slår en eller flera ![](bane.svg) när du kastar en besvärjelse har du s
 **Ersätter hela stycket:**
 Alla besvärjelser anger ingredienser, föremål som *krävs* för att kasta besvärjelsen. När du har kastat besvärjelsen är ingrediensen förbrukad och kan inte användas igen. Vad som menas med "förbrukad" beror på ingrediensens beskaffenhet. Mer beständiga föremål som t.ex. förstoringsglas behöver rengöras under en dygnsperiod innan de kan användas igen. Enklare ingredienser förbrukas i sin helhet och kan inte återställas. SL avgör.
 
-**Tillägg:**
-Enskilda mynt från hemsökta skatter kan används som ingrediens i vissa mörka besvärljelser. Om detta inte passar din kampanj får du ge rostbröderna något annat intresse för [Kalantinas skatt](kalantina.html).
+### Silverfeber
+
+STENSÅNG (s. 129)
+
+...
 
 ### Blodsband (s. 133)
 
