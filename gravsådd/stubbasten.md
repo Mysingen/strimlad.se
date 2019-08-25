@@ -38,9 +38,9 @@ Det minsta huset är satt i grovt timmer, tätat med tjära och saknar fönster.
 
 Den som lyckas öppna dörren finner att huset helt saknar golv och är byggt runt ett kvadratiskt schakt. Tre spända rep hänger från takstolen ner i djupet. Den som tittar lite närmare tycker att ett av dem rör sig lite. Halar man upp repen bjuds lite olika gåvor:
 
-* Rep ett: Ett mycket tungt schabrak av porslinsrör lagda i hexagonform med ett sjunde rör i mitten. Stålband håller ihop paketet och förgrenar sig i fyra handtag som kan användas för att kånka runt på åbäket. Rören är öppna i ena ändan; I den andra täcker ett knappstrött bakstycke i flottigt gjutgärn hela konstruktionen. En liten slägga är fäst med svångremmar mot stålbanden. Det hela ser ut som ett vapen och mycket riktigt smäller det till rejält om man bankar med släggan bakstyckets knappar. Skröjaren [Börri Mörkbarb](börri_skröjare.html) konstruerade kanonen specifikt för att skada demoner och annat utomvärldsligt knytt. SL kan gott vara rundhänt med artefaktbonusen.
-* Rep två: Ett av Bux Bares återväckta befäl hänger sedan 300 år i fötterna från det längsta repet. Hon är bakbunden, munkavlad, förvirrad och ilsken. Var är *Bestämmaren*?! Hur går kriget?! Hon kan tänkas ha ett maka par av mynten från [Barbeskrinet](börri_skröjare.html#barbeskrinet).
-* Rep tre: Något annat otäckt från [krukmakeriet](börri_skröjare.html#krukmakeriet)...
+* Rep ett: Ett mycket tungt schabrak av porslinsrör lagda i hexagonform med ett sjunde rör i mitten. Stålband håller ihop paketet och förgrenar sig i fyra handtag som kan användas för att kånka runt på åbäket. Rören är öppna i ena ändan; I den andra täcker ett knappstrött bakstycke i flottigt gjutgärn hela konstruktionen. En liten slägga är fäst med svångremmar mot stålbanden. Det hela ser ut som ett vapen och mycket riktigt smäller det till rejält om man bankar med släggan bakstyckets knappar. En [trollkarl](barri_skröjare.html) konstruerade kanonen specifikt för att skada demoner och annat utomvärldsligt knytt. SL kan gott vara rundhänt med artefaktbonusen.
+* Rep två: Ett av Bux Bares återväckta befäl hänger sedan 300 år i fötterna från det längsta repet. Hon är bakbunden, munkavlad, förvirrad och ilsken. Var är *Bestämmaren*?! Hur går kriget?! Hon kan tänkas ha ett maka par av mynten från [Barbeskrinet](barri_skröjare.html#barbeskrinet).
+* Rep tre: Något annat otäckt från [krukmakeriet](barri_skröjare.html#krukmakeriet)...
 
 > En förklaring till det hängmörade befälet kommer när jag själv behöver en.
 

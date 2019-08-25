@@ -22,6 +22,7 @@ På södersidan övergår träsket i stäpp med frodigt gräs. Stäppen bebos av
 * [Ryckarna](#ryckarna); odöda människor som drar ner oförsiktiga resenärer i de djupare vattendragen.
 * [Odal Surt](#odal-surt), en rese som vill göra sig en hatt av kraniet [Hammar Synblödare](#hammar-synblodare) bor i. Alltid stör det någon. Vargvinarna i Korpehåla t.ex.
 * [Silkestradören](#silkestradoren). Inget träsk utan jättespindlar, inga spindlar utan silke och inget silke utan nasare som gör pengar på det.
+* [Barri Skröjare](barri_skröjare.html) sitter fängslad i en dimensionsbubbla på toppen av ett torn i träskets norra utkant, med utsikt över Odal Surts domäner.
 
 ## Växtlighet
 
@@ -51,7 +52,15 @@ Orchen Kreshnar odlar bin i träskets sydöstra utkanter men gör gärna resor i
 
 ## Sökarna
 
-En av de större öarna i Myggmarsken huserar ett semipermanent läger för sökare som finner tillvarons mening med hjälp av markernas psykotropiska grödor. Samisam smickras av den speciella status han åtnjuter bland sökarna och skickar dem gärna på virriga uppdrag, mest för att det roar honom.
+En av de större öarna i Myggmarsken huserar ett semipermanent läger för sökare som finner tillvarons mening med hjälp av markernas psykotropiska grödor. Gruppen består mest av människor och halvalver som gått ner sig i ritualtrummor, drogbruk, yoga och förvirrade idéer om kosmos. Några månader i träskläger gör dem undantagslöst till tämligen sorgliga skepnader. Tänk festivalkamping.
+
+Samisam smickras av den speciella status han åtnjuter bland sökarna och skickar dem gärna på virriga uppdrag, mest för att det roar honom. Han har ingen genuin plats i sitt hjärta för dem och skjuter hela tiden upp lektionerna han lovat i utbyte mot samlandet av svampar och örter.
+
+### Dona Spetsvis
+
+Dona Spetsvis är en halvlingsdruid som hoppas lära sig träskbotanik av Samisam. Till skilnad från de övriga sökarna kan Samisam inte helt ignorera henne då hon ändå är en släkteskusin. Hon är dessutom charmig, söt, stridbar och mycket envis.
+
+Dona är av uppfattningen att de övriga sökarna är ett hinder som gärna kunde elimineras. Samisam vägrar ett ge henne status separat från gruppen. Spelarna kan göra "nytta" här. Det kan även [Rifen Rödnagel](rifen_rödnagel.html) som gillar druiden.
 
 ## Ryckarna
 
