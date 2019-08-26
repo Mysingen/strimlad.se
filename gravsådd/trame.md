@@ -12,7 +12,7 @@ Besökare behöver lejdebevis eller ett giltigt skäl att träffa någon i stade
 
 ![](trame.svg)
 
-### Platser
+## Platser
 
 1. Stora porten. Landsvägen övergår i stenläggning och sluttar sedan nedåt, under och igenom porten. På andra sidan tar bron till huvudön över. Två högre torn ramar in konstruktionen.
 2. En mycket smäcker bro formad ur ett enda stycke vit sten leder från Stora porten till Spiran.
@@ -25,8 +25,9 @@ Besökare behöver lejdebevis eller ett giltigt skäl att träffa någon i stade
 Övriga:
 
 * Giriga Korpen. Värdshus beläget längs försvarsverkets utsida nära stora porten. All handel med utsocknes sker i och kring värdshuset eftersom främlingar utan lejdebevis inte släpps in i Trame.
+* [Ölande Örnen](ölande_örnen.html). Ett schabbigt litet hak på en dagsvandrings avstånd längs huvudvägen i österled.
 
-### Stadsråd
+## Stadsråd
 
 * Buximil
 * [Herind Gulöga](herind_gulöga.html). Ett av Merigalls barn, Sefyrneas älskare, eländ, magikunnig bard och bortskämd odåga.
@@ -34,7 +35,7 @@ Besökare behöver lejdebevis eller ett giltigt skäl att träffa någon i stade
 * Daras Döderdressare, älvestamling som gift in sig i Tramahans släkt. Sköter allt som rör mausoleerna i Trame. Symbolist. Anser Herind vara en odugling som borde försöka bevisa sitt värde.
 * Diverse viktigpettrar ur stadens näringar och försvar.
 
-### Dibromoindigo
+## Dibromoindigo
 
 Indigo kan framställas från vissa växter och vissa snäckor. Med växterna är det i regel ganska lätt och resultatet blir utmärkt. Med snäckorna är det ett förfärligt krånglande och de är dessutom inte alldeles lätta att få tag på. Släkten Tramahan har gjort nyansen till ett hovprivilegium varför den växtbaserade varan verkligen inte duger och är strängt förbjuden i Trame.
 
@@ -44,8 +45,8 @@ Kort och gott:
 * Det färgade tyget stinker initialt av fisk och måste genomgå flera cykler av sköljning och torkning för att betvinga lukten. Den perfekta slutprodukten doftar behagligt av genitalier.
 * Stadens grädda bär vackra mantlar av tyget för att markera sin status.
 
-Staden praktiserar religiösa riter där vanligt folk byter till sig helgade indigotyger mot offergåvor (slaktboskap, avsalugrödor, vin och andra jordbruksprodukter) som de "behöver" för att två sina samveten, rena kroppen efter utslag/menstruation eller be om gudarnas hjälp.
+Staden praktiserar religiösa riter där vanligt folk byter till sig helgade indigotyger mot offergåvor (slaktboskap, avsalugrödor, vin och andra jordbruksprodukter) som de "behöver" för att två sina samveten, rena kroppen efter sjukdom/utslag/menstruation eller be om gudarnas hjälp.
 
-Att [Herind](herind_gulöga.html) tillåts frossa i materialet sticker i ögonen på somliga. Särskilt halvlingarna i den religiösa elit som sköter hela offercirkusen har reagerat på att eländen inte ens verkar förstå vilken betydelse indigo har för stadens "sammanhållning".
+Att [Herind](herind_gulöga.html) tillåts frossa i materialet sticker i ögonen på somliga. Särskilt halvlingarna i den religiösa elit som sköter hela offercirkusen har reagerat på att klenen inte ens verkar förstå vilken betydelse indigo har för stadens "sammanhållning".
 
 > *Dibromo* är en kemisk klassificering av molekyler med vissa egenskaper. Ämnen kan ge färgen indigo utan att vara dibromoföreningar men dessa duger alltså inte i Trame.
