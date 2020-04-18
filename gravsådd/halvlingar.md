@@ -10,7 +10,7 @@ Majoriteten av svartalfter och halvlingar är skägglösa men vissa individer be
 
 Popularitetstävlingar handlar endast om social ranking och *aldrig* om att åstadkomma något av bestående värde. När inget finns att uppnå måste seger vinnas genom att trycka ned medtävlare.
 
-Alla som försöker konkurrera med poptävlare genom att faktiskt göra något utesluts systematiskt. "Vanligt folk" delegeras till en uträttande klass.
+Alla som försöker konkurrera med poptävlare genom att faktiskt göra något utesluts systematiskt. "Vanligt folk" relegeras till en uträttande klass.
 
 Stabila system cirklar runt en central gestalt av nästan ouppnåelig social status, ex. ett majestät eller lagledaren i fotboll.
 
@@ -18,9 +18,9 @@ Stabila system cirklar runt en central gestalt av nästan ouppnåelig social sta
 
 ### Halvlingar
 
-Halvlingar är särskilt förföljda av fenomenet. Systemets vinnare säger sig tala för den populära viljan, eller bara "det populära". Att väljas in i Populasen, en debattgrupp för framstående, är ett vattenmärke för högre anständighet.
+Halvlingar är särskilt förföljda av fenomenet. Systemets vinnare säger sig tala för den populära viljan, eller bara "det populära". Att väljas in i Populasen, en debattgrupp för vinnare, är ett vattenmärke för högre anständighet.
 
-Den uträttande klassen är mycket ovillig att säga emot medlemmar av den populära klassen. Tursamt nog är Populasen för besatt av att göra sig omtyckt för att komma på riktigt sadistiska uppgifter åt de uträttande. Det finns så att säga inget utrymme för systematiskt förtryck utöver själva delningen i klasser.
+Den uträttande klassen är mycket ovillig att säga emot medlemmar av den populära klassen. Tursamt nog är Populasen besatt nog av att göra sig omtyckt för att komma på riktigt sadistiska uppgifter åt de uträttande. Det finns så att säga inget utrymme för systematiskt förtryck utöver själva delningen i klasser.
 
 > Tipz: Låt det vara oklart om "det populära" avser det allmänna eller de som ingår i Populasen.
 
