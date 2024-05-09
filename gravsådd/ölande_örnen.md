@@ -36,4 +36,4 @@ Delar av [Bux Bare Tramahans](gravröset.html#bux-bare-tramahan) armé gick unde
 
 Två befäl återfinns bland de mer ordinära döda. Om de väcks kommer de att söka leda hären vartän de tror att Bux befinner sig. De är intelligenta och inte nödvändigtvis våldsamma men den som vistas i deras närhet tar automatiskt 1 KAR i skada per kvartsdygn p.g.a. obehaget de framkallar.
 
-Sex av mynten från [Barbeskrinet](barri_skröjare.html#barbeskrinet) kan hittas på officerarna. Två av mynten utgör ett äkta par och kan alltså användas direkt för att väcka en nylingen avliden till [tjänst](barri_skröjare.html#mekanism).
+Sex av mynten från [Barbeskrinet](börri_skröjare.html#barbeskrinet) kan hittas på officerarna. Två av mynten utgör ett äkta par och kan alltså användas direkt för att väcka en nylingen avliden till [tjänst](börri_skröjare.html#mekanism).

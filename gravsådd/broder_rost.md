@@ -10,7 +10,7 @@ Rostbröderna är i Gravsådd löst inordnade under dyrkan av Orme i form av en 
 
 Ormkyrkan erbjuder lokala regenter hjälp med legitimitet och allmän ordning mot att kyrkan tillåts eliminera andra trosuppfattningar. Till "allmän ordning" räknas särskilt sådant som gör att vanligt folk stannar på sina gårdar och inte emigrerar ut i det Glömda Landet. Detta forum kallas [Aalgard Majestät](#aalgard-majestat). När vänligt samtal inte fungerar skickas Rostbröderna in för att tala tydligare språk.
 
-Kyrkans långsiktiga mål i kampanjområdet är att konvertera och ta över staden [Trame](trame.html). Man har fått nys om Bux Bare och [Barbeskrinet](barri_skröjare.html#barbeskrinet) via rekrytering till Aalgard Majestät och söker aktivt skatten för att bättra på sin realpolitiska stridbarhet.
+Kyrkans långsiktiga mål i kampanjområdet är att konvertera och ta över staden [Trame](trame.html). Man har fått nys om Bux Bare och [Barbeskrinet](börri_skröjare.html#barbeskrinet) via rekrytering till Aalgard Majestät och söker aktivt skatten för att bättra på sin realpolitiska stridbarhet.
 
 Beskrivningar av kyrkans SLP finns [här](rostbröder.html).
 
@@ -22,7 +22,7 @@ Rostbröderna gillar inte varandra särskilt mycket men är ändå ett väldrill
 
 ## Uppdraget
 
-Gervix och Robilan söker ospecificerat "hemsökta silverskatter" sedan de tutats i av sina överordnade att sådan själslig smuts förargar Orme. Särskilt mynt måste avlägsnas från gravar och föras till Rostbrödernas kloster för rening. De känner inte till [Kalantina](kalantina.html) eller hennes [skatt](barri_skröjare.html#barbeskrinet) utan råkar bara befinna sig i närheten när spelet börjar. De övervakas av [Intendent Mamlin](rostbröder.html#intendent-mamlin) som ibland gör nedslag i deras försök till upptäckter.
+Gervix och Robilan söker ospecificerat "hemsökta silverskatter" sedan de tutats i av sina överordnade att sådan själslig smuts förargar Orme. Särskilt mynt måste avlägsnas från gravar och föras till Rostbrödernas kloster för rening. De känner inte till [Kalantina](kalantina.html) eller hennes [skatt](börri_skröjare.html#barbeskrinet) utan råkar bara befinna sig i närheten när spelet börjar. De övervakas av [Intendent Mamlin](rostbröder.html#intendent-mamlin) som ibland gör nedslag i deras försök till upptäckter.
 
 De två har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [Slur](slur.html), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förstås inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
 

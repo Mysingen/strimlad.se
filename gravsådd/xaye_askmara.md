@@ -12,7 +12,7 @@ Xaye har fattat intresse för ett [gravröse](gravröset.html) norr om [Stubbast
 
 ### Bux & Stanengist
 
-Skulle Xaye förstå [vem gasten egentligen är](gravröset.html#bux-bare-tramahan) så ökar hennes riskbenägenhet av ren iver. Hon vet att *Bestämmaren* samarbetade med en [dvärgisk magiker](barri_skröjare.html). Häxor berättar fortfarande groteska historier om det. Och Bux sägs ha hållit kronan [Stanengist](legender.html#stanengist) i sina egna händer...
+Skulle Xaye förstå [vem gasten egentligen är](gravröset.html#bux-bare-tramahan) så ökar hennes riskbenägenhet av ren iver. Hon vet att *Bestämmaren* samarbetade med en [dvärgisk magiker](börri_skröjare.html). Häxor berättar fortfarande groteska historier om det. Och Bux sägs ha hållit kronan [Stanengist](legender.html#stanengist) i sina egna händer...
 
 ## Dessa Tramahan...
 
@@ -28,4 +28,4 @@ Rostbröderna söker kunskap om demoner genom att studera livet. Xaye söker kun
 
 Ursprungligen var förhållandet mellan häxan och läkaren jämbördigt (och synnerligen hemligt). Ormekyrkans styrka har tilltagit med tiden och Rostbröderna syns allt oftare. Förhållandet har ändrats därefter. Mamlin är fortfarande diskret men förväntar sig nu hjälpsamhet från Xaye utan ersättning. SL kan och bör använda Xaye för att förråda RPnas intressen. (Särskilt så om RPna etablerat en god relation.) Häxan är inte längre en villig deltagare i utbytena med Mamlin men tre ynkliga akolyter är inte mycket att komma med mot väpnaren [Erev](rostbröder.html#riddare-erev). Xaye biter alltså i tungan och säger så lite hon kan när hon har oturen att springa på intendenten.
 
-Xaye känner till något litet om att ett av Barris [Barbeskrin](barri_skröjare.html#barbeskrinet) ska ha tagits till Trame i slutet av alderkrigen. Ingen särskild tanke ägnas detta förrän spelarna listar ut att Mamlin är skrinen på spåren. Xaye blir bekymrad om hon hör detta eftersom silverskatten skulle kunna göra stor skada i Trame om dess båda delar kom i fel händer.
+Xaye känner till något litet om att ett av Börris [Barbeskrin](börri_skröjare.html#barbeskrinet) ska ha tagits till Trame i slutet av alderkrigen. Ingen särskild tanke ägnas detta förrän spelarna listar ut att Mamlin är skrinen på spåren. Xaye blir bekymrad om hon hör detta eftersom silverskatten skulle kunna göra stor skada i Trame om dess båda delar kom i fel händer.
