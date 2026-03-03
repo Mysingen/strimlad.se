@@ -2,7 +2,7 @@
 
 # Kalantinas osaliga ande
 
-Människa och gast enligt bestiariet (**.s 90** SL-boken). Anmoder till [fru Kalina](fru_kalina.html). Kalantina förrådde [Bux Bare Tramahan](gravröset.html#bux-bare-tramahan) genom att stjäla ett [Barbeskrin](börri_skröjare.html#barbeskrinet) och beseglade därmed härförarens öde. Missräkning ledde sedan till att hon törstade ihjäl i ett låst rum med skatten som enda tröst.
+Människa och gast enligt bestiariet (**.s 90** SL-boken). Anmoder till [fru KALINA](fru_kalina.html). Kalantina förrådde [Bux Bare Tramahan](gravröset.html#bux-bare-tramahan) genom att stjäla ett [Barbeskrin](börri_skröjare.html#barbeskrinet) och beseglade därmed härförarens öde. Missräkning ledde sedan till att hon törstade ihjäl i ett låst rum med skatten som enda tröst.
 
 ## Förräderi
 
