@@ -32,7 +32,7 @@ Trots riskerna besöks Örnen för kontakt- och upplysningsmöjligheterna som f�
 
 ## Slagfältet
 
-Delar av [Bux Bare Tramahans](gravröset.html#bux-bare-tramahan) armé gick under här. De kan väckas av den gamle härföraren själv om han skulle slippa ut ur sin grav. [Herind Gulögas musik](herind_gulöga.html) är också ett säkert sätt. (Notera dock att döingarna surnar om Herind slutar spela.)
+Delar av [Bux Bare TRAMAHANS](gravröset.html#bux-bare-tramahan) armé gick under här. De kan väckas av den gamle härföraren själv om han skulle slippa ut ur sin grav. [Herind Gulögas musik](herind_gulöga.html) är också ett säkert sätt. (Notera dock att döingarna surnar om Herind slutar spela.)
 
 Två befäl återfinns bland de mer ordinära döda. Om de väcks kommer de att söka leda hären vartän de tror att Bux befinner sig. De är intelligenta och inte nödvändigtvis våldsamma men den som vistas i deras närhet tar automatiskt 1 KAR i skada per kvartsdygn p.g.a. obehaget de framkallar.
 

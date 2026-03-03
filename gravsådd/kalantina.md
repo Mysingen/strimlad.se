@@ -8,7 +8,7 @@ Människa och gast enligt bestiariet (**.s 90** SL-boken). Anmoder till [fru KAL
 
 Den dvärgiska adepten [Börri](börri_skröjare.html) skämde så ut Vigstejn att något måste göras för att stoppa den tokige krukmakaren. Så tyckte åtminstone hans samtida släktesfränder. Anklagelserna var allvarliga:
 
-* Börri gav Bux Bare Tramahan sitt öppna stöd inför kronans församling och drog därmed in hela kungadömet i ett krig som borde ha begränsats till en mänsklig fråga.
+* Börri gav Bux Bare TRAMAHAN sitt öppna stöd inför kronans församling och drog därmed in hela kungadömet i ett krig som borde ha begränsats till en mänsklig fråga.
 * Börri sysslade med svartkonster och gjorde sina uppfinningar tillgängliga för stenlöst folk.
 * Börris egna intressen i utbytet var nefariösa, i strid med statligt monopol.
 * Börri bröt sedlighetslagar inför en lutblodig (utlänning — Bux) och skämde så ut alla dvärgar.

@@ -2,7 +2,7 @@
 
 # Herind Gulöga
 
-Enligt [legenden om Merigall](legender.html#merigall) vandrar Merigalls gulögda barn över Ravland. Barden Herind är ett sådant. I [Trame](trame.html) fann han ett cornucopia av beundran som räckte ända in i Buximils tronsal. Båda förgreningarna av [släkten Tramahan](släkten_tramahan.html) betraktar honom svartsjukt som "sin" och i stadens heliga bad har han hittat najaden Sefyrnea att leka kärlek med. Alla är inte lika nöjda med den nya ordningen som Herind men han är för självupptagen för att lägga märke till sådant.
+Enligt [legenden om Merigall](legender.html#merigall) vandrar Merigalls gulögda barn över Ravland. Barden Herind är ett sådant. I [Trame](trame.html) fann han ett cornucopia av beundran som räckte ända in i Buximils tronsal. Båda förgreningarna av [släkten TRAMAHAN](släkten_tramahan.html) betraktar honom svartsjukt som "sin" och i stadens heliga bad har han hittat najaden Sefyrnea att leka kärlek med. Alla är inte lika nöjda med den nya ordningen som Herind men han är för självupptagen för att lägga märke till sådant.
 
 Personer som ser Herind sublimeras automatiskt att tänka på honung eller honungsbin. Eftersom han vet detta och tar vara på tillfällen att fördjupa kontakten med sina beundrare bär han allt som oftast med sig små behållare med honung att bjuda på.
 
@@ -23,7 +23,7 @@ Herinds öron inte är toppiga på det typiskt halvalviska viset och han misstas
 
 ## Äventyrskrok
 
-Spelare som försöker hjälpa till att [återställa Bux Bares grav](gravröset.html#aterstallning-av-graven) får nästan automatiskt en anledning att besöka Trame. Gravens inre lås ska, enligt dvärgarna, tecknas av en symbolist av Tramahansk ätt. Trame har en sådan: Mausoleets föreståndare [Daras Döderdressare](släkten_tramahan.html#daras-doderdressare). Kruxet är att dödgrävaren är för sur och överarbetad för att gå med på några utflykter. Istället kan han mena att Herind, som ju också är magiskt kunnig, bör göra något nyttigt för en gångs skull. Att spelarna särskilt bett om en symbolist glömmer man bekvämt bort och tycker sig ha gjort dvärgarna en tjänst genom att skicka någon alls. Att Herind inte är någon Tramahan tycker man kan göra detsamma eftersom barden i praktiken ses som adopterad.
+Spelare som försöker hjälpa till att [återställa Bux Bares grav](gravröset.html#aterstallning-av-graven) får nästan automatiskt en anledning att besöka Trame. Gravens inre lås ska, enligt dvärgarna, tecknas av en symbolist av TRAMAHANSK ätt. Trame har en sådan: Mausoleets föreståndare [Daras Döderdressare](släkten_tramahan.html#daras-doderdressare). Kruxet är att dödgrävaren är för sur och överarbetad för att gå med på några utflykter. Istället kan han mena att Herind, som ju också är magiskt kunnig, bör göra något nyttigt för en gångs skull. Att spelarna särskilt bett om en symbolist glömmer man bekvämt bort och tycker sig ha gjort dvärgarna en tjänst genom att skicka någon alls. Att Herind inte är någon TRAMAHAN tycker man kan göra detsamma eftersom barden i praktiken ses som adopterad.
 
 Om spelarna får med sig Herind istället för Daras så torde allt knävlade till sig rejält. Han ger sig gärna ut på vägarna för att uppträda men har inte pliktkänsla nog att hålla sig till planer givna av andra.
 

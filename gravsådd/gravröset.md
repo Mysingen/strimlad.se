@@ -18,11 +18,11 @@ Rollpersonerna förväntas gå först in i graven för att ta den första smäll
 
 Utanför graven ligger den runsten som tjänade som yttre lås mot de levandes land. Den magi som en gång fanns i den till skydd mot inkräktare har neutraliserats av Xaye men besvärjare kan ännu skönja skuggan av kraften i runans ådror.
 
-BILDNING: Stenen är ristad av människor och bär släkten Tramahans märke. Tramahans anspråk på namnkunnighet går genom den beryktade krigaren Bux Bare, [Bestämmaren](syn_ora.html#om-metaforer), som för hundratals år sedan gjorde gemensam sak med dvärgar för att driva tillbaka Theranias demoniska horder från ett ansatt bergspass. Bux ska ha dött en hjältes död på slagfältet. Är det månne hans grav som samlar mossa här?
+BILDNING: Stenen är ristad av människor och bär släkten TRAMAHANS märke. TRAMAHANS anspråk på namnkunnighet går genom den beryktade krigaren Bux Bare, [Bestämmaren](syn_ora.html#om-metaforer), som för hundratals år sedan gjorde gemensam sak med dvärgar för att driva tillbaka Theranias demoniska horder från ett ansatt bergspass. Bux ska ha dött en hjältes död på slagfältet. Är det månne hans grav som samlar mossa här?
 
 ### Raset
 
-Gravkumlet har satt sig något med tiden och när den yttre porten forcerades försvann stödet som höll gången innanför uppe. Graven har rasat ihop på en linje utifrån och in mot mitten. Någon har börjat röja ut nedfallen sten och satt in träbalkar för att hindra sidorna från att rasa in i det nyblidade tomrummet. Virket är tämligen färskt. Oanvända balkar ligger i en prydlig stapel vid sidan om.
+Gravkumlet har satt sig något med tiden och när den yttre porten forcerades försvann stödet som höll gången innanför uppe. Graven har rasat ihop på en linje utifrån och in mot mitten. Någon har börjat röja ut nedfallen sten och satt in träbalkar för att hindra sidorna från att rasa in i det nybildade tomrummet. Virket är tämligen färskt. Oanvända balkar ligger i en prydlig stapel vid sidan om.
 
 ### Att ta sig in
 
@@ -54,13 +54,13 @@ Bortom det inre låset finns ett murat halvklotsformat rum. I dess centrum trona
 
 Bux Bare, Bestämmaren, tog sitt vapen med sig på den sista resan. Det är ett vackert format bredsvärd med silverinläggningar i bladet och en svart onyx till svärdsknapp. Vapnet är inte magiskt men har VAPENBONUS T8.
 
-Vapen och skida bär släkten Tramahans insignia. Det kan identifieras med BILDNING. Dvärgar med anknytning till området slår med +2.
+Vapen och skida bär släkten TRAMAHANS insignia. Det kan identifieras med BILDNING. Dvärgar med anknytning till området slår med +2.
 
 ## Bux Bare Tramahan
 
 Kanske är det *Bestämmarens* brutala bortgång som ligger bakom. Kanske är det oönskade sidoeffekter av besvärjelserna som lagts över hans grav. I vilket fall går Bux igen som GAST (**s. 150**).
 
-En besvärjare som behärskar TALA MED DÖD kan försöka MANIPULERA den döde till stillnad och samtal. Detta är åtmintone [häxan Xayes](xaye_askmara.html) plan för att öka på sitt kunnande om både dödsriket och tiden då Bux Bestämmaren var i livet. Om hon är med vid öppnandet av graven är hon beredd att oskadliggöra skyddande magi men vill på inga villkor att gasten fördrivs. Hon har tidigare gjort försök att kommunicera med gasten nattetid, utanför graven, men funnit det svårt att MANIPULERA den då dess aktivitet är högre vilket gör den svårmästrad.
+En besvärjare som behärskar TALA MED DÖD kan försöka MANIPULERA den döde till stillnad och samtal. Detta är åtminstone [häxan Xayes](xaye_askmara.html) plan för att öka på sitt kunnande om både dödsriket och tiden då Bux Bestämmaren var i livet. Om hon är med vid öppnandet av graven är hon beredd att oskadliggöra skyddande magi men vill på inga villkor att gasten fördrivs. Hon har tidigare gjort försök att kommunicera med gasten nattetid, utanför graven, men funnit det svårt att MANIPULERA den då dess aktivitet är högre vilket gör den svårmästrad.
 
 ### Nattetid
 
@@ -100,12 +100,12 @@ Detta arbete erbjuder mest slag mot STYRKEPROV och HANTVERK. Man behöver dessut
 * Återställ kammaren och gravstenen om dessa tagit skada.
 * Återställ det inre låset. Detta är med största sannolikhet fullständigt förstört p.g.a. gravens försvarsmekanism. Dess magi bör återställas av en dvärg som behärskar STENSÅNG.
 * Återställ gången in i kumlet.
-* Återställ det yttre låset. Stenen ligger kvar på marken sedan Xaye och Mons avlägsnade den men dess magi behöver läggas om av en människa, av Tramahans ätt, som behärskar SYMBOLISM.
+* Återställ det yttre låset. Stenen ligger kvar på marken sedan Xaye och Mons avlägsnade den men dess magi behöver läggas om av en människa, av TRAMAHANS ätt, som behärskar SYMBOLISM.
 * Städa upp och snygga till.
 
-Dvärgarna är pragmatiska och pålästa nog att ta sig an problemen ett åt gången. Svärdet är viktigast, följt av lejandet av en lämplig SYMBOLIST av Tramahans ätt. När man väl har delarna kan man återvända till graven för att utföra grovarbetet.
+Dvärgarna är pragmatiska och pålästa nog att ta sig an problemen ett åt gången. Svärdet är viktigast, följt av lejandet av en lämplig SYMBOLIST av TRAMAHANS ätt. När man väl har delarna kan man återvända till graven för att utföra grovarbetet.
 
-Garin eller Raffir behärskar STENSÅNG enligt SL's diskretion. Sökandet efter [ätten Tramahan](släkten_tramahan.html) torde leda till staden [Trame](trame.html).
+Garin eller Raffir behärskar STENSÅNG enligt SL's diskretion. Sökandet efter [ätten TRAMAHAN](släkten_tramahan.html) torde leda till staden [Trame](trame.html).
 
 ### Störningar
 

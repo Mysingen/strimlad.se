@@ -24,7 +24,7 @@ BILDNING (krävande): Myntens runor är stämplade med dvärgisk precision men �
 
 ### Bakgrund
 
-Börri behövde hjälp av de döda för att studera de levande enligt alvernas anvisningar. Att vanhedra avlidna dvärgar på detta sätt var möjligen *tänkbart* för den ambitiöse magikern men i praktiken helt ogörligt. De irriterande människorna ägnades däremot inte sådana tillsyn och fanns dessutom i myllrande mängder. När [Bux Bare Tramahan](gravröset.html#bux-bare-tramahan) för tredje gången vädjade till Vigstejns bergakung om hjälp mot "ormdyrkarnas" korståg inställde sig Börri och drog därmed in hela riket i människornas krig. Väl i tjänst saknades aldrig kroppar att arbeta med och det är därför Barbeskrinets mynt bara fungerar på släkten i vars ådror människoblod flyter.
+Börri behövde hjälp av de döda för att studera de levande enligt alvernas anvisningar. Att vanhedra avlidna dvärgar på detta sätt var möjligen *tänkbart* för den ambitiöse magikern men i praktiken helt ogörligt. De irriterande människorna ägnades däremot inte sådana tillsyn och fanns dessutom i myllrande mängder. När [Bux Bare TRAMAHAN](gravröset.html#bux-bare-tramahan) för tredje gången vädjade till Vigstejns bergakung om hjälp mot "ormdyrkarnas" korståg inställde sig Börri och drog därmed in hela riket i människornas krig. Väl i tjänst saknades aldrig kroppar att arbeta med och det är därför Barbeskrinets mynt bara fungerar på släkten i vars ådror människoblod flyter.
 
 > Det var Börri som introducerade Bux till konceptet om *Bestämmare* och förmedlade kontakten mellan Trameättlingen och Synerna.
 

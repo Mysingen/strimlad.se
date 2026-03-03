@@ -4,7 +4,7 @@
 
 Mycket löst hållet...
 
-En stor person, med imponerande gördelmått, av Tramahans ätt, ligger på dödsbädden och sänder, i sitt storhetsvansinne, meddelanden till "likvärdiga" om det förstående slutet och festen som hör till.
+En stor person, med imponerande gördelmått, av TRAMAHANS ätt, ligger på dödsbädden och sänder, i sitt storhetsvansinne, meddelanden till "likvärdiga" om det förstående slutet och festen som hör till.
 
 Garin & Raffir har intresse i familjens lösöre som, vad de vet, innehåller delar av samma skatt som [Kalantina](kalantina.html) tagit med sig i graven. Ett tillfälle att rätta till ett gammalt misstag?
 

@@ -31,13 +31,13 @@ Besökare behöver lejdebevis eller ett giltigt skäl att träffa någon i stade
 
 * Buximil
 * [Herind Gulöga](herind_gulöga.html). Ett av Merigalls barn, Sefyrneas älskare, eländ, magikunnig bard och bortskämd odåga.
-* Druiden Amarmara Tramahan, människa. Ogillar Gulöga för dennes relation med Sefyrnea som hon önskar företräda ensam.
-* Daras Döderdressare, älvestamling som gift in sig i Tramahans släkt. Sköter allt som rör mausoleerna i Trame. Symbolist. Anser Herind vara en odugling som borde försöka bevisa sitt värde.
+* Druiden Amarmara TRAMAHAN, människa. Ogillar Gulöga för dennes relation med Sefyrnea som hon önskar företräda ensam.
+* Daras Döderdressare, älvestamling som gift in sig i TRAMAHANS släkt. Sköter allt som rör mausoleerna i Trame. Symbolist. Anser Herind vara en odugling som borde försöka bevisa sitt värde.
 * Diverse viktigpettrar ur stadens näringar och försvar.
 
 ## Dibromoindigo
 
-Indigo kan framställas från vissa växter och vissa snäckor. Med växterna är det i regel ganska lätt och resultatet blir utmärkt. Med snäckorna är det ett förfärligt krånglande och de är dessutom inte alldeles lätta att få tag på. Släkten Tramahan har gjort nyansen till ett hovprivilegium varför den växtbaserade varan verkligen inte duger och är strängt förbjuden i Trame.
+Indigo kan framställas från vissa växter och vissa snäckor. Med växterna är det i regel ganska lätt och resultatet blir utmärkt. Med snäckorna är det ett förfärligt krånglande och de är dessutom inte alldeles lätta att få tag på. Släkten TRAMAHAN har gjort nyansen till ett hovprivilegium varför den växtbaserade varan verkligen inte duger och är strängt förbjuden i Trame.
 
 Kort och gott:
 
