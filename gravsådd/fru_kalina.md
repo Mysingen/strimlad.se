@@ -2,7 +2,7 @@
 
 Ägare och föreståndare av värdshuset [Storstugan](storstugan.html). KALINA är en matrona av rang som inte är rädd att tillgripa våld mot stökiga gäster. Hennes öga för affärer är osvikligt varför SL alltid bör ge spelare det snålast möjliga erbjudande som de ändå inte kan tacka nej till.
 
-> Mina spelare antog uppdraget att söka upp Slur mot en ersättning av några fattiga resurstärningar mat och en skvätt sprit.
+> Mina spelare antog uppdraget att söka upp SLUR mot en ersättning av några fattiga resurstärningar mat och en skvätt sprit.
 
 KALINA är väl medveten om sin anmoder [Kalantinas](kalantina.html) hemsökelse av dräneringen under vägkorset utanför men kommer näppeligen att nämna detta bekymmer utan starka skäl. Den osaliga anden hemsöker förvisso värdshusets källare på vintersolståndets natt men detta är görligt att dölja för obehöriga. Hemligheten är alltså tills vidare bevarad.
 

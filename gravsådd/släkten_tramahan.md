@@ -21,7 +21,7 @@ Buximil planerar för sin hädangång och avdelar en betydande del av Trames res
 * Giriga Korpen, Ölande Ödlan.
 * De slingrigare partierna av vägen (stenlagd) till Trame är långa trappsystem där man måste leda riddjur där det bär nedåt. Perfekt för stråtrövare.
 * Rövarbandet xxx
-* Var tog överläkaren vägen? Xaye mötte dem på vägen till Trame och RPna tjuvlyssnade på deras samtal. hon förväntades lämna information och berättade om Slurs vilja att bärga en hemsökt silverskatt.
+* Var tog överläkaren vägen? Xaye mötte dem på vägen till Trame och RPna tjuvlyssnade på deras samtal. hon förväntades lämna information och berättade om SLURS vilja att bärga en hemsökt silverskatt.
 * Xaye är av ätten Tramahan (människorna) men slängdes ut pga sina livsval och har bara rykteskontakt med dem. Möter ibland andra medlemmar men aldrig inne i Trame, som hon inte besöker.
 
 > Spelarnas plan: Övertala familjen Tramahan att skicka en symbolist för att stänga Bux gravs yttre lås (Garin & Raffir kan ta hand om allt annat) och förespegla att detta kunde hjälpa till att återetablera en god relation med Vigstejn. De behöver ju stensångare.

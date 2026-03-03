@@ -4,7 +4,7 @@
 
 ## Gervix
 
-Gervix är en fåfäng och snacksalig typ, utrustad med tillräckligt mycket arrogans för att sätta yxan i båten då och då. Han har den smått korkade vanan att föra dagbok över sina uppdrag som rostbroder då han inbillar sig vara en mästerdetektiv som kan härleda större sammanhang ur strödda detaljer. I boken återfinner man alltså hela historien om varför rostbröderna söker en skatt, att man pinohört bybor om Slur, etc. Boken ger BILDNING +1 i frågor om Rostbröderna.
+Gervix är en fåfäng och snacksalig typ, utrustad med tillräckligt mycket arrogans för att sätta yxan i båten då och då. Han har den smått korkade vanan att föra dagbok över sina uppdrag som rostbroder då han inbillar sig vara en mästerdetektiv som kan härleda större sammanhang ur strödda detaljer. I boken återfinner man alltså hela historien om varför rostbröderna söker en skatt, att man pinohört bybor om SLUR, etc. Boken ger BILDNING +1 i frågor om Rostbröderna.
 
 Gervix känner sig otrygg med att sova under bar himmel men föredrar att framställa sig som en person med lite mer raffinerade vanor. Alltså reser han sitt tält (som bara rymmer honom) och tar sysslan att SLÅ LÄGER vid övernattningar i det fria.
 

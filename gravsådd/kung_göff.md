@@ -8,21 +8,21 @@ Annorlunda är det med [rådgivarna Syn](syskonen_syn.html). Alvsyskonens ovanli
 
 ## Garin & Raffir
 
-Det faller på Garin och Raffir att ta emot [Slur](slur.html) när han dyker upp med sitt oanständiga förslag att göra gemensam sak för att bärga [Kalantinas skatt](kalantina.html).
+Det faller på Garin och Raffir att ta emot [SLUR](slur.html) när han dyker upp med sitt oanständiga förslag att göra gemensam sak för att bärga [Kalantinas skatt](kalantina.html).
 
-Det är inte första gången på senare tid som hemsökta skatter traktas av utbölingar. Garin och Raffir har ansvar för skydd och underhåll av ett antal gamla gravar som de helst skulle se lämnas orörda. Kalantinas skatt är det dessutom annorlunda med då den utgör en [skamfläck](börri_skröjare.html) som verkligen borde återbördas och glömmas bort bak ett rejält lås. Den har varit förlorad under 300 år och dvärgarna är beredda att göra signifikanta ansträngningar för att återfå den. Detta vet förstås Slur inget om och antar att silverfeber alena ska räcka för att göra dvärgarna samarbetsvilliga. Det stämmer dock att vägkorset vid [Storstugan](storstugan.html) är dvärgiskt hantverk och att stenfolkets medverkan skulle kunna ha avgörande betydelse för att erövra graven inunder.
+Det är inte första gången på senare tid som hemsökta skatter traktas av utbölingar. Garin och Raffir har ansvar för skydd och underhåll av ett antal gamla gravar som de helst skulle se lämnas orörda. Kalantinas skatt är det dessutom annorlunda med då den utgör en [skamfläck](börri_skröjare.html) som verkligen borde återbördas och glömmas bort bak ett rejält lås. Den har varit förlorad under 300 år och dvärgarna är beredda att göra signifikanta ansträngningar för att återfå den. Detta vet förstås SLUR inget om och antar att silverfeber alena ska räcka för att göra dvärgarna samarbetsvilliga. Det stämmer dock att vägkorset vid [Storstugan](storstugan.html) är dvärgiskt hantverk och att stenfolkets medverkan skulle kunna ha avgörande betydelse för att erövra graven inunder.
 
-Garin och Raffir erbjuder belöning mot information om skattens placering men Slur tror sig hålla på att bli lurad. Förhandlingar inleds sålunda.
+Garin och Raffir erbjuder belöning mot information om skattens placering men SLUR tror sig hålla på att bli lurad. Förhandlingar inleds sålunda.
 
 ### Intrånget i graven
 
-Medan förhandlingar pågår klämtar [intrångslarmet i Bux Bares grav](gravröset.html#vad-hander-sedan) varpå dvärgarna befinner sig i åtagsknipa. Hantera Slur eller ge sig av för att åtgärda problemet?
+Medan förhandlingar pågår klämtar [intrångslarmet i Bux Bares grav](gravröset.html#vad-hander-sedan) varpå dvärgarna befinner sig i åtagsknipa. Hantera SLUR eller ge sig av för att åtgärda problemet?
 
-* Ge sig av med Slur i släptåg.
-* Ge sig av och överlämna Slur i syskonen Syns vårdnad. Alverna [påstår sig förstå människor](syskonen_syn.html#slur), så varför störa Göff med detta?
-* Låta sig övertygas av Slur att han förstår människoarv och därför är sällsynt väl [lämpad att leda expeditionen](slur.html#narrativ-funktion).
+* Ge sig av med SLUR i släptåg.
+* Ge sig av och överlämna SLUR i syskonen Syns vårdnad. Alverna [påstår sig förstå människor](syskonen_syn.html#slur), så varför störa Göff med detta?
+* Låta sig övertygas av SLUR att han förstår människoarv och därför är sällsynt väl [lämpad att leda expeditionen](slur.html#narrativ-funktion).
 
-> SL väljer det alternativ som passar kampanjen bäst, så klart. Det kan vara effektfullt att låta Slur dyka upp i sällskap av mycket bestämda dvärgar som kräver Bux Bares svärd tillbaka samtidigt som [Slur utlovar rikedom och berömmelse](slur.html#narrativ-funktion) om de bara gör dvärgarna till viljes.
+> SL väljer det alternativ som passar kampanjen bäst, så klart. Det kan vara effektfullt att låta SLUR dyka upp i sällskap av mycket bestämda dvärgar som kräver Bux Bares svärd tillbaka samtidigt som [SLUR utlovar rikedom och berömmelse](slur.html#narrativ-funktion) om de bara gör dvärgarna till viljes.
 
 ## Besökare
 

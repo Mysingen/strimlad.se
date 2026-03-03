@@ -24,11 +24,11 @@ Rostbröderna gillar inte varandra särskilt mycket men är ändå ett väldrill
 
 Gervix och Robilan söker ospecificerat "hemsökta silverskatter" sedan de tutats i av sina överordnade att sådan själslig smuts förargar Orme. Särskilt mynt måste avlägsnas från gravar och föras till Rostbrödernas kloster för rening. De känner inte till [Kalantina](kalantina.html) eller hennes [skatt](börri_skröjare.html#barbeskrinet) utan råkar bara befinna sig i närheten när spelet börjar. De övervakas av [Intendent Mamlin](rostbröder.html#intendent-mamlin) som ibland gör nedslag i deras försök till upptäckter.
 
-De två har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [Slur](slur.html), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förstås inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
+De två har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [SLUR](slur.html), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förstås inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
 
 ## Vigstejn
 
-Rostbröderna vet att de inte är välkomna i Vigstejn och att de förväntas hålla sig till de stora, raka vägarna om de till äventyrs ändå skulle färdas i [ruinbandet](vigstejns_ruinband.html). Skulle de förfölja Slur eller RPna i denna riktning så vet de att de inte blir insläppta i riket även om de håller sig till dessa vägar. Så varför riskera något? Det går lika bra att vänta tills de kommer tillbaka samma väg.
+Rostbröderna vet att de inte är välkomna i Vigstejn och att de förväntas hålla sig till de stora, raka vägarna om de till äventyrs ändå skulle färdas i [ruinbandet](vigstejns_ruinband.html). Skulle de förfölja SLUR eller RPna i denna riktning så vet de att de inte blir insläppta i riket även om de håller sig till dessa vägar. Så varför riskera något? Det går lika bra att vänta tills de kommer tillbaka samma väg.
 
 ## Aalgard Majestät
 
