@@ -9,7 +9,7 @@ Herinds öron inte är toppiga på det typiskt halvalviska viset och han misstas
 ## Stats
 
 **Släkte:** Klen
-**Yrke:** Skald (nivå 3), Druid (nivå 2 VARSEBLIVNING)
+**Yrke:** Skald (nivå 3), Druid (nivå 3 VARSEBLIVNING)
 **Grundegenskaper:** STY 2, SMI 4, INT 2, KAR 6
 **Färdigheter & talanger:** Lämpliga. Kan något om biodling.
 **Utseende:** Hellenistiskt välformad och blondlockig. Har rundade öron som en människa. Honungsgyllene ögon.
