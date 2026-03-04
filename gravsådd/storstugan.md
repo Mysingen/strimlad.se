@@ -18,7 +18,7 @@ Uttråkade drängar från området, nasare som sökt sig till en marknad någons
 
 Behovet av vägvisare är alltid stort i det glömda landet. KALINAS son [SLUR](slur.html) är en sådan. Hans tjänster är nu hett eftertraktade men själv står han inte att finna.
 
-På förfrågan kan KALINA förklara att SLUR sannolikt befinner sig hos [Gubben Mons](gubben_mons.html), hennes brors svågers far, som håller till i skogarna nordväst om vägkorset. KALINA oroar sig för att SLURS kusin och ärkerival [Tidir](tidir.html) ska hitta honom där. Tidir anlände till värdshuset under ovädret, i väpnat sällskap, och krävde att få göra upp med SLUR. När det stod klart att SLUR befann sig på annan ort lämnade sällskapet Storstugan och KALINA gissar att de till slut kommer på tanken att söka SLUR hos Gubben Mons. Det vore värt en belöning att få fram en varning och gärna en eskort hem därtill.
+På förfrågan kan KALINA förklara att SLUR sannolikt befinner sig hos [GUBBEN MONS](gubben_mons.html), hennes brors svågers far, som håller till i skogarna nordväst om vägkorset. KALINA oroar sig för att SLURS kusin och ärkerival [Tidir](tidir.html) ska hitta honom där. Tidir anlände till värdshuset under ovädret, i väpnat sällskap, och krävde att få göra upp med SLUR. När det stod klart att SLUR befann sig på annan ort lämnade sällskapet Storstugan och KALINA gissar att de till slut kommer på tanken att söka SLUR hos GUBBEN MONS. Det vore värt en belöning att få fram en varning och gärna en eskort hem därtill.
 
 > Tipz: SL kan för nöjes skull slänga in någon annan vägvisare åt spelarna att tävla om med andra gäster på värdshuset. De måste i så fall ändå förlora budgivningen för att ha ett motiv att hitta SLUR.
 

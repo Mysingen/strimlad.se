@@ -6,11 +6,11 @@ En timme norr om [Stubbasten](stubbasten.html) finns fyra gravrösen på en ås 
 
 ## Graven
 
-Det största av rösena hade en gång en korridor som länkade in- och utsida, tillbommad med en rejäl runsten i var ända. Gången har rasat in sedan [Gubben Mons](gubben_mons.html) och [Xaye Askmara](xaye_askmara.html) försökt ta sig in. De vet dock var den inre dörren befinner sig bakom rasmassorna och går i funderingar om [hur de ska ta sig in](xaye_askmara.html#en-riskabel-plan). Den äventyrslystna orch de anlitat för grovjobbet [hämtades hem av sin klan](stubbasten.html#forsta-besoket) och lär inte synas till igen.
+Det största av rösena hade en gång en korridor som länkade in- och utsida, tillbommad med en rejäl runsten i var ända. Gången har rasat in sedan [GUBBEN MONS](gubben_mons.html) och [Xaye Askmara](xaye_askmara.html) försökt ta sig in. De vet dock var den inre dörren befinner sig bakom rasmassorna och går i funderingar om [hur de ska ta sig in](xaye_askmara.html#en-riskabel-plan). Den äventyrslystna orch de anlitat för grovjobbet [hämtades hem av sin klan](stubbasten.html#forsta-besoket) och lär inte synas till igen.
 
 ### "Samarbete"
 
-Om Mons nyttjar hjälp av rollpersonerna så ser han till att backa upp sina krav med sina hundar. Med subtila kommandon kan Mons få dem att bete sig hotfullt eller gå till angrepp. Använd värden för VARG, **s. 155**.
+Om MONS nyttjar hjälp av rollpersonerna så ser han till att backa upp sina krav med sina hundar. Med subtila kommandon kan MONS få dem att bete sig hotfullt eller gå till angrepp. Använd värden för VARG, **s. 155**.
 
 Rollpersonerna förväntas gå först in i graven för att ta den första smällen av ett möte med Bux sedan det inre låset forcerats.
 
@@ -66,13 +66,13 @@ En besvärjare som behärskar TALA MED DÖD kan försöka MANIPULERA den döde t
 
 Det är inte rekommenderat att bevista gravarna nattetid då Bux gast kan röra sig friare och hemsöka hela området. Tänk på att en gast är svart som natten och kan vara mycket svår att se när den smyger på inkräktare.
 
-Komplikationer bör uppstå om röjningsarbetet sinkas och man fortfarande inte är klara när mörkret sänker sig. Xaye och Mons känner väl till farorna men ser ingen anledning att berätta något om det inte är alldeles nödvändigt.
+Komplikationer bör uppstå om röjningsarbetet sinkas och man fortfarande inte är klara när mörkret sänker sig. Xaye och MONS känner väl till farorna men ser ingen anledning att berätta något om det inte är alldeles nödvändigt.
 
 ## Vad händer sedan?
 
 När det inre låsets magi utlöses klämtar en klocka hos [ättlingarna till de dvärgar](kung_göff.html) som en gång hjälpte till med begravningen av Bux Bare, Bergabrodern. Eftersom anfädernas konung svurit att skydda hjältens sista viloplats är det bara att ge sig ut för att återställa ordningen. Ett löfte är ett löfte.
 
-> I vår kampanj passade sällskapets tjuv på att knycka Bux svärd i tumultet som uppstod vid öppnandet av graven. Gruppens druid förhäxade några av Mons hundar till att attackera sin husse och de lyckades fördriva gasten snabbare än Xaye hann agera. Xaye är alltså både missnöjd och misstänksam eftersom samtalet med gasten nu helt gått om intet och Bux svärd inte stod att finna (gömt i en myrstack). För att bre på eländet är Mons i dåligt skick efter att ha blivit hundbiten tre gånger. En bräcklig allians formades för att få skoghuggaren hem och omhändertagen samtidigt som gruppens blodsmagiker hoppas på framtida lärdomsutbyten med häxan. Det ska inte vara lätt...
+> I vår kampanj passade sällskapets tjuv på att knycka Bux svärd i tumultet som uppstod vid öppnandet av graven. Gruppens druid förhäxade några av MONS hundar till att attackera sin husse och de lyckades fördriva gasten snabbare än Xaye hann agera. Xaye är alltså både missnöjd och misstänksam eftersom samtalet med gasten nu helt gått om intet och Bux svärd inte stod att finna (gömt i en myrstack). För att bre på eländet är MONS i dåligt skick efter att ha blivit hundbiten tre gånger. En bräcklig allians formades för att få skoghuggaren hem och omhändertagen samtidigt som gruppens blodsmagiker hoppas på framtida lärdomsutbyten med häxan. Det ska inte vara lätt...
 
 ## Återställning av graven
 
@@ -100,7 +100,7 @@ Detta arbete erbjuder mest slag mot STYRKEPROV och HANTVERK. Man behöver dessut
 * Återställ kammaren och gravstenen om dessa tagit skada.
 * Återställ det inre låset. Detta är med största sannolikhet fullständigt förstört p.g.a. gravens försvarsmekanism. Dess magi bör återställas av en dvärg som behärskar STENSÅNG.
 * Återställ gången in i kumlet.
-* Återställ det yttre låset. Stenen ligger kvar på marken sedan Xaye och Mons avlägsnade den men dess magi behöver läggas om av en människa, av TRAMAHANS ätt, som behärskar SYMBOLISM.
+* Återställ det yttre låset. Stenen ligger kvar på marken sedan Xaye och MONS avlägsnade den men dess magi behöver läggas om av en människa, av TRAMAHANS ätt, som behärskar SYMBOLISM.
 * Städa upp och snygga till.
 
 Dvärgarna är pragmatiska och pålästa nog att ta sig an problemen ett åt gången. Svärdet är viktigast, följt av lejandet av en lämplig SYMBOLIST av TRAMAHANS ätt. När man väl har delarna kan man återvända till graven för att utföra grovarbetet.

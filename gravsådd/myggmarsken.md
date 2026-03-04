@@ -64,7 +64,7 @@ Dona är av uppfattningen att de övriga sökarna är ett hinder som gärna kund
 
 ## Ryckarna
 
-Dessa odöda soldater sorterade under [Bux Bare Tramahan](gravröset.html#bux-bare-tramahan) i Alderkrigens slutskede. Kompaniet separerades från *Bestämmarens* armé, gick vilse och sedan under när de flydde undan en fiendehord i [Vigstejns utkanter](vigstejns_ruinband.html). Varelserna rör sig över bottnarna av de större vattendragen och gör ibland exkursioner upp på land för att röva bort oförsiktiga resenärer. Blandade skatter från offren är samlade i krypin under mangroveträdens rötter.
+Dessa odöda soldater sorterade under [Bux Bare TRAMAHAN](gravröset.html#bux-bare-tramahan) i Alderkrigens slutskede. Kompaniet separerades från *Bestämmarens* armé, gick vilse och sedan under när de flydde undan en fiendehord i [Vigstejns utkanter](vigstejns_ruinband.html). Varelserna rör sig över bottnarna av de större vattendragen och gör ibland exkursioner upp på land för att röva bort oförsiktiga resenärer. Blandade skatter från offren är samlade i krypin under mangroveträdens rötter.
 
 Myggmarskens svartalfer försöker eliminera Ryckarna, som i sin tur växer i antal genom rov, vilket gjort dem till en tämligen heterogen grupp. Skaran utgörs ändå huvudsakligen av människor.
 

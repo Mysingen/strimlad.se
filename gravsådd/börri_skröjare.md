@@ -12,7 +12,7 @@ När blodsdimman nådde Vigstejn gick adepten ut i natten och försvann. Ingen s
 
 Adeptens krukmakeri förseglades när [Vigstejn evakuerades](vigstejns_ruinband.html) och sägs ruva på en mörk arsenal. Sant är i vart fall att fastigheten ligger i [Harkernas rike](kung_göff.html) och bevakas noga av en permanent Ruinvakt. Man frågar aldrig efter ärende utan skjuter helt enkelt okända som närmar sig lokalerna. (Okända dvärgar ges ett varningsskott och en högröstad uppmaning att vända om.)
 
-Otrevliga manicker från Börris keramikverkstad kan återfinnas lite här och där. T.ex. har [Gubben Mons](gubben_mons.html) två artefakter i sin "kista" på [Stubbasten](stubbasten.html#kistan).
+Otrevliga manicker från Börris keramikverkstad kan återfinnas lite här och där. T.ex. har [GUBBEN MONS](gubben_mons.html) två artefakter i sin "kista" på [Stubbasten](stubbasten.html#kistan).
 
 ## Barbeskrinet
 
