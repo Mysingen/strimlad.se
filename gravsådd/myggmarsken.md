@@ -22,7 +22,7 @@ På södersidan övergår träsket i stäpp med frodigt gräs. Stäppen bebos av
 * [Ryckarna](#ryckarna); odöda människor som drar ner oförsiktiga resenärer i de djupare vattendragen.
 * [Odal Surt](#odal-surt), en rese som vill göra sig en hatt av kraniet [Hammar Synblödare](#hammar-synblodare) bor i. Alltid stör det någon. Vargvinarna i Korpehåla t.ex.
 * [Silkestradören](#silkestradoren). Inget träsk utan jättespindlar, inga spindlar utan silke och inget silke utan nasare som gör pengar på det.
-* [Barri Skröjare](börri_skröjare.html) sitter fängslad i en dimensionsbubbla på toppen av ett torn i träskets norra utkant, med utsikt över Odal Surts domäner.
+* [BÖRRI SKRÖJARE](börri_skröjare.html) sitter fängslad i en dimensionsbubbla på toppen av ett torn i träskets norra utkant, med utsikt över Odal Surts domäner.
 
 ## Växtlighet
 

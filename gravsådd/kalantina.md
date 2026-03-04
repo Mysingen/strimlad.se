@@ -6,20 +6,20 @@ Människa och gast enligt bestiariet (**.s 90** SL-boken). Anmoder till [fru KAL
 
 ## Förräderi
 
-Den dvärgiska adepten [Börri](börri_skröjare.html) skämde så ut Vigstejn att något måste göras för att stoppa den tokige krukmakaren. Så tyckte åtminstone hans samtida släktesfränder. Anklagelserna var allvarliga:
+Den dvärgiska adepten [BÖRRI](börri_skröjare.html) skämde så ut Vigstejn att något måste göras för att stoppa den tokige krukmakaren. Så tyckte åtminstone hans samtida släktesfränder. Anklagelserna var allvarliga:
 
-* Börri gav Bux Bare TRAMAHAN sitt öppna stöd inför kronans församling och drog därmed in hela kungadömet i ett krig som borde ha begränsats till en mänsklig fråga.
-* Börri sysslade med svartkonster och gjorde sina uppfinningar tillgängliga för stenlöst folk.
-* Börris egna intressen i utbytet var nefariösa, i strid med statligt monopol.
-* Börri bröt sedlighetslagar inför en lutblodig (utlänning — Bux) och skämde så ut alla dvärgar.
+* BÖRRI gav Bux Bare TRAMAHAN sitt öppna stöd inför kronans församling och drog därmed in hela kungadömet i ett krig som borde ha begränsats till en mänsklig fråga.
+* BÖRRI sysslade med svartkonster och gjorde sina uppfinningar tillgängliga för stenlöst folk.
+* BÖRRIS egna intressen i utbytet var nefariösa, i strid med statligt monopol.
+* BÖRRI bröt sedlighetslagar inför en lutblodig (utlänning — Bux) och skämde så ut alla dvärgar.
 
 > Det ska inte vara lätt...
 
-Kung Grimdug av Vigstejn saknade den äldre, bekvämare ordningen att idka handel med Trame och låtsas som att människorna *inte* var den svagare parten i en kladdig konflikt med själva helvetets horder. Enligt dogmatisk revisionistlogik återgick tillståndet automatiskt till det som rådde före Börris trasslande om stödpunkterna för händelseutvecklingen avlägsnades i god ordning:
+Kung Grimdug av Vigstejn saknade den äldre, bekvämare ordningen att idka handel med Trame och låtsas som att människorna *inte* var den svagare parten i en kladdig konflikt med själva helvetets horder. Enligt dogmatisk revisionistlogik återgick tillståndet automatiskt till det som rådde före BÖRRI trasslande om stödpunkterna för händelseutvecklingen avlägsnades i god ordning:
 
-1. Lys Börri fredlös för otrohet mot kronan.
+1. Lys BÖRRI fredlös för otrohet mot kronan.
 2. Staten går inte i krig av lojalitet till en fredlös. Eftersom den utlösande faktorn invaliderats kan alla beslut som motiverats av denna faktor ogiltigförklaras.
-3. Nyp Börris artefakter från Bux när ingen tittar.
+3. Nyp BÖRRIS artefakter från Bux när ingen tittar.
 4. Återkalla det militära stödet som givits Trame då det visat sig vara illegitimt.
 5. Kriget är nu per administrativt faktum en exklusivt mänsklig affär.
 6. Njut av god handel med ett ständigt rustande Trame
