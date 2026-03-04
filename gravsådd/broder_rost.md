@@ -10,7 +10,7 @@ Rostbröderna är i Gravsådd löst inordnade under dyrkan av Orme i form av en 
 
 Ormkyrkan erbjuder lokala regenter hjälp med legitimitet och allmän ordning mot att kyrkan tillåts eliminera andra trosuppfattningar. Till "allmän ordning" räknas särskilt sådant som gör att vanligt folk stannar på sina gårdar och inte emigrerar ut i det Glömda Landet. Detta forum kallas [Aalgard Majestät](#aalgard-majestat). När vänligt samtal inte fungerar skickas Rostbröderna in för att tala tydligare språk.
 
-Kyrkans långsiktiga mål i kampanjområdet är att konvertera och ta över staden [Trame](trame.html). Man har fått nys om Bux Bare och [Barbeskrinet](börri_skröjare.html#barbeskrinet) via rekrytering till Aalgard Majestät och söker aktivt skatten för att bättra på sin realpolitiska stridbarhet.
+Kyrkans långsiktiga mål i kampanjområdet är att konvertera och ta över staden [TRAME](trame.html). Man har fått nys om Bux Bare och [Barbeskrinet](börri_skröjare.html#barbeskrinet) via rekrytering till Aalgard Majestät och söker aktivt skatten för att bättra på sin realpolitiska stridbarhet.
 
 Beskrivningar av kyrkans SLP finns [här](rostbröder.html).
 

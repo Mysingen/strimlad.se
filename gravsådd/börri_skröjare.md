@@ -18,7 +18,7 @@ Under alderkrigens slutskede tillverkade BÖRRI en militär artefakt som gav hon
 
 BILDNING (normal): Mynten och vad de användes till är kända från legenden om Bux Bare, *Bestämmaren*.
 
-BILDNING (krävande): Myntens runor är stämplade med dvärgisk precision men är tagna ur det skrivsystem som används i [Trame](trame.html) och har mänskligt ursprung.
+BILDNING (krävande): Myntens runor är stämplade med dvärgisk precision men är tagna ur det skrivsystem som används i [TRAME](trame.html) och har mänskligt ursprung.
 
 ### Bakgrund
 
@@ -38,6 +38,6 @@ Användaren av ett myntpar kan ange en tjänstlösen när den döde väcks. Om v
 
 [Kalantina](kalantina.html) stal skattens ena skrin från Bux och saboterade därmed hela funktionen. Bestämmarens sista strid stundade och [Storstugans](storstugan.html) giriga madam gömde sig undan förföljare i tunnelsystemet bortom värdshuset. Blodsdimman nådde landsändan samma natt varpå ingen kom för att ta rovet tillbaka. Kalantina försmäktade av törst efter att ha låst in sig lite för väl i sin gömma och hennes ande vaktar fortfarande över skrinet.
 
-Efter förlusten av Bestämmaren och det mesta av hans styrkor fördes det återstående skrinet till Trame där det låstes in i väntan på matnyttig information om hur det eventuellt ännu kunde göra nytta. Sedan dess har det mestadels glömts bort.
+Efter förlusten av Bestämmaren och det mesta av hans styrkor fördes det återstående skrinet till TRAME där det låstes in i väntan på matnyttig information om hur det eventuellt ännu kunde göra nytta. Sedan dess har det mestadels glömts bort.
 
 Bux närmaste lydande befäl anförtroddes maka par av mynten för användning i akuta lägen. Ett litet antal sådana par går därför att hitta i det fria om man har turen eller oturen att gräva upp ett av bestämmarens gamla garden.

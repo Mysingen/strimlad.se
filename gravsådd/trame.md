@@ -1,8 +1,6 @@
-<title>Trame - Gravsådd</title>
-
 # Trame
 
-Staden Trame är belägen på öar i ett floddelta omgivet av branta höjder. Bortom öarna störtar floden, Dåraforsen, i ett mäktigt vattenfall. Man livnär sig på fiske och jordbruk. De större jordbruken är förlagda till höjderna bortom staden men öarna rymmer tillräckligt med åkerplättar för att försörja staden i händelse av belägring. Med sitt tusental innevånare är Trame en koloss i Ravland.
+Staden TRAME är belägen på öar i ett floddelta omgivet av branta höjder. Bortom öarna störtar floden, Dåraforsen, i ett mäktigt vattenfall. Man livnär sig på fiske och jordbruk. De större jordbruken är förlagda till höjderna bortom staden men öarna rymmer tillräckligt med åkerplättar för att försörja staden i händelse av belägring. Med sitt tusental innevånare är TRAME en koloss i Ravland.
 
 Höjderna runt deltat kantas av befästningsverk uppförda med hjälp av dvärgar från Vigstejn och uppvisar tydliga tecken på att ha formats med stensång. En onaturligt smäcker stenbro förbinder ett lika onaturligt högt och smäckert torn på huvudön med befästningsverket på höjderna.
 
@@ -24,7 +22,7 @@ Besökare behöver lejdebevis eller ett giltigt skäl att träffa någon i stade
 
 Övriga:
 
-* Giriga Korpen. Värdshus beläget längs försvarsverkets utsida nära stora porten. All handel med utsocknes sker i och kring värdshuset eftersom främlingar utan lejdebevis inte släpps in i Trame.
+* Giriga Korpen. Värdshus beläget längs försvarsverkets utsida nära stora porten. All handel med utsocknes sker i och kring värdshuset eftersom främlingar utan lejdebevis inte släpps in i TRAME.
 * [Ölande Örnen](ölande_örnen.html). Ett schabbigt litet hak på en dagsvandrings avstånd längs huvudvägen i österled.
 
 ## Stadsråd
@@ -32,12 +30,12 @@ Besökare behöver lejdebevis eller ett giltigt skäl att träffa någon i stade
 * Buximil
 * [Herind Gulöga](herind_gulöga.html). Ett av Merigalls barn, Sefyrneas älskare, eländ, magikunnig bard och bortskämd odåga.
 * Druiden Amarmara TRAMAHAN, människa. Ogillar Gulöga för dennes relation med Sefyrnea som hon önskar företräda ensam.
-* Daras Döderdressare, älvestamling som gift in sig i TRAMAHANS släkt. Sköter allt som rör mausoleerna i Trame. Symbolist. Anser Herind vara en odugling som borde försöka bevisa sitt värde.
+* Daras Döderdressare, älvestamling som gift in sig i TRAMAHANS släkt. Sköter allt som rör mausoleerna i TRAME. Symbolist. Anser Herind vara en odugling som borde försöka bevisa sitt värde.
 * Diverse viktigpettrar ur stadens näringar och försvar.
 
 ## Dibromoindigo
 
-Indigo kan framställas från vissa växter och vissa snäckor. Med växterna är det i regel ganska lätt och resultatet blir utmärkt. Med snäckorna är det ett förfärligt krånglande och de är dessutom inte alldeles lätta att få tag på. Släkten TRAMAHAN har gjort nyansen till ett hovprivilegium varför den växtbaserade varan verkligen inte duger och är strängt förbjuden i Trame.
+Indigo kan framställas från vissa växter och vissa snäckor. Med växterna är det i regel ganska lätt och resultatet blir utmärkt. Med snäckorna är det ett förfärligt krånglande och de är dessutom inte alldeles lätta att få tag på. Släkten TRAMAHAN har gjort nyansen till ett hovprivilegium varför den växtbaserade varan verkligen inte duger och är strängt förbjuden i TRAME.
 
 Kort och gott:
 
@@ -49,4 +47,4 @@ Staden praktiserar religiösa riter där vanligt folk byter till sig helgade ind
 
 Att [Herind](herind_gulöga.html) tillåts frossa i materialet sticker i ögonen på somliga. Särskilt halvlingarna i den religiösa elit som sköter hela offercirkusen har reagerat på att klenen inte ens verkar förstå vilken betydelse indigo har för stadens "sammanhållning".
 
-> *Dibromo* är en kemisk klassificering av molekyler med vissa egenskaper. Ämnen kan ge färgen indigo utan att vara dibromoföreningar men dessa duger alltså inte i Trame.
+> *Dibromo* är en kemisk klassificering av molekyler med vissa egenskaper. Ämnen kan ge färgen indigo utan att vara dibromoföreningar men dessa duger alltså inte i TRAME.

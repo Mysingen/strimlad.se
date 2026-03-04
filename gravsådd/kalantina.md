@@ -15,14 +15,14 @@ Den dvärgiska adepten [BÖRRI](börri_skröjare.html) skämde så ut Vigstejn a
 
 > Det ska inte vara lätt...
 
-Kung Grimdug av Vigstejn saknade den äldre, bekvämare ordningen att idka handel med Trame och låtsas som att människorna *inte* var den svagare parten i en kladdig konflikt med själva helvetets horder. Enligt dogmatisk revisionistlogik återgick tillståndet automatiskt till det som rådde före BÖRRI trasslande om stödpunkterna för händelseutvecklingen avlägsnades i god ordning:
+Kung Grimdug av Vigstejn saknade den äldre, bekvämare ordningen att idka handel med TRAME och låtsas som att människorna *inte* var den svagare parten i en kladdig konflikt med själva helvetets horder. Enligt dogmatisk revisionistlogik återgick tillståndet automatiskt till det som rådde före BÖRRI trasslande om stödpunkterna för händelseutvecklingen avlägsnades i god ordning:
 
 1. Lys BÖRRI fredlös för otrohet mot kronan.
 2. Staten går inte i krig av lojalitet till en fredlös. Eftersom den utlösande faktorn invaliderats kan alla beslut som motiverats av denna faktor ogiltigförklaras.
 3. Nyp BÖRRIS artefakter från Bux när ingen tittar.
-4. Återkalla det militära stödet som givits Trame då det visat sig vara illegitimt.
+4. Återkalla det militära stödet som givits TRAME då det visat sig vara illegitimt.
 5. Kriget är nu per administrativt faktum en exklusivt mänsklig affär.
-6. Njut av god handel med ett ständigt rustande Trame
+6. Njut av god handel med ett ständigt rustande TRAME
 
 > ... men önsketänkande kan hjälpa avsevärt.
 
@@ -32,7 +32,7 @@ Allt gick nu inte riktigt som det var tänkt;
 
 * Kalantina fick bara med sig skrinets ena del.
 * Bux genomskådade sveket men gick ändå ut i batalj (sin sista) då inget annat fanns att göra.
-* Skrinets återstående del försvann diskret till Trame när ingen tittade.
+* Skrinets återstående del försvann diskret till TRAME när ingen tittade.
 * Massiv panikångest (halvgjort jobb, besvärjelsens baksmälla) drev Kalantina att fly och försvinna med sin halva av skatten.
 
 ## Skattens placering

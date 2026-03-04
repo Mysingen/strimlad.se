@@ -2,7 +2,7 @@
 
 # Ölande Örnen
 
-Detta jämmerhak ligger strategiskt placerat mitt emellan [Trame](trame.html) och [Vigstejn](vigstejns_ruinband.html). En dagsmarch tar resenären till endera destinationen. Komforten är i gengäld hånfull:
+Detta jämmerhak ligger strategiskt placerat mitt emellan [TRAME](trame.html) och [Vigstejn](vigstejns_ruinband.html). En dagsmarch tar resenären till endera destinationen. Komforten är i gengäld hånfull:
 
 * Otrevlig, våldsbenägen ägare (man & människa)
 * Hutlösa priser

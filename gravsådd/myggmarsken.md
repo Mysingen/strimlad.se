@@ -98,4 +98,4 @@ På ruinernas "bakgård" har Odal och hans kumpaner samlat bråte från sina äv
 
 ## Silkestradören
 
-> Vi har bara sprungit på den här karaktären en gång och vet inte så mycket om den förutom att den har Samisam, Kreshnar och kräsna kunder från Trame i sitt nätverk.
+> Vi har bara sprungit på den här karaktären en gång och vet inte så mycket om den förutom att den har Samisam, Kreshnar och kräsna kunder från TRAME i sitt nätverk.
