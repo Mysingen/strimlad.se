@@ -1,6 +1,6 @@
 # Ässjapott
 
-Vulkanen ÄSSJAPOTT är inklämd bak andra berg i [Kung Göffs](kung_göff.html) dvärgarike. Få utoMstående har därför sett berget med egna ögon. Röken som ibland undslipper vulkanens kägla är däremot ett välkänt fenomen och betraktas som ett omen om stundande och omvälvande förändringar.
+Vulkanen ÄSSJAPOTT är inklämd bak andra berg i [Kung GÖFFS](kung_göff.html) dvärgarike. Få utoMstående har därför sett berget med egna ögon. Röken som ibland undslipper vulkanens kägla är däremot ett välkänt fenomen och betraktas som ett omen om stundande och omvälvande förändringar.
 
 BILDNING (normal): Vulkanens förra rejäla utbrott sammanföll med krigen mot människorna i Ravland och gynnade Therania.
 

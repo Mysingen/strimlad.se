@@ -78,7 +78,7 @@ När det inre låsets magi utlöses klämtar en klocka hos [ättlingarna till de
 
 Detta är ett uppdrag som RPna kan råka på i [Vigstejn](kung_göff.html), särskilt om de besöker [Syskonen Syn](syskonen_syn.html#uppdrag-at-aventyrare). Det förutsätts att Bux svärd har tagits från graven så att äventyret kan handla om att spåra tjuven snarare än att stapla tunga stenar i prydliga rader.
 
-RPna behöver ha sällskap av [Garin & Raffir](kung_göff.html#garin-raffir), gärna även [SLUR](slur.html) som expeditionsledare, ceremoniellt utsedd av Kung Göff själv. I annat fall får SL vara egen dräng och anpassa.
+RPna behöver ha sällskap av [Garin & Raffir](kung_göff.html#garin-raffir), gärna även [SLUR](slur.html) som expeditionsledare, ceremoniellt utsedd av Kung GÖFF själv. I annat fall får SL vara egen dräng och anpassa.
 
 ### Gasten
 

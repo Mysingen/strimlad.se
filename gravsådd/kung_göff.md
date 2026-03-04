@@ -1,10 +1,8 @@
-<title>Kung Göff av Vigstejn - Gravsådd</title>
-
 # Kung Göff av Vigstejn
 
-Kung Göff av Harkernas ätt regerar dvärgariket Vigstejn i norr. Missnöjd är han med sin lott. Helst skulle han se sina gamla dryckes- och vapenbröder Garin och Raffir bland sina närmaste rådgivare och föreståndare. Urgamla turordningsregler och meritokratiska system vill annorlunda. Riksens faktiska rådgivare och disponenter tråkar ut honom med myopiska detaljplaner som aldrig tycks klarna nog för faktiska genomföranden. Han drömmer om att personligen leda det bosättningsprojekt som ska återinviga [Vigstejns ruinband](vigstejns_ruinband.html) i rikets hägn.
+Kung GÖFF av Harkernas ätt regerar dvärgariket Vigstejn i norr. Missnöjd är han med sin lott. Helst skulle han se sina gamla dryckes- och vapenbröder Garin och Raffir bland sina närmaste rådgivare och föreståndare. Urgamla turordningsregler och meritokratiska system vill annorlunda. Riksens faktiska rådgivare och disponenter tråkar ut honom med myopiska detaljplaner som aldrig tycks klarna nog för faktiska genomföranden. Han drömmer om att personligen leda det bosättningsprojekt som ska återinviga [Vigstejns ruinband](vigstejns_ruinband.html) i rikets hägn.
 
-Annorlunda är det med [rådgivarna Syn](syskonen_syn.html). Alvsyskonens ovanliga disposition och märkliga resomenang om Drejaren retar kungens nyfikenhet. Samtidigt räds Göff alvernas smått obegripliga kynne och undrar hur mycket lojalitet man egentligen kan räkna med från en odödlig varelse.
+Annorlunda är det med [rådgivarna Syn](syskonen_syn.html). Alvsyskonens ovanliga disposition och märkliga resomenang om Drejaren retar kungens nyfikenhet. Samtidigt räds GÖFF alvernas smått obegripliga kynne och undrar hur mycket lojalitet man egentligen kan räkna med från en odödlig varelse.
 
 ## Garin & Raffir
 
@@ -19,7 +17,7 @@ Garin och Raffir erbjuder belöning mot information om skattens placering men SL
 Medan förhandlingar pågår klämtar [intrångslarmet i Bux Bares grav](gravröset.html#vad-hander-sedan) varpå dvärgarna befinner sig i åtagsknipa. Hantera SLUR eller ge sig av för att åtgärda problemet?
 
 * Ge sig av med SLUR i släptåg.
-* Ge sig av och överlämna SLUR i syskonen Syns vårdnad. Alverna [påstår sig förstå människor](syskonen_syn.html#slur), så varför störa Göff med detta?
+* Ge sig av och överlämna SLUR i syskonen Syns vårdnad. Alverna [påstår sig förstå människor](syskonen_syn.html#slur), så varför störa GÖFF med detta?
 * Låta sig övertygas av SLUR att han förstår människoarv och därför är sällsynt väl [lämpad att leda expeditionen](slur.html#narrativ-funktion).
 
 > SL väljer det alternativ som passar kampanjen bäst, så klart. Det kan vara effektfullt att låta SLUR dyka upp i sällskap av mycket bestämda dvärgar som kräver Bux Bares svärd tillbaka samtidigt som [SLUR utlovar rikedom och berömmelse](slur.html#narrativ-funktion) om de bara gör dvärgarna till viljes.
