@@ -2,7 +2,7 @@
 
 # Tidir
 
-Karismatisk men farlig och något instabil jägare, kusin och fiende till [SLUR](slur.html) samt sökare av kunskap om odöda. God vän med [häxan Xaye](xaye_askmara.html).
+Karismatisk men farlig och något instabil jägare, kusin och fiende till [SLUR](slur.html) samt sökare av kunskap om odöda. God vän med [häxan XAYE](xaye_askmara.html).
 
 ## Fejden
 

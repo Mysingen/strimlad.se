@@ -58,5 +58,5 @@ Det är svårt att känna sig välkommen på Stubbasten. Hundarna utgör en stä
 
 ## Första besöket
 
-> När mina spelare nådde Stubbasten hade MONS besök av häxan [Xaye Askmara](xaye_askmara.html). De dividerade som bäst hur de skulle ersätta orchen som tagit jobbet som hjälpreda i utgrävningen av gravröset i norr men nu hämtats hem av sin stam. MONS, som inte förklarar något i onödan, erbjöd rollpersonerna mat och övernattning mot ett ospecificerat dagsverke, vilket de accepterade. De hade tidigare stött på orcherna med rymmlingen från slumpmöte 3 (**SL-boken s. 144**) och blivit varnade för gravrösen i norr men tänkte inte på att fråga närmare om flyktingen och visste alltså inte vad de gav sig in på.
+> När mina spelare nådde Stubbasten hade MONS besök av häxan [XAYE ASKMARA](xaye_askmara.html). De dividerade som bäst hur de skulle ersätta orchen som tagit jobbet som hjälpreda i utgrävningen av gravröset i norr men nu hämtats hem av sin stam. MONS, som inte förklarar något i onödan, erbjöd rollpersonerna mat och övernattning mot ett ospecificerat dagsverke, vilket de accepterade. De hade tidigare stött på orcherna med rymmlingen från slumpmöte 3 (**SL-boken s. 144**) och blivit varnade för gravrösen i norr men tänkte inte på att fråga närmare om flyktingen och visste alltså inte vad de gav sig in på.
 

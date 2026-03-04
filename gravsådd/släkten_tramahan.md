@@ -19,8 +19,8 @@ Buximil planerar för sin hädangång och avdelar en betydande del av Trames res
 * Giriga Korpen, Ölande Ödlan.
 * De slingrigare partierna av vägen (stenlagd) till Trame är långa trappsystem där man måste leda riddjur där det bär nedåt. Perfekt för stråtrövare.
 * Rövarbandet xxx
-* Var tog överläkaren vägen? Xaye mötte dem på vägen till Trame och RPna tjuvlyssnade på deras samtal. hon förväntades lämna information och berättade om SLURS vilja att bärga en hemsökt silverskatt.
-* Xaye är av ätten TRAMAHAN (människorna) men slängdes ut pga sina livsval och har bara rykteskontakt med dem. Möter ibland andra medlemmar men aldrig inne i Trame, som hon inte besöker.
+* Var tog överläkaren vägen? XAYE mötte dem på vägen till Trame och RPna tjuvlyssnade på deras samtal. hon förväntades lämna information och berättade om SLURS vilja att bärga en hemsökt silverskatt.
+* XAYE är av ätten TRAMAHAN (människorna) men slängdes ut pga sina livsval och har bara rykteskontakt med dem. Möter ibland andra medlemmar men aldrig inne i Trame, som hon inte besöker.
 
 > Spelarnas plan: Övertala familjen TRAMAHAN att skicka en symbolist för att stänga Bux gravs yttre lås (Garin & Raffir kan ta hand om allt annat) och förespegla att detta kunde hjälpa till att återetablera en god relation med Vigstejn. De behöver ju stensångare.
-> De behöver nu få Herind att stänga graven lite lagom illa så att Xaye kan prata med Bux (som hon tror har information om Stanengist, som han i livet påstod sig ha hållit i sina egna händer), samtidigt som dvärgarna blir nöjda. Herind tror sig få spela för Göff och Syskonen Syn om han hjälper till. Buximil anser sig kunna kräva en gentjänst från Vigstejn för sin hjälpsamhet (att skicka ut Herind).
+> De behöver nu få Herind att stänga graven lite lagom illa så att XAYE kan prata med Bux (som hon tror har information om Stanengist, som han i livet påstod sig ha hållit i sina egna händer), samtidigt som dvärgarna blir nöjda. Herind tror sig få spela för Göff och Syskonen Syn om han hjälper till. Buximil anser sig kunna kräva en gentjänst från Vigstejn för sin hjälpsamhet (att skicka ut Herind).
