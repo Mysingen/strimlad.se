@@ -98,41 +98,41 @@ Dolk, kortsvärd, nitläderrustning, öppen hjälm, sadel, ridhäst (märkt med 
 
 ## Intendent Mamlin
 
-Intendenten och helaren (nivå 3) Mamlin bereser Rostbrödernas utmarker i sällskap av den tystlåtne riddaren Erev. Den senare är en fullblodig våldsverkare i helrustning, komplett med stridshammare och ansiktet ständigt dolt bak järnmask. Mamlin benämner Erev slarvigt som sin "väpnare". Vad Erev anser om detta vet sannolikt ingen annan men hittills har han varit oantastligt lojal mot sin orden och Mamlin.
+Intendenten och helaren (nivå 3) MAMLIN bereser Rostbrödernas utmarker i sällskap av den tystlåtne riddaren Erev. Den senare är en fullblodig våldsverkare i helrustning, komplett med stridshammare och ansiktet ständigt dolt bak järnmask. MAMLIN benämner Erev slarvigt som sin "väpnare". Vad Erev anser om detta vet sannolikt ingen annan men hittills har han varit oantastligt lojal mot sin orden och MAMLIN.
 
 De två plockar förr eller senare upp spåret efter Gervix och Robilan och bestämmer sig för att ta kommandot över deras skattjakt.
 
-Mamlin undviker strid. Hon ogillar beteendet och förstår att det inte ökar kyrkans attraktionskraft på vanligt folk. Om/när RPna anmärker att de jagas av rostbröderna på märkliga grunder förebrår hon dem för att ha skapat situationen själva.
+MAMLIN undviker strid. Hon ogillar beteendet och förstår att det inte ökar kyrkans attraktionskraft på vanligt folk. Om/när RPna anmärker att de jagas av rostbröderna på märkliga grunder förebrår hon dem för att ha skapat situationen själva.
 
-> Mamlin och Erev fungerar delvis som backup och kan t.ex. ÅTERUPPVÄCKA Gervix och Robilan om de skulle trilla av pinn i onödan. Särskilt Erev bör vara en ytterst farlig motståndare som inte sätts in fullt ut mot rollpersonerna förrän tiden är mogen.
+> MAMLIN och Erev fungerar delvis som backup och kan t.ex. ÅTERUPPVÄCKA Gervix och Robilan om de skulle trilla av pinn i onödan. Särskilt Erev bör vara en ytterst farlig motståndare som inte sätts in fullt ut mot rollpersonerna förrän tiden är mogen.
 
 ### Maktspel
 
-Se [Aalgard Majestät](broder_rost.html#aalgard-majestat). Mamlin har makt i Ormkyrkan. Hon använder sin följedemonen för att befästa sig själv som Sista Uttydare av Rättgång.
+Se [Aalgard Majestät](broder_rost.html#aalgard-majestat). MAMLIN har makt i Ormkyrkan. Hon använder sin följedemonen för att befästa sig själv som Sista Uttydare av Rättgång.
 
-[Syskonen Syn](syskonen_syn.html) skulle benämna Mamlin "överläkare" om de fick höra talas om henne.
+[Syskonen Syn](syskonen_syn.html) skulle benämna MAMLIN "överläkare" om de fick höra talas om henne.
 
 ### Demoniskt inflytande
 
-En demon följer Mamlin i eterisk form. Den skulle inte missa en Rättegång hos Aalgard Majestät för allt i världen. I dessa sammanhang släpps den fram för att bättra på bilden av Orme som domargud. Med stöd av sektens bönfallande pipanden kan demonen spinna skepnader av röd dimma som skrämmer mässodeltagarna på ett roande sätt. Kvällens höjdpunkt är alltid det rituella offretmordet vilket låter varelsen frossa i skräck och lidande.
+En demon följer MAMLIN i eterisk form. Den skulle inte missa en Rättegång hos Aalgard Majestät för allt i världen. I dessa sammanhang släpps den fram för att bättra på bilden av Orme som domargud. Med stöd av sektens bönfallande pipanden kan demonen spinna skepnader av röd dimma som skrämmer mässodeltagarna på ett roande sätt. Kvällens höjdpunkt är alltid det rituella offretmordet vilket låter varelsen frossa i skräck och lidande.
 
-Mamlin bekymrar sig över att demonen börjat ta människooffer för givet och även växt i styrka. Håller hon på att tappa kontrollen över sin falska gudabild? Skulle den vinna egen röst eller starkare fysisk form månne månget börja gå agurk.
+MAMLIN bekymrar sig över att demonen börjat ta människooffer för givet och även växt i styrka. Håller hon på att tappa kontrollen över sin falska gudabild? Skulle den vinna egen röst eller starkare fysisk form månne månget börja gå agurk.
 
-Demonens målsättning är att ta permanent fysisk form. Tills vidare kan den bara hålla fysisk form så länge Mamlin leder en ceremoni. Nästa delmål är därför att ta över Mamlin.
+Demonens målsättning är att ta permanent fysisk form. Tills vidare kan den bara hålla fysisk form så länge MAMLIN leder en ceremoni. Nästa delmål är därför att ta över MAMLIN.
 
 Notera att demonens dimma inte är blodsdimma och att trassel kan uppstå i händelse av möte med den verkliga varan.
 
 ### Legender
 
-Mamlin kan känna till åtskilliga legender men särskilt de om [Stanengist](legender.html#stanengist) och [Zertorme](legender.html#zertorme).
+MAMLIN kan känna till åtskilliga legender men särskilt de om [Stanengist](legender.html#stanengist) och [Zertorme](legender.html#zertorme).
 
-Eftersom Mamlin utgår från [Haggahus](legender.html#haggahus) har hon förstahandskunskap om platsen.
+Eftersom MAMLIN utgår från [Haggahus](legender.html#haggahus) har hon förstahandskunskap om platsen.
 
 ## Riddare Erev
 
 Den svurne gärngardisten är vanväxt över nacken, ryggen, axlarna och utsidan av armarna. Hans hud har bytts ut mot sköldar från en enorm tusenfotingliknande mogvarelse, vilket fungerar som pansar.
 
-Erev vet sig förr eller senare dö i strid och förväntas till den dagen viga sitt liv helt åt Rost och Heme. Som fälträttare har han gedigen erfarenhet av att inpränta den livssynen i andra stridande rostbröder. I hemlighet ifrågasätter han om den ordningen verkligen är gudarnas avsikter. Prästerna lovar en mänsklig fristad, en *fri stad*, men än har han bara sett död och pina där dit kyrkan når. Som Mamlins resesällskap har han inte kunnat undvika att lägga märke till att andra folk tycks leva fridsammare. Kaotiskt och kätterskt kanske, men fridsammare.
+Erev vet sig förr eller senare dö i strid och förväntas till den dagen viga sitt liv helt åt Rost och Heme. Som fälträttare har han gedigen erfarenhet av att inpränta den livssynen i andra stridande rostbröder. I hemlighet ifrågasätter han om den ordningen verkligen är gudarnas avsikter. Prästerna lovar en mänsklig fristad, en *fri stad*, men än har han bara sett död och pina där dit kyrkan når. Som MAMLINS resesällskap har han inte kunnat undvika att lägga märke till att andra folk tycks leva fridsammare. Kaotiskt och kätterskt kanske, men fridsammare.
 
 Ett möte med ett lämpligt orakel skulle kunna vända Erev.
 

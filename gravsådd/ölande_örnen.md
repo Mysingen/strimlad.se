@@ -23,7 +23,7 @@ Trots riskerna besöks Örnen för kontakt- och upplysningsmöjligheterna som f�
 * [SLUR](slur.html)
 * [RIFEN RÖDNAGEL](rifen_rödnagel.html)
 * [Silkestradören](myggmarsken.html#silkestradoren)
-* [Intendent Mamlin](rostbröder.html#intendent-mamlin)
+* [Intendent MAMLIN](rostbröder.html#intendent-mamlin)
 * [Dona Spetsvis](myggmarsken.html#dona-spetsvis)
 * [XAYE ASKMARA](xaye_askmara.html)
 * [TIDIR](tidir.html)
