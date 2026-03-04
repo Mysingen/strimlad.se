@@ -15,7 +15,7 @@ På södersidan övergår träsket i stäpp med frodigt gräs. Stäppen bebos av
 ## Invånare
 
 * [Samisam, Kackaren på höga kullen](#samisam).
-* [Rifen Rödnagel](rifen_rödnagel.html).
+* [RIFEN RÖDNAGEL](rifen_rödnagel.html).
 * En [svartalfsby](#svartalfsbyn) där invånarna tillber Nattvararen.
 * Orchen och biodlaren [Kreshnar Söte](#kreshnar-sote).
 * [Sökare](#sokarna) av skapelsens hemligheter, hippies om man så vill, som uppvaktar Samisam.
@@ -36,7 +36,7 @@ Under kullen finns en grotta med en koloni av fladdermöss. Grottans golv står 
 
 Svartalferna från byn i träsket söker ibland upp Samisam för spirituell vägledning och andra tjänster inom det mystiska. Han är även välkänd bland sökarna vars tältläger återfinns någon kilometer bort.
 
-Samisams lärjunge, [Rifen Rödnagel](rifen_rödnagel.html), är ofta på utfärder i träsket eller anslutande hexagoner. Samisam är särskilt mån om träskets psykotropiska svampar och skickar ibland Rifen att plocka dem.
+Samisams lärjunge, [RIFEN RÖDNAGEL](rifen_rödnagel.html), är ofta på utfärder i träsket eller anslutande hexagoner. Samisam är särskilt mån om träskets psykotropiska svampar och skickar ibland RIFEN att plocka dem.
 
 ### Fladdermössen
 
@@ -60,7 +60,7 @@ Samisam smickras av den speciella status han åtnjuter bland sökarna och skicka
 
 Dona Spetsvis är en halvlingsdruid som hoppas lära sig träskbotanik av Samisam. Till skilnad från de övriga sökarna kan Samisam inte helt ignorera henne då hon ändå är en släkteskusin. Hon är dessutom charmig, söt, stridbar och mycket envis.
 
-Dona är av uppfattningen att de övriga sökarna är ett hinder som gärna kunde elimineras. Samisam vägrar ett ge henne status separat från gruppen. Spelarna kan göra "nytta" här. Det kan även [Rifen Rödnagel](rifen_rödnagel.html) som gillar druiden.
+Dona är av uppfattningen att de övriga sökarna är ett hinder som gärna kunde elimineras. Samisam vägrar ett ge henne status separat från gruppen. Spelarna kan göra "nytta" här. Det kan även [RIFEN RÖDNAGEL](rifen_rödnagel.html) som gillar druiden.
 
 ## Ryckarna
 

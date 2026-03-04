@@ -21,7 +21,7 @@ Resterna av en armé från Alderkrigens tid skräpar i och ovan jord en bit neda
 Trots riskerna besöks Örnen för kontakt- och upplysningsmöjligheterna som följer av placeringen. Ett urval:
 
 * [SLUR](slur.html)
-* [Rifen Rödnagel](rifen_rödnagel.html)
+* [RIFEN RÖDNAGEL](rifen_rödnagel.html)
 * [Silkestradören](myggmarsken.html#silkestradoren)
 * [Intendent Mamlin](rostbröder.html#intendent-mamlin)
 * [Dona Spetsvis](myggmarsken.html#dona-spetsvis)

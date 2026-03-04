@@ -42,7 +42,7 @@ Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Staneng
 
 **S. 212**: *De eländiska korpsystrarna är kända som ett fridsamt systerskap...*
 
-Bekant med [Rifen Rödnagel](rifen_rödnagel.html) som hon ibland råkar på i [Myggmarsken](myggmarsken.html) när hon letar växter och kryp i träsken.
+Bekant med [RIFEN RÖDNAGEL](rifen_rödnagel.html) som hon ibland råkar på i [Myggmarsken](myggmarsken.html) när hon letar växter och kryp i träsken.
 
 ## Zertorme
 
@@ -72,7 +72,7 @@ Bekant med [Rifen Rödnagel](rifen_rödnagel.html) som hon ibland råkar på i [
 
 **S. 214**: *Det sägs att dvärgarna bröt all blåmarmor som fanns att skörda i Korpehåla stenbrott ...*
 
-[Rifen Rödnagel](rifen_rödnagel.html) har ibland vägarna förbi stenbrottet.
+[RIFEN RÖDNAGEL](rifen_rödnagel.html) har ibland vägarna förbi stenbrottet.
 
 ## Eners Pik
 
@@ -82,7 +82,7 @@ Bekant med [Rifen Rödnagel](rifen_rödnagel.html) som hon ibland råkar på i [
 
 **S. 215**: *Det glömda landets orcher har sökt sin plats i världen allt sedan de skickades i krig mot människorna...*
 
-[Rifen Rödnagel](rifen_rödnagel.html) känner till platsen och kan peka sökare i rätt riktning.
+[RIFEN RÖDNAGEL](rifen_rödnagel.html) känner till platsen och kan peka sökare i rätt riktning.
 
 ## Pelagia
 
