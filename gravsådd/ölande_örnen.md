@@ -26,7 +26,7 @@ Trots riskerna besöks Örnen för kontakt- och upplysningsmöjligheterna som f�
 * [Intendent Mamlin](rostbröder.html#intendent-mamlin)
 * [Dona Spetsvis](myggmarsken.html#dona-spetsvis)
 * [XAYE ASKMARA](xaye_askmara.html)
-* [Tidir](tidir.html)
+* [TIDIR](tidir.html)
 * [Halvlingarnas trevnadspolis](02.utkast.html#halvlingarnas-trevnadspolis)
 * Allehanda rostbröder
 

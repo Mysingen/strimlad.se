@@ -38,8 +38,8 @@ Synerna kan gärna spelas så att RPna börjar fråga sig hur alverna kan ta så
 Förslag på omständigheter som råder när RPna kommer till synernas kammare:
 
 * **SLUR är där:** Han har redan erbjudit sig åt dvärgarna att återställa [Bergabroderns grav](gravröset.html). Till RPna säger han sig bara ha fått ett lönsamt uppdrag som de gärna kunde hjälpa honom med, och att han bara inväntar den förbaskade ceremoni som krävs för att komma igång.
-* **SLUR är där och RPna har Tidir i sällskap:** Detta leder till dålig stämning. SLUR vill inte strida mot sin kusin, men liksom SLUR är Tidir motiverad av rikedom. En tillfällig lösning kan vara att synerna ger henne något extra fint mot att hon lämnar Vigstejn. Hon återkommer i så fall med ett bakhåll när SLUR lämnat kungariket.
-* **SLUR är inte där, RPna har Tidir i sällskap:** Hon är först intresserad av uppdraget men kan sedan ändra sig och stanna hos synerna. (Se [nedan](#tidir).)
+* **SLUR är där och RPna har TIDIR i sällskap:** Detta leder till dålig stämning. SLUR vill inte strida mot sin kusin, men liksom SLUR är TIDIR motiverad av rikedom. En tillfällig lösning kan vara att synerna ger henne något extra fint mot att hon lämnar Vigstejn. Hon återkommer i så fall med ett bakhåll när SLUR lämnat kungariket.
+* **SLUR är inte där, RPna har TIDIR i sällskap:** Hon är först intresserad av uppdraget men kan sedan ändra sig och stanna hos synerna. (Se [nedan](#tidir).)
 * **ÄSSJAPOTT rumlar och ryker:** Som för att understryka vikten av att återföra elementarerna snarast.
 
 > Tipz: Mina spelare följde med SLUR på ceremonin som gör honom till expeditionsledare, utan att veta vad uppdraget handlar om. Väl där edsvor SLUR å deras vägnar varför de inte kan återvända till Vigstejn om de skulle överge uppdraget. En delikat detalj är att en av RPna lagt beslag på [Bux Bare TRAMAHANS svärd](gravröset.html#svardet), men det vet förstås inte dvärgarna.
@@ -54,9 +54,9 @@ Således: En handlingarnas man som SLUR borde unna sig lite excesser. Han kommer
 
 ## Tidir
 
-Syskonen kan enkelt göra [Oras manöver](syn_ora.html#manskliga-relationer) på [Tidir](tidir.html), förutom att hon är nästan obegripligt ostyrig i sina passioner och därför svår att kontrollera.
+Syskonen kan enkelt göra [Oras manöver](syn_ora.html#manskliga-relationer) på [TIDIR](tidir.html), förutom att hon är nästan obegripligt ostyrig i sina passioner och därför svår att kontrollera.
 
-Om Tidir anländer Vigstejn, t.ex. i RPnas sällskap, så kommer Syskonen att bjuda in henne till en seans. Hon kommer, fascinerad, att delta och sedan ta fasta på helt fel saker. Där syskonen Syn vore nöjda med kontroll av SLUR kommer Tidir istället gripas av ett frö till absolutism:
+Om TIDIR anländer Vigstejn, t.ex. i RPnas sällskap, så kommer Syskonen att bjuda in henne till en seans. Hon kommer, fascinerad, att delta och sedan ta fasta på helt fel saker. Där syskonen Syn vore nöjda med kontroll av SLUR kommer TIDIR istället gripas av ett frö till absolutism:
 
 * Egoism måste utrotas.
 * Individuella initiativ måste godkännas av andliga ledare.
@@ -65,10 +65,10 @@ Om Tidir anländer Vigstejn, t.ex. i RPnas sällskap, så kommer Syskonen att bj
 
 I förlängningen: Religioner som utkräver absolut lydnad är i samklang med den kosmiska ordningen (t.ex. [Rostbröderna](broder_rost.html)). Enskilda som inte kan frigöra sig från sin vilja till självförverkligande måste separeras.
 
-> Det är viktigt att Tidirs budskap innehåller element som leder tillbaka till Syskonen Syn. Hur ska de annars bli bekymrade, sedan desperata, och till slut betala någon för att undanröja henne?
+> Det är viktigt att TIDIRS budskap innehåller element som leder tillbaka till Syskonen Syn. Hur ska de annars bli bekymrade, sedan desperata, och till slut betala någon för att undanröja henne?
 
-Tidir är fullständigt blind för att hon själv är oförmögen att följa sina egna förordningar utan ser sig själv som ["Solaris redskap"](syn_ora.html#om-det-inre-ljuset).
+TIDIR är fullständigt blind för att hon själv är oförmögen att följa sina egna förordningar utan ser sig själv som ["Solaris redskap"](syn_ora.html#om-det-inre-ljuset).
 
 ### Konfliktlösning
 
-En tänkbar "lösning" på SLURS och Tidirs konflikt är att de ordnas under samma härskare. Huruvida synerna kan lyckas med detta lämnas som övning åt SL.
+En tänkbar "lösning" på SLURS och TIDIRS konflikt är att de ordnas under samma härskare. Huruvida synerna kan lyckas med detta lämnas som övning åt SL.

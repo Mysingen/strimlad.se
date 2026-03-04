@@ -2,9 +2,9 @@
 
 Son till [fru KALINA](fru_kalina.html), stigfinnare, äventyrare och skrytmåns. Han är en av [Storstugans](storstugan.html) reguljära vägvisare och befinner sig ofta ute på vägarna för att ledsaga betalande resenärer rätt.
 
-Kusin med [Tidir](tidir.html) som han helst undviker då Tidir söker hämnd på SLUR. SLUR har egentligen inget emot sin kusin och skulle föredra om tvisten kunde lösas på fredlig väg.
+Kusin med [TIDIR](tidir.html) som han helst undviker då TIDIR söker hämnd på SLUR. SLUR har egentligen inget emot sin kusin och skulle föredra om tvisten kunde lösas på fredlig väg.
 
-SLUR håller tyst om bakgrunden till [fejden med Tidir](tidir.html#fejden). För utomstående tycks anledningarna ha byggts på av sig själva över årens lopp tills ingen längre kan redogöra för dilemmat, mer än att rivaliteten uppstått i bardomsåren.
+SLUR håller tyst om bakgrunden till [fejden med TIDIR](tidir.html#fejden). För utomstående tycks anledningarna ha byggts på av sig själva över årens lopp tills ingen längre kan redogöra för dilemmat, mer än att rivaliteten uppstått i bardomsåren.
 
 Vid spelets början befinner sig SLUR på ett slags diplomatisk resa i bergen norr om skogen norr om slätten norr om Storstugan. Han är alltså ganska svår att få tag på men har lämnat vissa spår efter sig; Bland annat hos [GUBBEN MONS](gubben_mons.html) som han brukar besöka när han har vägarna förbi.
 
