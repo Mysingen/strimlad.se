@@ -81,8 +81,8 @@ För att sockra erbjudandet kan älvestamlingen, tillika jungfrusyskon och jäga
 
 #### Kompassen
 
-När [Dron](ässjapott.md#dron-eldslukaren) anföll ett fäste ca 10 mil söderut i alderkrigens slutskede slapp några eldelementarer ur bestens mage. De har levt sitt eget liv sedan dess och, likt nyfikna katter, förirrat sig till fångenskap hos en rostbroder och blodsmagiker som sedemera tagit över det gamla fästet. Brodern gör kopplingen att eld är att betrakta som drakars blod och studerar varelserna. Hen vill mycket ogärna låta befria dem.
+När [DRON](ässjapott.md#dron-eldslukaren) anföll ett fäste ca 10 mil söderut i alderkrigens slutskede slapp några eldelementarer ur bestens mage. De har levt sitt eget liv sedan dess och, likt nyfikna katter, förirrat sig till fångenskap hos en rostbroder och blodsmagiker som sedemera tagit över det gamla fästet. Brodern gör kopplingen att eld är att betrakta som drakars blod och studerar varelserna. Hen vill mycket ogärna låta befria dem.
 
 Kompassen består av en spira i bränd keramik som alltid är varmare i den ände som bäst pekar i riktning mot elementarerna. Det tar ca 15 minuter för kompassen att kalibrera sig när den får ligga stilla.
 
-Syskonen Syn känner till elementarerna via [Drons drömmar](syskonen_syn.md#dron) och tror att de kan ha månget intressant att berätta om trakten de levt i sedan de försvann. Man känner inte till deras närmare öden men kompassen verkar åtminstone visa att de inte lämnat området för Drons attack.
+Syskonen Syn känner till elementarerna via [DRONS drömmar](syskonen_syn.md#dron) och tror att de kan ha månget intressant att berätta om trakten de levt i sedan de försvann. Man känner inte till deras närmare öden men kompassen verkar åtminstone visa att de inte lämnat området för DRONS attack.

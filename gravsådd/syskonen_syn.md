@@ -1,6 +1,6 @@
 # Syskonen Syn
 
-Alvsyskonen Syn Dhe och Syn Tikh rådslår [dvärgakungen GÖFF](kung_göff.md) om allt som rör Drejarens domäner. Drejaren drog även drakar ur dyn och alltså får syskonen Syn lov att även vara experter på det där med [ormen Dron som sover](ässjapott.md#dron-eldslukaren) under magman i [ÄSSJAPOTT](ässjapott.md). De kommer inte alltid väl över ens med de lärde bland stenfolket men har tjänat riket i några tusen år så det må vara hänt. Deras status är smått mytologisk.
+Alvsyskonen Syn Dhe och Syn Tikh rådslår [dvärgakungen GÖFF](kung_göff.md) om allt som rör Drejarens domäner. Drejaren drog även drakar ur dyn och alltså får syskonen Syn lov att även vara experter på det där med [ormen DRON som sover](ässjapott.md#dron-eldslukaren) under magman i [ÄSSJAPOTT](ässjapott.md). De kommer inte alltid väl över ens med de lärde bland stenfolket men har tjänat riket i några tusen år så det må vara hänt. Deras status är smått mytologisk.
 
 Alvers minne må vara kort men inte så kort att Synerna glömt sin gamla läromästare [Syn Ora](syn_ora.md), grundaren av det nätverk av övervakare de ingår i. Syskonen studerar Syn Oras gamla skrifter (†) och i sin släktesbestämda demens har de skapat ett system av magiska "ringklockor" som påminner dem regelbundet om värdet av att förkovra sig. Där finner de nu en förgäten guldgruva av råd om människorna och deras absurda böjelser.
 
@@ -16,7 +16,7 @@ Ett av de större rummen rymmer en tio meter lång, halvcirkelformad bänk med r
 
 ## Dron
 
-Dron har sovit en god stund nu och syskonen har bidat sin tid men förändringarnas timme tycks nu närma sig. Sedan ett par tiotal år - en blinkning i alviska sammanhang - besöks synernas drömmar av en allt mer yster Dron. De funderar som bäst på vilken uppgift de själva kan tänkas ha när draken väl vaknar. Det viktigaste tecknet de väntar på är så klart vulkanisk aktivitet men de vill helst ge sig ut, eller sända andra, för att leta tecken som kan sia om deras uppgift *innan* startskottet ekar mellan bergen.
+DRON har sovit en god stund nu och syskonen har bidat sin tid men förändringarnas timme tycks nu närma sig. Sedan ett par tiotal år - en blinkning i alviska sammanhang - besöks synernas drömmar av en allt mer yster DRON. De funderar som bäst på vilken uppgift de själva kan tänkas ha när draken väl vaknar. Det viktigaste tecknet de väntar på är så klart vulkanisk aktivitet men de vill helst ge sig ut, eller sända andra, för att leta tecken som kan sia om deras uppgift *innan* startskottet ekar mellan bergen.
 
 De dvärgar som har regelbunden kontakt med syskonen har noterat deras raskare steg och kortare temperament. Det viskas oroligt att alverna planerar något men Kung GÖFF avfärdar alla sådana frågor som strunt.
 
@@ -26,7 +26,7 @@ Om RPna överlämnar [Tinalârs kvarlevor och kompass](vigstejns_ruinband.md#min
 
 * Syskonen vill tala med de elementarer som förirrade sig från ÄSSJAPOTT kort innan blodsdimman sänkte sig över landet.
 * Kompassens funktion förklaras för äventyrarna.
-* Om elementarerna inte följer med frivilligt ska RPna berätta att deras mor, Dron, saknar dem. (De förklarar däremot inte vem eller vad Dron är.)
+* Om elementarerna inte följer med frivilligt ska RPna berätta att deras mor, DRON, saknar dem. (De förklarar däremot inte vem eller vad DRON är.)
 * Belöningar kan bestå i något av de många vapen som hänger i alvernas rustkammare (ett innehåll de ändå är fullkomligt ointresserade av), träning i någon magiskola, eller reda pengar.
 
 Synerna kan gärna spelas så att RPna börjar fråga sig hur alverna kan ta så lättvindigt på ett viktigt uppdrag. Dels är det ingen större konst för dem att skapa en ny kompass åt Tinalâr när hen återbildats. Dels, och viktigare, är de motiverade att studera andra släktens passioner, inklusive girighet. De har inget förstånd för schackrande och förhandling om ekonomisk ersättning. Deras frikostighet med materiell ersättning framstår lätt som en smula absurd eftersom deras affektbefriade uppförande signalerar att de inte riktigt bryr som om varken uppdraget eller belöningen.
@@ -46,7 +46,7 @@ Förslag på omständigheter som råder när RPna kommer till synernas kammare:
 
 ## Slur
 
-Syskonen blir genast intresserade av SLUR. De vill ha ögon och öron bland människorna och SLURS girighet går utmärkt väl att bända till alvernas syften. (Detta är till stor del en konsekvens av den rastlöshet som följt på Drons ysterhet.)
+Syskonen blir genast intresserade av SLUR. De vill ha ögon och öron bland människorna och SLURS girighet går utmärkt väl att bända till alvernas syften. (Detta är till stor del en konsekvens av den rastlöshet som följt på DRONS ysterhet.)
 
 Således: En handlingarnas man som SLUR borde unna sig lite excesser. Han kommer att må bättre om han kan närma sig sin [bestämmelse](syn_ora.md#vilja-vs-reson). Synerna kan hjälpa till att utröna den store mannens bestämmelse. Små men viktiga steg på vägen vore att ge sig ut och [anskaffa saker](begravningen.md) som för övrigt kunde vara värda rika belöningar. Det där fina giftermålet... Bux Bare var en *Bestämmare*. Det kan SLUR också bli. Givetvis underskattar de honom. Rejält.
 
