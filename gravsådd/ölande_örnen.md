@@ -12,7 +12,7 @@ Faktum är att flera av de "jägare" och "skogshuggare" som frekverar stället i
 
 Fastigheten består av en relativt nybyggd timmerstuga med lager plus stall, höskulle och blandade arbetsytor utomhus. Behov utförs i skogen.
 
-Resterna av en armé från Alderkrigens tid skräpar i och ovan jord en bit nedanför vägen på tavernans framsida. Det är lokal sport att slunga sten och blandad bråte mot det gamla slagfältet, som är fullt synligt från Örnens farstukvist. Ibland belönas kastaren med kraset från en krossad benbit eller genomrostad plåt. Eftersom platsen med tiden blivit sank och vattensjuk får den i övrigt vara ifred.
+Resterna av en armé från alderkrigens tid skräpar i och ovan jord en bit nedanför vägen på tavernans framsida. Det är lokal sport att slunga sten och blandad bråte mot det gamla slagfältet, som är fullt synligt från Örnens farstukvist. Ibland belönas kastaren med kraset från en krossad benbit eller genomrostad plåt. Eftersom platsen med tiden blivit sank och vattensjuk får den i övrigt vara ifred.
 
 ## Återkommande gäster
 

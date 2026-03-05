@@ -92,7 +92,7 @@ Bekant med [RIFEN RÖDNAGEL](rifen_rödnagel.md) som hon ibland råkar på i [My
 
 ## Lumragruvorna
 
-**S. 216**: *De okunniga hävdar att meromannernas­ dvärgar övergav Lumragruvorna efter tredje Alderkrigen...*
+**S. 216**: *De okunniga hävdar att meromannernas­ dvärgar övergav Lumragruvorna efter tredje alderkrigen...*
 
 ## Haggahus
 
