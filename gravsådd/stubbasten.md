@@ -1,8 +1,6 @@
-<title>Stubbasten - Gravsådd</title>
-
 # Stubbasten
 
-Med formen av en gigantisk trädstubbe, 25 meter bred och med en platå nästan 15 meter över marken, utmanar Stubbasten de närmaste trädens höjd. Pjäsen tycks formad ur ett enda stenblock och sidorna är kraftigt beväxta av mossa och klängväxter där insekter och smådjur frodas. Platån ovanpå rymmer fyra byggnader och tjänar som [GUBBEN MONS](gubben_mons.html) hemvist. En trång passage huggen ur stenen leder upp på utsidan. Hängbroar leder från toppen till plattformar och kojor i de närmaste träden.
+Med formen av en gigantisk trädstubbe, 25 meter bred och med en platå nästan 15 meter över marken, utmanar Stubbasten de närmaste trädens höjd. Pjäsen tycks formad ur ett enda stenblock och sidorna är kraftigt beväxta av mossa och klängväxter där insekter och smådjur frodas. Platån ovanpå rymmer fyra byggnader och tjänar som [GUBBEN MONS](gubben_mons.md) hemvist. En trång passage huggen ur stenen leder upp på utsidan. Hängbroar leder från toppen till plattformar och kojor i de närmaste träden.
 
 ## Vägen dit
 
@@ -38,9 +36,9 @@ Det minsta huset är satt i grovt timmer, tätat med tjära och saknar fönster.
 
 Den som lyckas öppna dörren finner att huset helt saknar golv och är byggt runt ett kvadratiskt schakt. Tre spända rep hänger från takstolen ner i djupet. Den som tittar lite närmare tycker att ett av dem rör sig lite. Halar man upp repen bjuds lite olika gåvor:
 
-* Rep ett: Ett mycket tungt schabrak av porslinsrör lagda i hexagonform med ett sjunde rör i mitten. Stålband håller ihop paketet och förgrenar sig i fyra handtag som kan användas för att kånka runt på åbäket. Rören är öppna i ena ändan; I den andra täcker ett knappstrött bakstycke i flottigt gjutgärn hela konstruktionen. En liten slägga är fäst med svångremmar mot stålbanden. Det hela ser ut som ett vapen och mycket riktigt smäller det till rejält om man bankar med släggan bakstyckets knappar. En [trollkarl](börri_skröjare.html) konstruerade kanonen specifikt för att skada demoner och annat utomvärldsligt knytt. SL kan gott vara rundhänt med artefaktbonusen.
-* Rep två: Ett av Bux Bares återväckta befäl hänger sedan 300 år i fötterna från det längsta repet. Hon är bakbunden, munkavlad, förvirrad och ilsken. Var är *Bestämmaren*?! Hur går kriget?! Hon kan tänkas ha ett maka par av mynten från [Barbeskrinet](börri_skröjare.html#barbeskrinet).
-* Rep tre: Något annat otäckt från [krukmakeriet](börri_skröjare.html#krukmakeriet)...
+* Rep ett: Ett mycket tungt schabrak av porslinsrör lagda i hexagonform med ett sjunde rör i mitten. Stålband håller ihop paketet och förgrenar sig i fyra handtag som kan användas för att kånka runt på åbäket. Rören är öppna i ena ändan; I den andra täcker ett knappstrött bakstycke i flottigt gjutgärn hela konstruktionen. En liten slägga är fäst med svångremmar mot stålbanden. Det hela ser ut som ett vapen och mycket riktigt smäller det till rejält om man bankar med släggan bakstyckets knappar. En [trollkarl](börri_skröjare.md) konstruerade kanonen specifikt för att skada demoner och annat utomvärldsligt knytt. SL kan gott vara rundhänt med artefaktbonusen.
+* Rep två: Ett av Bux Bares återväckta befäl hänger sedan 300 år i fötterna från det längsta repet. Hon är bakbunden, munkavlad, förvirrad och ilsken. Var är *Bestämmaren*?! Hur går kriget?! Hon kan tänkas ha ett maka par av mynten från [Barbeskrinet](börri_skröjare.md#barbeskrinet).
+* Rep tre: Något annat otäckt från [krukmakeriet](börri_skröjare.md#krukmakeriet)...
 
 > En förklaring till det hängmörade befälet kommer när jag själv behöver en.
 
@@ -58,5 +56,5 @@ Det är svårt att känna sig välkommen på Stubbasten. Hundarna utgör en stä
 
 ## Första besöket
 
-> När mina spelare nådde Stubbasten hade MONS besök av häxan [XAYE ASKMARA](xaye_askmara.html). De dividerade som bäst hur de skulle ersätta orchen som tagit jobbet som hjälpreda i utgrävningen av gravröset i norr men nu hämtats hem av sin stam. MONS, som inte förklarar något i onödan, erbjöd rollpersonerna mat och övernattning mot ett ospecificerat dagsverke, vilket de accepterade. De hade tidigare stött på orcherna med rymmlingen från slumpmöte 3 (**SL-boken s. 144**) och blivit varnade för gravrösen i norr men tänkte inte på att fråga närmare om flyktingen och visste alltså inte vad de gav sig in på.
+> När mina spelare nådde Stubbasten hade MONS besök av häxan [XAYE ASKMARA](xaye_askmara.md). De dividerade som bäst hur de skulle ersätta orchen som tagit jobbet som hjälpreda i utgrävningen av gravröset i norr men nu hämtats hem av sin stam. MONS, som inte förklarar något i onödan, erbjöd rollpersonerna mat och övernattning mot ett ospecificerat dagsverke, vilket de accepterade. De hade tidigare stött på orcherna med rymmlingen från slumpmöte 3 (**SL-boken s. 144**) och blivit varnade för gravrösen i norr men tänkte inte på att fråga närmare om flyktingen och visste alltså inte vad de gav sig in på.
 

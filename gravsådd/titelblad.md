@@ -1,10 +1,8 @@
-<title>Gravsådd</title>
-
 # Titelblad
 
 ## Konstruktion
 
-Gravsådd är skrivet av [Klas Lindberg](mailto:klas.lindberg@gmail.com)
+Gravsådd är skrivet av [Klas Lindberg](mailto:flimango@protonmail.com)
 
 ## Copyright
 
@@ -18,7 +16,7 @@ En översikt av licensen finns hos [Creative Commons](https://creativecommons.or
 
 ### Distribution
 
-Gravsådd på webben: [strimlad.se/ror/gravsådd/00.titelblad.html](http://strimlad.se/ror/gravsådd/00.titelblad.html)
+Gravsådd på webben: [strimlad.se/ror/gravsådd/titelblad.html](http://strimlad.se/ror/gravsådd/titelblad.html)
 
 Versionshantering på GitHub: [github.com/Mysingen/strimlad.se](https://github.com/Mysingen/strimlad.se).
 
@@ -29,23 +27,3 @@ Den som vill är välkommen att skicka in utökningar och förbättringar av mat
 ### Typsnitt
 
 De medföljande typsnitten är nedladdade från [Fontsgeek](https://fontsgeek.com) som distribuerar gratis typsnitt. Copyright till dessa ägs av sina respektive upphovspersoner, vilka tyvärr är svåra att identifiera. Typsnitten täcks hur som helst inte av licensen till texten. Du måste hantera dem i enlighet med Fontsgeeks [villkor](https://fontsgeek.com/terms).
-
-## Teknisk hjälp
-
-Materialet är skrivet i Markdown och byggs till HTML av verktyget `bygg.py` som finns i projektets rotkatalog. Du behöver Python 3 med modulen [Markdown](https://pypi.python.org/pypi/Markdown) installerad för att använda det:
-
-    python3 ./bygg.py kampanj.json
-
-För att lägga till nya böcker jämte Gravsådd lägger du till en ny rad i `kampanj.json`
-
-    [
-        ["gravsådd", "Gravsådd"],
-        ["min_katalog", "Min egen kampanj"]
-    ]
-
-och skapar en ny katalog (`min_katalog` i exemplet) som måste innehålla filen `00.titelblad.md`.
-
-### Varför detta krångel?
-
-Plaintext-format går att versionshanteras med stor noggrannhet i [git](https://git-scm.com). Om du vill bidra med material men inte ta böket att lära dig git så skicka bara in hela filen du vill ändra eller lägga till.
-

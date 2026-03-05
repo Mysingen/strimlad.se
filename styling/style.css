@@ -1,0 +1,318 @@
+html, body, div, h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* FONTS ====================================================================*/
+
+@font-face {
+    font-family: ghf;
+    src: url(goudi-handfooled.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: gos;
+    src: url(goudi-olde-style.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: ba;
+    src: url(barcelona-regular.woff2);
+}
+
+@font-face {
+    font-family: ba;
+    src: url(barcelona-bold.woff2);
+    font-weight: bold;
+}
+
+/* BODY ====================================================================*/
+
+body {
+  font-family: ba, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+p {
+  white-space: pre-line;
+  margin-bottom: 15px;
+/*  padding-right: 25px;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-family: ghf;
+  font-size: 33px;
+  color: #000;
+}
+
+h2 {
+  font-size: 30px;
+  color: #000;
+  font-family: gos;
+}
+
+h3 {
+  font-size: 24px;
+  font-family: gos;
+}
+
+h4 {
+  font-size: 21px;
+  font-family: gos;
+}
+
+h5 {
+  font-size: 17px;
+  font-family: gos;
+}
+
+/* LINKS ====================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #4183C4;
+}
+
+/* LISTS */
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* QUOTES ===================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #C07937;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES =========================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+table tr:hover {
+  background-color: #f5f5f5;
+} 
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 0px solid #ccc;
+  padding: 6px 13px;
+  border-collapse: collapse;
+}
+
+table tr {
+  border-top: 0px solid #ccc;
+  background-color: #fff;
+  border-collapse: collapse;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES ===================================================================*/
+
+img {
+  margin: 0 0 0 0;
+}
+
+/* NAVIGATION ===============================================================*/
+
+div.nav {
+  padding-top: 10px;
+  background-color: #07070707;
+  padding-bottom: 20px;
+}
+
+@media print {
+   .nav, .nav * {
+    display:none;
+  }
+}
+
+@media (min-width: 769px) {
+  div.container {
+    display: flex;
+    height: 100vh;
+  }
+
+  div.content {
+    float: left;
+    width: 70%;
+    padding-right: 10px;
+    overflow-y: auto;
+  }
+
+  div.nav {
+    margin-right: 10px;
+    width: 25%;
+    float: left;
+    flex: 1;
+    overflow-y: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  div.content {
+    width: 97%;
+    padding-left: 10px;
+  }
+
+  div.nav {
+    width: 100%;
+  }
+}
+
+div.section {
+  padding-left: 10px;
+}
+
+div.header {
+  color: #4183C4;
+}
+div.header:hover {
+  cursor: pointer;
+}
+
+div.nref_h1 {
+  margin-left: 10px;
+  padding-left: 0px;
+}
+
+div.nref_h2 {
+    font-size: 90%;
+    margin-left: 20px;
+}
+
+div.nref_h3 {
+    font-size: 80%;
+    padding-left: 0px;
+    margin-left: 30px;
+}
+
+div.ncur_page {
+    font-weight: bold;
+}
+
+div.header:hover,
+div.ncur_page,
+div.nref_h1:hover,
+div.nref_h2:hover,
+div.nref_h3:hover {
+  background-color: #11111111;
+}
+
+span.expander {
+  margin-left: 10px;
+}
+span.expander:hover {
+  cursor: pointer;
+}

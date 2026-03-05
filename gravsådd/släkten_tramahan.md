@@ -7,8 +7,8 @@ Släkten TRAMAHAN stammar från de älvestamlingar som föddes i Ravland sedan g
 Den ena familjens överhuvud, människan Buximil Stormare, är idag staden TRAMES starke man och ledare av stadsrådet. Han kallar sig TRAMES *Bestämmare*, en titel han inte förstår utan bara lånat från Bux Bare TRAMAHAN för att den ligger bra på tungan. Buximils makt hotas av flera saker:
 
 * Ättens älvestamlingar lever längre och har därmed ett starkare anspråk på kontinuitet. Listigt manövrerande pågår för att säkra att TRAMES ledning inte överlåts till en ny generation Stormare när Buximil väl dör.
-* Buximils eget gördelmått är rent ohälsosamt och kommer att bli hans död. Se [Begravningen](begravningen.html).
-* Ormekyrkan infiltrerar TRAME och har bundit framträdande invånare till sekten [Aalgard Majestät](broder_rost.html#aalgard-majestat).
+* Buximils eget gördelmått är rent ohälsosamt och kommer att bli hans död. Se [Begravningen](begravningen.md).
+* Ormekyrkan infiltrerar TRAME och har bundit framträdande invånare till sekten [Aalgard Majestät](broder_rost.md#aalgard-majestat).
 
 Buximil planerar för sin hädangång och avdelar en betydande del av TRAMES resurser för att restaurera och bygga ut stadens komplex av mausoleum.
 

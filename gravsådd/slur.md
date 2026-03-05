@@ -1,15 +1,15 @@
 # Slur
 
-Son till [fru KALINA](fru_kalina.html), stigfinnare, äventyrare och skrytmåns. Han är en av [Storstugans](storstugan.html) reguljära vägvisare och befinner sig ofta ute på vägarna för att ledsaga betalande resenärer rätt.
+Son till [fru KALINA](fru_kalina.md), stigfinnare, äventyrare och skrytmåns. Han är en av [Storstugans](storstugan.md) reguljära vägvisare och befinner sig ofta ute på vägarna för att ledsaga betalande resenärer rätt.
 
-Kusin med [TIDIR](tidir.html) som han helst undviker då TIDIR söker hämnd på SLUR. SLUR har egentligen inget emot sin kusin och skulle föredra om tvisten kunde lösas på fredlig väg.
+Kusin med [TIDIR](tidir.md) som han helst undviker då TIDIR söker hämnd på SLUR. SLUR har egentligen inget emot sin kusin och skulle föredra om tvisten kunde lösas på fredlig väg.
 
-SLUR håller tyst om bakgrunden till [fejden med TIDIR](tidir.html#fejden). För utomstående tycks anledningarna ha byggts på av sig själva över årens lopp tills ingen längre kan redogöra för dilemmat, mer än att rivaliteten uppstått i bardomsåren.
+SLUR håller tyst om bakgrunden till [fejden med TIDIR](tidir.md#fejden). För utomstående tycks anledningarna ha byggts på av sig själva över årens lopp tills ingen längre kan redogöra för dilemmat, mer än att rivaliteten uppstått i bardomsåren.
 
-Vid spelets början befinner sig SLUR på ett slags diplomatisk resa i bergen norr om skogen norr om slätten norr om Storstugan. Han är alltså ganska svår att få tag på men har lämnat vissa spår efter sig; Bland annat hos [GUBBEN MONS](gubben_mons.html) som han brukar besöka när han har vägarna förbi.
+Vid spelets början befinner sig SLUR på ett slags diplomatisk resa i bergen norr om skogen norr om slätten norr om Storstugan. Han är alltså ganska svår att få tag på men har lämnat vissa spår efter sig; Bland annat hos [GUBBEN MONS](gubben_mons.md) som han brukar besöka när han har vägarna förbi.
 
 SLUR söker en lösning på problemet med Kalantina så att han ska kunna bärga hennes skatt och gifta sig fint. Detta har hans mor, KALINA, ingen aning om och skulle bli både arg och rädd om hon fick veta.
 
 ## Narrativ funktion
 
-SLUR bör få tillfällen att ta äran åt sig för saker som RPna åstadkommit. Han kan t.ex. ha pratat in sig hos [Garin & Raffir](kung_göff.html#intranget-i-graven) och utlovat en lösning på deras plötsliga problem, med abrovinken att uppdraget nog kräver förstärkningar för att lyckas. När sedan RPna valsar in blir de påsålda ett uppdrag som redan har en utsedd ledare, vilket de inte blir varse förrän dvärgarna, enligt gammal sed, utför en social ritual där SLUR formellt behängs med parafernalia som gör honom till expeditionens ledare och samtidigt garanterar honom äran av framgång, oavsett vem som egentligen gjort jobbet. Väl på väg någonstans gör SLUR det tydligt att uppdraget inte kan räknas som lyckat om inte *han* återför lämpliga bevis, varpå han börjar bossa omkring med RPna under hot om att vägra dela något av äran med dem.
+SLUR bör få tillfällen att ta äran åt sig för saker som RPna åstadkommit. Han kan t.ex. ha pratat in sig hos [Garin & Raffir](kung_göff.md#intranget-i-graven) och utlovat en lösning på deras plötsliga problem, med abrovinken att uppdraget nog kräver förstärkningar för att lyckas. När sedan RPna valsar in blir de påsålda ett uppdrag som redan har en utsedd ledare, vilket de inte blir varse förrän dvärgarna, enligt gammal sed, utför en social ritual där SLUR formellt behängs med parafernalia som gör honom till expeditionens ledare och samtidigt garanterar honom äran av framgång, oavsett vem som egentligen gjort jobbet. Väl på väg någonstans gör SLUR det tydligt att uppdraget inte kan räknas som lyckat om inte *han* återför lämpliga bevis, varpå han börjar bossa omkring med RPna under hot om att vägra dela något av äran med dem.

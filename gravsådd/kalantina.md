@@ -1,12 +1,10 @@
-<title>Kalantinas osaliga ande - Gravsådd</title>
-
 # Kalantinas osaliga ande
 
-Människa och gast enligt bestiariet (**.s 90** SL-boken). Anmoder till [fru KALINA](fru_kalina.html). Kalantina förrådde [Bux Bare TRAMAHAN](gravröset.html#bux-bare-tramahan) genom att stjäla ett [Barbeskrin](börri_skröjare.html#barbeskrinet) och beseglade därmed härförarens öde. Missräkning ledde sedan till att hon törstade ihjäl i ett låst rum med skatten som enda tröst.
+Människa och gast enligt bestiariet (**.s 90** SL-boken). Anmoder till [fru KALINA](fru_kalina.md). Kalantina förrådde [Bux Bare TRAMAHAN](gravröset.md#bux-bare-tramahan) genom att stjäla ett [Barbeskrin](börri_skröjare.md#barbeskrinet) och beseglade därmed härförarens öde. Missräkning ledde sedan till att hon törstade ihjäl i ett låst rum med skatten som enda tröst.
 
 ## Förräderi
 
-Den dvärgiska adepten [BÖRRI](börri_skröjare.html) skämde så ut Vigstejn att något måste göras för att stoppa den tokige krukmakaren. Så tyckte åtminstone hans samtida släktesfränder. Anklagelserna var allvarliga:
+Den dvärgiska adepten [BÖRRI](börri_skröjare.md) skämde så ut Vigstejn att något måste göras för att stoppa den tokige krukmakaren. Så tyckte åtminstone hans samtida släktesfränder. Anklagelserna var allvarliga:
 
 * BÖRRI gav Bux Bare TRAMAHAN sitt öppna stöd inför kronans församling och drog därmed in hela kungadömet i ett krig som borde ha begränsats till en mänsklig fråga.
 * BÖRRI sysslade med svartkonster och gjorde sina uppfinningar tillgängliga för stenlöst folk.
@@ -26,7 +24,7 @@ Kung Grimdug av Vigstejn saknade den äldre, bekvämare ordningen att idka hande
 
 > ... men önsketänkande kan hjälpa avsevärt.
 
-Någon lortig människa kunde av poetiska skäl gärna göra det smutsiga jobbet med själva stölden. Man kände sig inte ansvarstyngda nog att lyssna på arga ord från en rånad *Bestämmare* så spåren måste leda till en lämpligare part. Lotten föll på Kalantina, en etablerad krigsprofitör. Förtrollad av [SILVERFEBER](husregler.html#silverfeber) skulle hon stjäla Barbeskrinet mitt under näsan på Bux. God ordning skulle därmed vara återställd.
+Någon lortig människa kunde av poetiska skäl gärna göra det smutsiga jobbet med själva stölden. Man kände sig inte ansvarstyngda nog att lyssna på arga ord från en rånad *Bestämmare* så spåren måste leda till en lämpligare part. Lotten föll på Kalantina, en etablerad krigsprofitör. Förtrollad av [SILVERFEBER](husregler.md#silverfeber) skulle hon stjäla Barbeskrinet mitt under näsan på Bux. God ordning skulle därmed vara återställd.
 
 Allt gick nu inte riktigt som det var tänkt;
 
@@ -37,6 +35,6 @@ Allt gick nu inte riktigt som det var tänkt;
 
 ## Skattens placering
 
-Under vägkorset utanför [Storstugan](storstugan.html).
+Under vägkorset utanför [Storstugan](storstugan.md).
 
 > Detaljerad äventyrsplats är på G.

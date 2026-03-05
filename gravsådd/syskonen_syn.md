@@ -1,10 +1,8 @@
-<title>Syskonen Syn - Gravsådd</title>
-
 # Syskonen Syn
 
-Alvsyskonen Syn Dhe och Syn Tikh rådslår [dvärgakungen GÖFF](kung_göff.html) om allt som rör Drejarens domäner. Drejaren drog även drakar ur dyn och alltså får syskonen Syn lov att även vara experter på det där med [ormen Dron som sover](ässjapott.html#dron-eldslukaren) under magman i [ÄSSJAPOTT](ässjapott.html). De kommer inte alltid väl över ens med de lärde bland stenfolket men har tjänat riket i några tusen år så det må vara hänt. Deras status är smått mytologisk.
+Alvsyskonen Syn Dhe och Syn Tikh rådslår [dvärgakungen GÖFF](kung_göff.md) om allt som rör Drejarens domäner. Drejaren drog även drakar ur dyn och alltså får syskonen Syn lov att även vara experter på det där med [ormen Dron som sover](ässjapott.md#dron-eldslukaren) under magman i [ÄSSJAPOTT](ässjapott.md). De kommer inte alltid väl över ens med de lärde bland stenfolket men har tjänat riket i några tusen år så det må vara hänt. Deras status är smått mytologisk.
 
-Alvers minne må vara kort men inte så kort att Synerna glömt sin gamla läromästare [Syn Ora](syn_ora.html), grundaren av det nätverk av övervakare de ingår i. Syskonen studerar Syn Oras gamla skrifter (†) och i sin släktesbestämda demens har de skapat ett system av magiska "ringklockor" som påminner dem regelbundet om värdet av att förkovra sig. Där finner de nu en förgäten guldgruva av råd om människorna och deras absurda böjelser.
+Alvers minne må vara kort men inte så kort att Synerna glömt sin gamla läromästare [Syn Ora](syn_ora.md), grundaren av det nätverk av övervakare de ingår i. Syskonen studerar Syn Oras gamla skrifter (†) och i sin släktesbestämda demens har de skapat ett system av magiska "ringklockor" som påminner dem regelbundet om värdet av att förkovra sig. Där finner de nu en förgäten guldgruva av råd om människorna och deras absurda böjelser.
 
 > † Eftersom gemene alv normalt inte använder penna och papper för att spara information behöver det här förklaras på något sätt. Syn Ora kan ha varit en udda fågel, eller så handlar det om minneskristaller, eller något annat.
 
@@ -24,7 +22,7 @@ De dvärgar som har regelbunden kontakt med syskonen har noterat deras raskare s
 
 ## Uppdrag åt äventyrare
 
-Om RPna överlämnar [Tinalârs kvarlevor och kompass](vigstejns_ruinband.html#minotauren-och-rodeloparen) konstaterar syskonen krasst att rödelöparen knappast kommer att genomföra sitt uppdrag de närmaste månvarven. De undrar om inte äventyrarna kan ta över där Tinalâr knappt hann börja:
+Om RPna överlämnar [Tinalârs kvarlevor och kompass](vigstejns_ruinband.md#minotauren-och-rodeloparen) konstaterar syskonen krasst att rödelöparen knappast kommer att genomföra sitt uppdrag de närmaste månvarven. De undrar om inte äventyrarna kan ta över där Tinalâr knappt hann börja:
 
 * Syskonen vill tala med de elementarer som förirrade sig från ÄSSJAPOTT kort innan blodsdimman sänkte sig över landet.
 * Kompassens funktion förklaras för äventyrarna.
@@ -37,12 +35,12 @@ Synerna kan gärna spelas så att RPna börjar fråga sig hur alverna kan ta så
 
 Förslag på omständigheter som råder när RPna kommer till synernas kammare:
 
-* **SLUR är där:** Han har redan erbjudit sig åt dvärgarna att återställa [Bergabroderns grav](gravröset.html). Till RPna säger han sig bara ha fått ett lönsamt uppdrag som de gärna kunde hjälpa honom med, och att han bara inväntar den förbaskade ceremoni som krävs för att komma igång.
+* **SLUR är där:** Han har redan erbjudit sig åt dvärgarna att återställa [Bergabroderns grav](gravröset.md). Till RPna säger han sig bara ha fått ett lönsamt uppdrag som de gärna kunde hjälpa honom med, och att han bara inväntar den förbaskade ceremoni som krävs för att komma igång.
 * **SLUR är där och RPna har TIDIR i sällskap:** Detta leder till dålig stämning. SLUR vill inte strida mot sin kusin, men liksom SLUR är TIDIR motiverad av rikedom. En tillfällig lösning kan vara att synerna ger henne något extra fint mot att hon lämnar Vigstejn. Hon återkommer i så fall med ett bakhåll när SLUR lämnat kungariket.
 * **SLUR är inte där, RPna har TIDIR i sällskap:** Hon är först intresserad av uppdraget men kan sedan ändra sig och stanna hos synerna. (Se [nedan](#tidir).)
 * **ÄSSJAPOTT rumlar och ryker:** Som för att understryka vikten av att återföra elementarerna snarast.
 
-> Tipz: Mina spelare följde med SLUR på ceremonin som gör honom till expeditionsledare, utan att veta vad uppdraget handlar om. Väl där edsvor SLUR å deras vägnar varför de inte kan återvända till Vigstejn om de skulle överge uppdraget. En delikat detalj är att en av RPna lagt beslag på [Bux Bare TRAMAHANS svärd](gravröset.html#svardet), men det vet förstås inte dvärgarna.
+> Tipz: Mina spelare följde med SLUR på ceremonin som gör honom till expeditionsledare, utan att veta vad uppdraget handlar om. Väl där edsvor SLUR å deras vägnar varför de inte kan återvända till Vigstejn om de skulle överge uppdraget. En delikat detalj är att en av RPna lagt beslag på [Bux Bare TRAMAHANS svärd](gravröset.md#svardet), men det vet förstås inte dvärgarna.
 >
 > I idealfallet har RPna två uppdrag efter att ha besökt synerna, varav det ena är ett de verkligen inte vill fullborda. Klagar de hos synerna över den svåra situationen så kommenterar de lakoniskt att dylika dilemman är att vänta sig från dem som låter sig styras av passioner. Men lycka till!
 
@@ -50,11 +48,11 @@ Förslag på omständigheter som råder när RPna kommer till synernas kammare:
 
 Syskonen blir genast intresserade av SLUR. De vill ha ögon och öron bland människorna och SLURS girighet går utmärkt väl att bända till alvernas syften. (Detta är till stor del en konsekvens av den rastlöshet som följt på Drons ysterhet.)
 
-Således: En handlingarnas man som SLUR borde unna sig lite excesser. Han kommer att må bättre om han kan närma sig sin [bestämmelse](syn_ora.html#vilja-vs-reson). Synerna kan hjälpa till att utröna den store mannens bestämmelse. Små men viktiga steg på vägen vore att ge sig ut och [anskaffa saker](begravningen.html) som för övrigt kunde vara värda rika belöningar. Det där fina giftermålet... Bux Bare var en *Bestämmare*. Det kan SLUR också bli. Givetvis underskattar de honom. Rejält.
+Således: En handlingarnas man som SLUR borde unna sig lite excesser. Han kommer att må bättre om han kan närma sig sin [bestämmelse](syn_ora.md#vilja-vs-reson). Synerna kan hjälpa till att utröna den store mannens bestämmelse. Små men viktiga steg på vägen vore att ge sig ut och [anskaffa saker](begravningen.md) som för övrigt kunde vara värda rika belöningar. Det där fina giftermålet... Bux Bare var en *Bestämmare*. Det kan SLUR också bli. Givetvis underskattar de honom. Rejält.
 
 ## Tidir
 
-Syskonen kan enkelt göra [Oras manöver](syn_ora.html#manskliga-relationer) på [TIDIR](tidir.html), förutom att hon är nästan obegripligt ostyrig i sina passioner och därför svår att kontrollera.
+Syskonen kan enkelt göra [Oras manöver](syn_ora.md#manskliga-relationer) på [TIDIR](tidir.md), förutom att hon är nästan obegripligt ostyrig i sina passioner och därför svår att kontrollera.
 
 Om TIDIR anländer Vigstejn, t.ex. i RPnas sällskap, så kommer Syskonen att bjuda in henne till en seans. Hon kommer, fascinerad, att delta och sedan ta fasta på helt fel saker. Där syskonen Syn vore nöjda med kontroll av SLUR kommer TIDIR istället gripas av ett frö till absolutism:
 
@@ -63,11 +61,11 @@ Om TIDIR anländer Vigstejn, t.ex. i RPnas sällskap, så kommer Syskonen att bj
 * Den som inte uppgår i gemenskap sviker skapelsens bestämmelse.
 * Alver håller kosmos visdom i sitt bröst.
 
-I förlängningen: Religioner som utkräver absolut lydnad är i samklang med den kosmiska ordningen (t.ex. [Rostbröderna](broder_rost.html)). Enskilda som inte kan frigöra sig från sin vilja till självförverkligande måste separeras.
+I förlängningen: Religioner som utkräver absolut lydnad är i samklang med den kosmiska ordningen (t.ex. [Rostbröderna](broder_rost.md)). Enskilda som inte kan frigöra sig från sin vilja till självförverkligande måste separeras.
 
 > Det är viktigt att TIDIRS budskap innehåller element som leder tillbaka till Syskonen Syn. Hur ska de annars bli bekymrade, sedan desperata, och till slut betala någon för att undanröja henne?
 
-TIDIR är fullständigt blind för att hon själv är oförmögen att följa sina egna förordningar utan ser sig själv som ["Solaris redskap"](syn_ora.html#om-det-inre-ljuset).
+TIDIR är fullständigt blind för att hon själv är oförmögen att följa sina egna förordningar utan ser sig själv som ["Solaris redskap"](syn_ora.md#om-det-inre-ljuset).
 
 ### Konfliktlösning
 

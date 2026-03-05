@@ -1,5 +1,3 @@
-<title>Rostbröder - Gravsådd</title>
-
 # Rostbröder
 
 ## Gervix
@@ -38,9 +36,9 @@ Gervix känner sig otrygg med att sova under bar himmel men föredrar att framst
 
 ### Legender
 
-* [Zytera](legender.html#zytera)
-* [Krasylla](legender.html#krasylla)
-* [Rosenöga](legender.html#rosenoga)
+* [Zytera](legender.md#zytera)
+* [Krasylla](legender.md#krasylla)
+* [Rosenöga](legender.md#rosenoga)
 
 ### Vapen & Utrustning
 
@@ -89,8 +87,8 @@ Robilan är vidskeplig och föreställer sig att rester från besegrade fiender 
 
 ### Legender
 
-* [Rostfursten Kartorda](legender.html#rostfursten-kartorda)
-* [Ramakved](legender.html#ramakved)
+* [Rostfursten Kartorda](legender.md#rostfursten-kartorda)
+* [Ramakved](legender.md#ramakved)
 
 ### Vapen & Utrustning
 
@@ -108,9 +106,9 @@ MAMLIN undviker strid. Hon ogillar beteendet och förstår att det inte ökar ky
 
 ### Maktspel
 
-Se [Aalgard Majestät](broder_rost.html#aalgard-majestat). MAMLIN har makt i Ormkyrkan. Hon använder sin följedemonen för att befästa sig själv som Sista Uttydare av Rättgång.
+Se [Aalgard Majestät](broder_rost.md#aalgard-majestat). MAMLIN har makt i Ormkyrkan. Hon använder sin följedemonen för att befästa sig själv som Sista Uttydare av Rättgång.
 
-[Syskonen Syn](syskonen_syn.html) skulle benämna MAMLIN "överläkare" om de fick höra talas om henne.
+[Syskonen Syn](syskonen_syn.md) skulle benämna MAMLIN "överläkare" om de fick höra talas om henne.
 
 ### Demoniskt inflytande
 
@@ -124,9 +122,9 @@ Notera att demonens dimma inte är blodsdimma och att trassel kan uppstå i hän
 
 ### Legender
 
-MAMLIN kan känna till åtskilliga legender men särskilt de om [Stanengist](legender.html#stanengist) och [Zertorme](legender.html#zertorme).
+MAMLIN kan känna till åtskilliga legender men särskilt de om [Stanengist](legender.md#stanengist) och [Zertorme](legender.md#zertorme).
 
-Eftersom MAMLIN utgår från [Haggahus](legender.html#haggahus) har hon förstahandskunskap om platsen.
+Eftersom MAMLIN utgår från [Haggahus](legender.md#haggahus) har hon förstahandskunskap om platsen.
 
 ## Riddare Erev
 

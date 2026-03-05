@@ -23,12 +23,12 @@ Besökare behöver lejdebevis eller ett giltigt skäl att träffa någon i stade
 Övriga:
 
 * Giriga Korpen. Värdshus beläget längs försvarsverkets utsida nära stora porten. All handel med utsocknes sker i och kring värdshuset eftersom främlingar utan lejdebevis inte släpps in i TRAME.
-* [Ölande Örnen](ölande_örnen.html). Ett schabbigt litet hak på en dagsvandrings avstånd längs huvudvägen i österled.
+* [Ölande Örnen](ölande_örnen.md). Ett schabbigt litet hak på en dagsvandrings avstånd längs huvudvägen i österled.
 
 ## Stadsråd
 
 * Buximil
-* [Herind Gulöga](herind_gulöga.html). Ett av Merigalls barn, Sefyrneas älskare, eländ, magikunnig bard och bortskämd odåga.
+* [Herind Gulöga](herind_gulöga.md). Ett av Merigalls barn, Sefyrneas älskare, eländ, magikunnig bard och bortskämd odåga.
 * Druiden Amarmara TRAMAHAN, människa. Ogillar Gulöga för dennes relation med Sefyrnea som hon önskar företräda ensam.
 * Daras Döderdressare, älvestamling som gift in sig i TRAMAHANS släkt. Sköter allt som rör mausoleerna i TRAME. Symbolist. Anser Herind vara en odugling som borde försöka bevisa sitt värde.
 * Diverse viktigpettrar ur stadens näringar och försvar.
@@ -45,6 +45,6 @@ Kort och gott:
 
 Staden praktiserar religiösa riter där vanligt folk byter till sig helgade indigotyger mot offergåvor (slaktboskap, avsalugrödor, vin och andra jordbruksprodukter) som de "behöver" för att två sina samveten, rena kroppen efter sjukdom/utslag/menstruation eller be om gudarnas hjälp.
 
-Att [Herind](herind_gulöga.html) tillåts frossa i materialet sticker i ögonen på somliga. Särskilt halvlingarna i den religiösa elit som sköter hela offercirkusen har reagerat på att klenen inte ens verkar förstå vilken betydelse indigo har för stadens "sammanhållning".
+Att [Herind](herind_gulöga.md) tillåts frossa i materialet sticker i ögonen på somliga. Särskilt halvlingarna i den religiösa elit som sköter hela offercirkusen har reagerat på att klenen inte ens verkar förstå vilken betydelse indigo har för stadens "sammanhållning".
 
 > *Dibromo* är en kemisk klassificering av molekyler med vissa egenskaper. Ämnen kan ge färgen indigo utan att vara dibromoföreningar men dessa duger alltså inte i TRAME.

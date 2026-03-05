@@ -1,5 +1,3 @@
-<title>Myggmarsken - Gravsådd</title>
-
 # Myggmarsken
 
 Myggmarsken är ett flackt träsklandskap av småöar, sankmark och vattendrag med mangroveträd. Långbenta fåglar jagar groddjur och småfisk i det grunda vattnet.
@@ -15,14 +13,14 @@ På södersidan övergår träsket i stäpp med frodigt gräs. Stäppen bebos av
 ## Invånare
 
 * [Samisam, Kackaren på höga kullen](#samisam).
-* [RIFEN RÖDNAGEL](rifen_rödnagel.html).
+* [RIFEN RÖDNAGEL](rifen_rödnagel.md).
 * En [svartalfsby](#svartalfsbyn) där invånarna tillber Nattvararen.
 * Orchen och biodlaren [Kreshnar Söte](#kreshnar-sote).
 * [Sökare](#sokarna) av skapelsens hemligheter, hippies om man så vill, som uppvaktar Samisam.
 * [Ryckarna](#ryckarna); odöda människor som drar ner oförsiktiga resenärer i de djupare vattendragen.
 * [Odal Surt](#odal-surt), en rese som vill göra sig en hatt av kraniet [Hammar Synblödare](#hammar-synblodare) bor i. Alltid stör det någon. Vargvinarna i Korpehåla t.ex.
 * [Silkestradören](#silkestradoren). Inget träsk utan jättespindlar, inga spindlar utan silke och inget silke utan nasare som gör pengar på det.
-* [BÖRRI SKRÖJARE](börri_skröjare.html) sitter fängslad i en dimensionsbubbla på toppen av ett torn i träskets norra utkant, med utsikt över Odal Surts domäner.
+* [BÖRRI SKRÖJARE](börri_skröjare.md) sitter fängslad i en dimensionsbubbla på toppen av ett torn i träskets norra utkant, med utsikt över Odal Surts domäner.
 
 ## Växtlighet
 
@@ -36,7 +34,7 @@ Under kullen finns en grotta med en koloni av fladdermöss. Grottans golv står 
 
 Svartalferna från byn i träsket söker ibland upp Samisam för spirituell vägledning och andra tjänster inom det mystiska. Han är även välkänd bland sökarna vars tältläger återfinns någon kilometer bort.
 
-Samisams lärjunge, [RIFEN RÖDNAGEL](rifen_rödnagel.html), är ofta på utfärder i träsket eller anslutande hexagoner. Samisam är särskilt mån om träskets psykotropiska svampar och skickar ibland RIFEN att plocka dem.
+Samisams lärjunge, [RIFEN RÖDNAGEL](rifen_rödnagel.md), är ofta på utfärder i träsket eller anslutande hexagoner. Samisam är särskilt mån om träskets psykotropiska svampar och skickar ibland RIFEN att plocka dem.
 
 ### Fladdermössen
 
@@ -60,11 +58,11 @@ Samisam smickras av den speciella status han åtnjuter bland sökarna och skicka
 
 Dona Spetsvis är en halvlingsdruid som hoppas lära sig träskbotanik av Samisam. Till skilnad från de övriga sökarna kan Samisam inte helt ignorera henne då hon ändå är en släkteskusin. Hon är dessutom charmig, söt, stridbar och mycket envis.
 
-Dona är av uppfattningen att de övriga sökarna är ett hinder som gärna kunde elimineras. Samisam vägrar ett ge henne status separat från gruppen. Spelarna kan göra "nytta" här. Det kan även [RIFEN RÖDNAGEL](rifen_rödnagel.html) som gillar druiden.
+Dona är av uppfattningen att de övriga sökarna är ett hinder som gärna kunde elimineras. Samisam vägrar ett ge henne status separat från gruppen. Spelarna kan göra "nytta" här. Det kan även [RIFEN RÖDNAGEL](rifen_rödnagel.md) som gillar druiden.
 
 ## Ryckarna
 
-Dessa odöda soldater sorterade under [Bux Bare TRAMAHAN](gravröset.html#bux-bare-tramahan) i Alderkrigens slutskede. Kompaniet separerades från *Bestämmarens* armé, gick vilse och sedan under när de flydde undan en fiendehord i [Vigstejns utkanter](vigstejns_ruinband.html). Varelserna rör sig över bottnarna av de större vattendragen och gör ibland exkursioner upp på land för att röva bort oförsiktiga resenärer. Blandade skatter från offren är samlade i krypin under mangroveträdens rötter.
+Dessa odöda soldater sorterade under [Bux Bare TRAMAHAN](gravröset.md#bux-bare-tramahan) i Alderkrigens slutskede. Kompaniet separerades från *Bestämmarens* armé, gick vilse och sedan under när de flydde undan en fiendehord i [Vigstejns utkanter](vigstejns_ruinband.md). Varelserna rör sig över bottnarna av de större vattendragen och gör ibland exkursioner upp på land för att röva bort oförsiktiga resenärer. Blandade skatter från offren är samlade i krypin under mangroveträdens rötter.
 
 Myggmarskens svartalfer försöker eliminera Ryckarna, som i sin tur växer i antal genom rov, vilket gjort dem till en tämligen heterogen grupp. Skaran utgörs ändå huvudsakligen av människor.
 
@@ -76,7 +74,7 @@ Svartalferna i Myggmarsken genomled de alderländska krigen med jämnmod. Milit�
 
 Invånarna i byn ser Myggmarsken som en aspekt av Nattvararen och har, till skillnad från de flesta andra folk, ett tempel tillägnat guden. Under alderkrigen blodsoffrade man gärna de mänskliga utbölingar som hade oturen att hitta byn. Detta stärkte tron eftersom man i övrigt fick vara ifred. 
 
-Vargvinarna från [Korpehåla](legender.html) är hemmahörande i byn och känner så klart väl till det gamla stenbrottet.
+Vargvinarna från [Korpehåla](legender.md) är hemmahörande i byn och känner så klart väl till det gamla stenbrottet.
 
 ### Rostiga förbindelser
 
@@ -92,7 +90,7 @@ Svartalferna har samlat rikedomar från de varelser man offrat till Nattvararen.
 
 ## Odal Surt
 
-I östra utkanten av [Vigstejns ruinband](vigstejns_ruinband.html), inte långt från Korpehåla, finns ett antal förfallna dvärgiska maskiner som uppskattas av resar på utfärd. Det går inte längre att avgöra vilka syften apparaterna en gång haft då dvärgarna monterat ned och fört med sig alla mindre delar. De stommar och skal som återstår är alla i sten men erbjuder skydd och parkering för sittfläsk åt storvuxna folk.
+I östra utkanten av [Vigstejns ruinband](vigstejns_ruinband.md), inte långt från Korpehåla, finns ett antal förfallna dvärgiska maskiner som uppskattas av resar på utfärd. Det går inte längre att avgöra vilka syften apparaterna en gång haft då dvärgarna monterat ned och fört med sig alla mindre delar. De stommar och skal som återstår är alla i sten men erbjuder skydd och parkering för sittfläsk åt storvuxna folk.
 
 På ruinernas "bakgård" har Odal och hans kumpaner samlat bråte från sina äventyr, plus en och annan äventyrare som dristat sig för nära skatterna. Olycksaligas kvarlevor attraherar asätare. En flock harpyor är återkommande matgäster. Resarna lägger ut kadaver (oftast från vanliga djur) för att underhålla kontakten. Man är inte särskilt rädda för dem då monstren är för små för att rå på ett gäng råbarkade resar. Resarna hanterar harpyorna som ett farligt nöje för adrenalindårar men får ibland intressant information av odjuren.
 

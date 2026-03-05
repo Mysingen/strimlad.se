@@ -1,5 +1,3 @@
-<title>Halvlingar & Svartalfer - Gravsådd</title>
-
 # Halvlingar & Svartalfer
 
 ## Hälften skägg
@@ -14,7 +12,7 @@ Alla som försöker konkurrera med poptävlare genom att faktiskt göra något u
 
 Stabila system cirklar runt en central gestalt av nästan ouppnåelig social status, ex. ett majestät eller lagledaren i fotboll.
 
-> Tipz: Läs Paul Graham's [tankar om varför nördar är impopulära](http://www.paulgraham.com/nerds.html) som inspiration.
+> Tipz: Läs Paul Graham's [tankar om varför nördar är impopulära](http://www.paulgraham.com/nerds.md) som inspiration.
 
 ### Halvlingar
 

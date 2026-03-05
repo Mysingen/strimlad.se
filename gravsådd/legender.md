@@ -1,5 +1,3 @@
-<title>Legender - Gravsådd</title>
-
 # Legender
 
 För referens och egna noteringar.
@@ -10,7 +8,7 @@ Alla sidhänvisningar är till **Korpens Klagan**.
 
 **S. 209**: *Man säger att Det glömda landets sex första alver, de som planterade växterna, ...*
 
-Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Stanengist i sin hand.
+Enligt myten höll [Bux Bestämmaren](gravröset.md#bux-bare-tramahan) Stanengist i sin hand.
 
 ## Svärdet Maligarn
 
@@ -32,7 +30,7 @@ Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Staneng
 
 **S. 211**: *Namnet Merigall flyger som en vag skugga med gula ögon över Det glömda landet...*
 
-[Ett av Merigalls barn](herind_gulöga.html) räknar TRAME som sin hemvist.
+[Ett av Merigalls barn](herind_gulöga.md) räknar TRAME som sin hemvist.
 
 ## Krasylla
 
@@ -42,7 +40,7 @@ Enligt myten höll [Bux Bestämmaren](gravröset.html#bux-bare-tramahan) Staneng
 
 **S. 212**: *De eländiska korpsystrarna är kända som ett fridsamt systerskap...*
 
-Bekant med [RIFEN RÖDNAGEL](rifen_rödnagel.html) som hon ibland råkar på i [Myggmarsken](myggmarsken.html) när hon letar växter och kryp i träsken.
+Bekant med [RIFEN RÖDNAGEL](rifen_rödnagel.md) som hon ibland råkar på i [Myggmarsken](myggmarsken.md) när hon letar växter och kryp i träsken.
 
 ## Zertorme
 
@@ -72,7 +70,7 @@ Bekant med [RIFEN RÖDNAGEL](rifen_rödnagel.html) som hon ibland råkar på i [
 
 **S. 214**: *Det sägs att dvärgarna bröt all blåmarmor som fanns att skörda i Korpehåla stenbrott ...*
 
-[RIFEN RÖDNAGEL](rifen_rödnagel.html) har ibland vägarna förbi stenbrottet.
+[RIFEN RÖDNAGEL](rifen_rödnagel.md) har ibland vägarna förbi stenbrottet.
 
 ## Eners Pik
 
@@ -82,7 +80,7 @@ Bekant med [RIFEN RÖDNAGEL](rifen_rödnagel.html) som hon ibland råkar på i [
 
 **S. 215**: *Det glömda landets orcher har sökt sin plats i världen allt sedan de skickades i krig mot människorna...*
 
-[RIFEN RÖDNAGEL](rifen_rödnagel.html) känner till platsen och kan peka sökare i rätt riktning.
+[RIFEN RÖDNAGEL](rifen_rödnagel.md) känner till platsen och kan peka sökare i rätt riktning.
 
 ## Pelagia
 

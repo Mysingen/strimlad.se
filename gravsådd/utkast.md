@@ -1,5 +1,3 @@
-<title>Utkast - Gravsådd</title>
-
 # Utkast
 
 > Blandade tankegurkor.
@@ -8,7 +6,7 @@
 
 Knyckt från vår egen världs mandaéiska föreställningar: Magi är säkrare och potentare om besvärjelsen läggs i en skål. Dels för att skålens väggar hjälper till att hålla effekten samlad. Dels för att bilder av det som ska hållas ute kan tecknas på skålens utsida: Hundar, demoner, nyfikna grannar, etc.
 
-Krukmakare som [BÖRRI SKRÖJARE](börri_skröjare.html) kan lämna lämna hela hyllsystem av skålar efter sig. Krukmakeri är svårt och produkterna dras ofta med dolda fel. Skålarnas kvalisort är alltså oklar.
+Krukmakare som [BÖRRI SKRÖJARE](börri_skröjare.md) kan lämna lämna hela hyllsystem av skålar efter sig. Krukmakeri är svårt och produkterna dras ofta med dolda fel. Skålarnas kvalisort är alltså oklar.
 
 ## Ofrivilliga siare
 
@@ -30,7 +28,7 @@ En halvalv som försöker bli odödlig genom att kliva av "Livets Väg". Adepten
 
 ## Halvlingarnas trevnadspolis
 
-Konfronterar äventyrliga halvlingar för deras brist på social passform. Deras ledare, **Bror Alexandrino Kavat**, är den naturliga vinnaren av alla [popularitetstävlingar](halvlingar.html#popularitetstavlingar), har avundsvärda polisonger och är lika oklanderlig som arrogant. En farlig motståndare och ovän.
+Konfronterar äventyrliga halvlingar för deras brist på social passform. Deras ledare, **Bror Alexandrino Kavat**, är den naturliga vinnaren av alla [popularitetstävlingar](halvlingar.md#popularitetstavlingar), har avundsvärda polisonger och är lika oklanderlig som arrogant. En farlig motståndare och ovän.
 
 ### Bror Dulle Duglig
 

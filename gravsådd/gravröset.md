@@ -1,12 +1,10 @@
-<title>Gravröset - Gravsådd</title>
-
 # Gravröset
 
-En timme norr om [Stubbasten](stubbasten.html) finns fyra gravrösen på en ås med god utsikt över den omkringliggande skogen. Naturligtvis finns här både en skatt och en varelse som vakar över denna.
+En timme norr om [Stubbasten](stubbasten.md) finns fyra gravrösen på en ås med god utsikt över den omkringliggande skogen. Naturligtvis finns här både en skatt och en varelse som vakar över denna.
 
 ## Graven
 
-Det största av rösena hade en gång en korridor som länkade in- och utsida, tillbommad med en rejäl runsten i var ända. Gången har rasat in sedan [GUBBEN MONS](gubben_mons.html) och [XAYE ASKMARA](xaye_askmara.html) försökt ta sig in. De vet dock var den inre dörren befinner sig bakom rasmassorna och går i funderingar om [hur de ska ta sig in](xaye_askmara.html#en-riskabel-plan). Den äventyrslystna orch de anlitat för grovjobbet [hämtades hem av sin klan](stubbasten.html#forsta-besoket) och lär inte synas till igen.
+Det största av rösena hade en gång en korridor som länkade in- och utsida, tillbommad med en rejäl runsten i var ända. Gången har rasat in sedan [GUBBEN MONS](gubben_mons.md) och [XAYE ASKMARA](xaye_askmara.md) försökt ta sig in. De vet dock var den inre dörren befinner sig bakom rasmassorna och går i funderingar om [hur de ska ta sig in](xaye_askmara.md#en-riskabel-plan). Den äventyrslystna orch de anlitat för grovjobbet [hämtades hem av sin klan](stubbasten.md#forsta-besoket) och lär inte synas till igen.
 
 ### "Samarbete"
 
@@ -18,7 +16,7 @@ Rollpersonerna förväntas gå först in i graven för att ta den första smäll
 
 Utanför graven ligger den runsten som tjänade som yttre lås mot de levandes land. Den magi som en gång fanns i den till skydd mot inkräktare har neutraliserats av XAYE men besvärjare kan ännu skönja skuggan av kraften i runans ådror.
 
-BILDNING: Stenen är ristad av människor och bär släkten TRAMAHANS märke. TRAMAHANS anspråk på namnkunnighet går genom den beryktade krigaren Bux Bare, [Bestämmaren](syn_ora.html#om-metaforer), som för hundratals år sedan gjorde gemensam sak med dvärgar för att driva tillbaka Theranias demoniska horder från ett ansatt bergspass. Bux ska ha dött en hjältes död på slagfältet. Är det månne hans grav som samlar mossa här?
+BILDNING: Stenen är ristad av människor och bär släkten TRAMAHANS märke. TRAMAHANS anspråk på namnkunnighet går genom den beryktade krigaren Bux Bare, [Bestämmaren](syn_ora.md#om-metaforer), som för hundratals år sedan gjorde gemensam sak med dvärgar för att driva tillbaka Theranias demoniska horder från ett ansatt bergspass. Bux ska ha dött en hjältes död på slagfältet. Är det månne hans grav som samlar mossa här?
 
 ### Raset
 
@@ -60,7 +58,7 @@ Vapen och skida bär släkten TRAMAHANS insignia. Det kan identifieras med BILDN
 
 Kanske är det *Bestämmarens* brutala bortgång som ligger bakom. Kanske är det oönskade sidoeffekter av besvärjelserna som lagts över hans grav. I vilket fall går Bux igen som GAST (**s. 150**).
 
-En besvärjare som behärskar TALA MED DÖD kan försöka MANIPULERA den döde till stillnad och samtal. Detta är åtminstone [häxan XAYES](xaye_askmara.html) plan för att öka på sitt kunnande om både dödsriket och tiden då Bux Bestämmaren var i livet. Om hon är med vid öppnandet av graven är hon beredd att oskadliggöra skyddande magi men vill på inga villkor att gasten fördrivs. Hon har tidigare gjort försök att kommunicera med gasten nattetid, utanför graven, men funnit det svårt att MANIPULERA den då dess aktivitet är högre vilket gör den svårmästrad.
+En besvärjare som behärskar TALA MED DÖD kan försöka MANIPULERA den döde till stillnad och samtal. Detta är åtminstone [häxan XAYES](xaye_askmara.md) plan för att öka på sitt kunnande om både dödsriket och tiden då Bux Bestämmaren var i livet. Om hon är med vid öppnandet av graven är hon beredd att oskadliggöra skyddande magi men vill på inga villkor att gasten fördrivs. Hon har tidigare gjort försök att kommunicera med gasten nattetid, utanför graven, men funnit det svårt att MANIPULERA den då dess aktivitet är högre vilket gör den svårmästrad.
 
 ### Nattetid
 
@@ -70,15 +68,15 @@ Komplikationer bör uppstå om röjningsarbetet sinkas och man fortfarande inte 
 
 ## Vad händer sedan?
 
-När det inre låsets magi utlöses klämtar en klocka hos [ättlingarna till de dvärgar](kung_göff.html) som en gång hjälpte till med begravningen av Bux Bare, Bergabrodern. Eftersom anfädernas konung svurit att skydda hjältens sista viloplats är det bara att ge sig ut för att återställa ordningen. Ett löfte är ett löfte.
+När det inre låsets magi utlöses klämtar en klocka hos [ättlingarna till de dvärgar](kung_göff.md) som en gång hjälpte till med begravningen av Bux Bare, Bergabrodern. Eftersom anfädernas konung svurit att skydda hjältens sista viloplats är det bara att ge sig ut för att återställa ordningen. Ett löfte är ett löfte.
 
 > I vår kampanj passade sällskapets tjuv på att knycka Bux svärd i tumultet som uppstod vid öppnandet av graven. Gruppens druid förhäxade några av MONS hundar till att attackera sin husse och de lyckades fördriva gasten snabbare än XAYE hann agera. XAYE är alltså både missnöjd och misstänksam eftersom samtalet med gasten nu helt gått om intet och Bux svärd inte stod att finna (gömt i en myrstack). För att bre på eländet är MONS i dåligt skick efter att ha blivit hundbiten tre gånger. En bräcklig allians formades för att få skoghuggaren hem och omhändertagen samtidigt som gruppens blodsmagiker hoppas på framtida lärdomsutbyten med häxan. Det ska inte vara lätt...
 
 ## Återställning av graven
 
-Detta är ett uppdrag som RPna kan råka på i [Vigstejn](kung_göff.html), särskilt om de besöker [Syskonen Syn](syskonen_syn.html#uppdrag-at-aventyrare). Det förutsätts att Bux svärd har tagits från graven så att äventyret kan handla om att spåra tjuven snarare än att stapla tunga stenar i prydliga rader.
+Detta är ett uppdrag som RPna kan råka på i [Vigstejn](kung_göff.md), särskilt om de besöker [Syskonen Syn](syskonen_syn.md#uppdrag-at-aventyrare). Det förutsätts att Bux svärd har tagits från graven så att äventyret kan handla om att spåra tjuven snarare än att stapla tunga stenar i prydliga rader.
 
-RPna behöver ha sällskap av [Garin & Raffir](kung_göff.html#garin-raffir), gärna även [SLUR](slur.html) som expeditionsledare, ceremoniellt utsedd av Kung GÖFF själv. I annat fall får SL vara egen dräng och anpassa.
+RPna behöver ha sällskap av [Garin & Raffir](kung_göff.md#garin-raffir), gärna även [SLUR](slur.md) som expeditionsledare, ceremoniellt utsedd av Kung GÖFF själv. I annat fall får SL vara egen dräng och anpassa.
 
 ### Gasten
 
@@ -105,7 +103,7 @@ Detta arbete erbjuder mest slag mot STYRKEPROV och HANTVERK. Man behöver dessut
 
 Dvärgarna är pragmatiska och pålästa nog att ta sig an problemen ett åt gången. Svärdet är viktigast, följt av lejandet av en lämplig SYMBOLIST av TRAMAHANS ätt. När man väl har delarna kan man återvända till graven för att utföra grovarbetet.
 
-Garin eller Raffir behärskar STENSÅNG enligt SL's diskretion. Sökandet efter [ätten TRAMAHAN](släkten_tramahan.html) torde leda till staden [TRAME](trame.html).
+Garin eller Raffir behärskar STENSÅNG enligt SL's diskretion. Sökandet efter [ätten TRAMAHAN](släkten_tramahan.md) torde leda till staden [TRAME](trame.md).
 
 ### Störningar
 

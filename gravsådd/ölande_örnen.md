@@ -1,8 +1,6 @@
-<title>Ölande Örnen</title>
-
 # Ölande Örnen
 
-Detta jämmerhak ligger strategiskt placerat mitt emellan [TRAME](trame.html) och [Vigstejn](vigstejns_ruinband.html). En dagsmarch tar resenären till endera destinationen. Komforten är i gengäld hånfull:
+Detta jämmerhak ligger strategiskt placerat mitt emellan [TRAME](trame.md) och [Vigstejn](vigstejns_ruinband.md). En dagsmarch tar resenären till endera destinationen. Komforten är i gengäld hånfull:
 
 * Otrevlig, våldsbenägen ägare (man & människa)
 * Hutlösa priser
@@ -20,20 +18,20 @@ Resterna av en armé från Alderkrigens tid skräpar i och ovan jord en bit neda
 
 Trots riskerna besöks Örnen för kontakt- och upplysningsmöjligheterna som följer av placeringen. Ett urval:
 
-* [SLUR](slur.html)
-* [RIFEN RÖDNAGEL](rifen_rödnagel.html)
-* [Silkestradören](myggmarsken.html#silkestradoren)
-* [Intendent MAMLIN](rostbröder.html#intendent-mamlin)
-* [Dona Spetsvis](myggmarsken.html#dona-spetsvis)
-* [XAYE ASKMARA](xaye_askmara.html)
-* [TIDIR](tidir.html)
-* [Halvlingarnas trevnadspolis](02.utkast.html#halvlingarnas-trevnadspolis)
+* [SLUR](slur.md)
+* [RIFEN RÖDNAGEL](rifen_rödnagel.md)
+* [Silkestradören](myggmarsken.md#silkestradoren)
+* [Intendent MAMLIN](rostbröder.md#intendent-mamlin)
+* [Dona Spetsvis](myggmarsken.md#dona-spetsvis)
+* [XAYE ASKMARA](xaye_askmara.md)
+* [TIDIR](tidir.md)
+* [Halvlingarnas trevnadspolis](utkast.md#halvlingarnas-trevnadspolis)
 * Allehanda rostbröder
 
 ## Slagfältet
 
-Delar av [Bux Bare TRAMAHANS](gravröset.html#bux-bare-tramahan) armé gick under här. De kan väckas av den gamle härföraren själv om han skulle slippa ut ur sin grav. [Herind Gulögas musik](herind_gulöga.html) är också ett säkert sätt. (Notera dock att döingarna surnar om Herind slutar spela.)
+Delar av [Bux Bare TRAMAHANS](gravröset.md#bux-bare-tramahan) armé gick under här. De kan väckas av den gamle härföraren själv om han skulle slippa ut ur sin grav. [Herind Gulögas musik](herind_gulöga.md) är också ett säkert sätt. (Notera dock att döingarna surnar om Herind slutar spela.)
 
 Två befäl återfinns bland de mer ordinära döda. Om de väcks kommer de att söka leda hären vartän de tror att Bux befinner sig. De är intelligenta och inte nödvändigtvis våldsamma men den som vistas i deras närhet tar automatiskt 1 KAR i skada per kvartsdygn p.g.a. obehaget de framkallar.
 
-Sex av mynten från [Barbeskrinet](börri_skröjare.html#barbeskrinet) kan hittas på officerarna. Två av mynten utgör ett äkta par och kan alltså användas direkt för att väcka en nylingen avliden till [tjänst](börri_skröjare.html#mekanism).
+Sex av mynten från [Barbeskrinet](börri_skröjare.md#barbeskrinet) kan hittas på officerarna. Två av mynten utgör ett äkta par och kan alltså användas direkt för att väcka en nylingen avliden till [tjänst](börri_skröjare.md#mekanism).

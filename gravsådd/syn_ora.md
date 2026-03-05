@@ -1,5 +1,3 @@
-<title>Syn Ora - Gravsådd</title>
-
 # Syn Ora
 
 Alven Syn Ora insåg att människor är nästan djuriskt lätta att binda till sina passioner men också att konsten ändå är praktiskt svår eftersom den kräver en trovärdig relation med den manipulerade. Principen var redan känd men fann inte mycket användning innan den kaotiska och övertaliga människan gjorde sitt inträde i Ravland.
@@ -23,7 +21,7 @@ Syn Ora utvecklade en praktisk kommunikationsteknik som besökare till människo
 
 Synen lämnade ofärdigt arbete efter sig, med en uppmaning till pilgrimer att uppenbara systemets helhet.
 
-> Detta är något [Syskonen Syn](syskonen_syn.html) kan känna till. Det kan också vara något som kan uppdagas i spel om RPna får lämpliga tillfällen att hitta gamla skrifter som legat på lagring i några hundra år.
+> Detta är något [Syskonen Syn](syskonen_syn.md) kan känna till. Det kan också vara något som kan uppdagas i spel om RPna får lämpliga tillfällen att hitta gamla skrifter som legat på lagring i några hundra år.
 
 Frågeställningen utgår från dualismen mellan viljorna till kärlek och autonomi. Insikten består i att människorna är särskilt utsatta då de har svårt att bestämma sig.
 
@@ -44,7 +42,7 @@ I sin visdom insåg synen att vilja/passion och reson/moral är varandras motsat
 
 Båda dessa krafter är mycket svåra att kontrollera men tvivel har fördelen av att vara övergående och därför att föredra. Samtidigt måste pilgrimen erinra sig att hen inte kontrollerar *alla* källor till tvivel varför situationen ändå kan gå över styr.
 
-Extrem trohet till ideal är aldrig ett stabilt fundament; Pilgrimens förmåga att kontrollera eller ens förutse effekterna är synnerligen osäker. En bemyndigad [*Bestämmare*](gravröset.html#bux-bare-tramahan) accepterar endast vilja/passion som ledande princip och ger inget utrymme för kompromisser (reson/moral). Utan sin motvikt kan passionen lätt förirra sig till katastrof.
+Extrem trohet till ideal är aldrig ett stabilt fundament; Pilgrimens förmåga att kontrollera eller ens förutse effekterna är synnerligen osäker. En bemyndigad [*Bestämmare*](gravröset.md#bux-bare-tramahan) accepterar endast vilja/passion som ledande princip och ger inget utrymme för kompromisser (reson/moral). Utan sin motvikt kan passionen lätt förirra sig till katastrof.
 
 Den pilgrim som ändå dristar sig att använda dessa krafter måste
 dölja manipulation av passion bakom offrets egna livsval. "Har jag någonsin tvingat dig till något du inte ville göra?"

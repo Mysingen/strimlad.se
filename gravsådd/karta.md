@@ -1,5 +1,3 @@
-<title>Karta - Gravsådd</title>
-
 # Karta
 
 ![](karta.svg)

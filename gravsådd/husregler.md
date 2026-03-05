@@ -1,5 +1,3 @@
-<title>Husregler - Gravsådd</title>
-
 # Husregler
 
 Alla sidhänvisningar är till Spelarboken.
