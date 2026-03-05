@@ -1,16 +1,16 @@
 # Kung Göff av Vigstejn
 
-Kung GÖFF av Harkernas ätt regerar dvärgariket Vigstejn i norr. Missnöjd är han med sin lott. Helst skulle han se sina gamla dryckes- och vapenbröder Garin och Raffir bland sina närmaste rådgivare och föreståndare. Urgamla turordningsregler och meritokratiska system vill annorlunda. Riksens faktiska rådgivare och disponenter tråkar ut honom med myopiska detaljplaner som aldrig tycks klarna nog för faktiska genomföranden. Han drömmer om att personligen leda det bosättningsprojekt som ska återinviga [Vigstejns ruinband](vigstejns_ruinband.md) i rikets hägn.
+Kung GÖFF av Harkernas ätt regerar dvärgariket Vigstejn i norr. Missnöjd är han med sin lott. Helst skulle han se sina gamla dryckes- och vapenbröder GARIN och RAFFIR bland sina närmaste rådgivare och föreståndare. Urgamla turordningsregler och meritokratiska system vill annorlunda. Riksens faktiska rådgivare och disponenter tråkar ut honom med myopiska detaljplaner som aldrig tycks klarna nog för faktiska genomföranden. Han drömmer om att personligen leda det bosättningsprojekt som ska återinviga [Vigstejns ruinband](vigstejns_ruinband.md) i rikets hägn.
 
 Annorlunda är det med [rådgivarna Syn](syskonen_syn.md). Alvsyskonens ovanliga disposition och märkliga resomenang om Drejaren retar kungens nyfikenhet. Samtidigt räds GÖFF alvernas smått obegripliga kynne och undrar hur mycket lojalitet man egentligen kan räkna med från en odödlig varelse.
 
 ## Garin & Raffir
 
-Det faller på Garin och Raffir att ta emot [SLUR](slur.md) när han dyker upp med sitt oanständiga förslag att göra gemensam sak för att bärga [Kalantinas skatt](kalantina.md).
+Det faller på GARIN och RAFFIR att ta emot [SLUR](slur.md) när han dyker upp med sitt oanständiga förslag att göra gemensam sak för att bärga [Kalantinas skatt](kalantina.md).
 
-Det är inte första gången på senare tid som hemsökta skatter traktas av utbölingar. Garin och Raffir har ansvar för skydd och underhåll av ett antal gamla gravar som de helst skulle se lämnas orörda. Kalantinas skatt är det dessutom annorlunda med då den utgör en [skamfläck](börri_skröjare.md) som verkligen borde återbördas och glömmas bort bak ett rejält lås. Den har varit förlorad under 300 år och dvärgarna är beredda att göra signifikanta ansträngningar för att återfå den. Detta vet förstås SLUR inget om och antar att silverfeber alena ska räcka för att göra dvärgarna samarbetsvilliga. Det stämmer dock att vägkorset vid [Storstugan](storstugan.md) är dvärgiskt hantverk och att stenfolkets medverkan skulle kunna ha avgörande betydelse för att erövra graven inunder.
+Det är inte första gången på senare tid som hemsökta skatter traktas av utbölingar. GARIN och RAFFIR har ansvar för skydd och underhåll av ett antal gamla gravar som de helst skulle se lämnas orörda. Kalantinas skatt är det dessutom annorlunda med då den utgör en [skamfläck](börri_skröjare.md) som verkligen borde återbördas och glömmas bort bak ett rejält lås. Den har varit förlorad under 300 år och dvärgarna är beredda att göra signifikanta ansträngningar för att återfå den. Detta vet förstås SLUR inget om och antar att silverfeber alena ska räcka för att göra dvärgarna samarbetsvilliga. Det stämmer dock att vägkorset vid [Storstugan](storstugan.md) är dvärgiskt hantverk och att stenfolkets medverkan skulle kunna ha avgörande betydelse för att erövra graven inunder.
 
-Garin och Raffir erbjuder belöning mot information om skattens placering men SLUR tror sig hålla på att bli lurad. Förhandlingar inleds sålunda.
+GARIN och RAFFIR erbjuder belöning mot information om skattens placering men SLUR tror sig hålla på att bli lurad. Förhandlingar inleds sålunda.
 
 ### Intrånget i graven
 

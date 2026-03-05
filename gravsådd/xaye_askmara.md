@@ -16,7 +16,7 @@ Skulle XAYE förstå [vem gasten egentligen är](gravröset.md#bux-bare-tramahan
 
 XAYE verkliga familjenamn är [TRAMAHAN](släkten_tramahan.md). Häxan har viss kontakt med andra TRAMAHAN men sätter aldrig sin fot i TRAME sedan hon förskjutits från staden.
 
-Hennes tidigare liv som respektabel adelsdam blir ibland synligt. Om [Garin och Raffir](kung_göff.md#garin-raffir) ger rollpersoner i uppdrag att återställa [Bux Bares grav](gravröset.md#aterstallning-av-graven) så inkluderar det nödvändigtvis att säkra hjälp av en SYMBOLIST av TRAMAHANS ätt. XAYE kan då (men måste inte) tipsa om Daras Döderdressare. Hon kan även berätta något om spliten som råder mellan de mänskliga och halvalviska förgreningarna av släkten TRAMAHAN.
+Hennes tidigare liv som respektabel adelsdam blir ibland synligt. Om [GARIN och RAFFIR](kung_göff.md#garin-raffir) ger rollpersoner i uppdrag att återställa [Bux Bares grav](gravröset.md#aterstallning-av-graven) så inkluderar det nödvändigtvis att säkra hjälp av en SYMBOLIST av TRAMAHANS ätt. XAYE kan då (men måste inte) tipsa om Daras Döderdressare. Hon kan även berätta något om spliten som råder mellan de mänskliga och halvalviska förgreningarna av släkten TRAMAHAN.
 
 XAYE har hört talas om [Herind Gulöga](herind_gulöga.md) men vet inte mycket, bara att han för tankarna till legenderna om [Merigalls barn](legender.md#merigall). Hon har inte träffat honom och skulle uppskatta detaljer om denne mystiske man som inblandat sig i ätten TRAMAHAN.
 

@@ -4,7 +4,7 @@ Mycket löst hållet...
 
 En stor person, med imponerande gördelmått, av TRAMAHANS ätt, ligger på dödsbädden och sänder, i sitt storhetsvansinne, meddelanden till "likvärdiga" om det förstående slutet och festen som hör till.
 
-Garin & Raffir har intresse i familjens lösöre som, vad de vet, innehåller delar av samma skatt som [Kalantina](kalantina.md) tagit med sig i graven. Ett tillfälle att rätta till ett gammalt misstag?
+GARIN & RAFFIR har intresse i familjens lösöre som, vad de vet, innehåller delar av samma skatt som [Kalantina](kalantina.md) tagit med sig i graven. Ett tillfälle att rätta till ett gammalt misstag?
 
 [Syskonen Syn](syskonen_syn.md) har intresse i personens arvingar. Den döende är extrem i sina synsätt, vilket de tror borgar för att något av barnen intagit ett motsatt förhållningssätt. Familjen är även känd för sitt bibliotek och ska innehålla alviska skrifter.
 

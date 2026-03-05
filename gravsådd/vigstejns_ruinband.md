@@ -38,7 +38,7 @@ Speja (doft) 2
 
 #### Borakai Trollbindamö
 
-Borakai är den verkliga experten på trollaskörd och har lång erfarenhet av att klara sig ensam i närheten av odjuren. Då hon även är ogift har hon, tills vidare, tillnamnet Trollbindamö. Hon har, efter enträgen övertalning, accepterat att ta sig an Urrfer som lärling. Jobbet sköts enligt Borakai egentligen bäst ensam för att minimera värvets risker. Som hon även är [Garins](kung_göff.md#garin-raffir) morkusinbarn och Garin fått nog av att försöka utbilda Urrfer har hon tagit över förtroendet.
+Borakai är den verkliga experten på trollaskörd och har lång erfarenhet av att klara sig ensam i närheten av odjuren. Då hon även är ogift har hon, tills vidare, tillnamnet Trollbindamö. Hon har, efter enträgen övertalning, accepterat att ta sig an Urrfer som lärling. Jobbet sköts enligt Borakai egentligen bäst ensam för att minimera värvets risker. Som hon även är [GARINS](kung_göff.md#garin-raffir) morkusinbarn och GARIN fått nog av att försöka utbilda Urrfer har hon tagit över förtroendet.
 
 ```
 STY   6

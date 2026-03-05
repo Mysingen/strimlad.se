@@ -70,13 +70,13 @@ Komplikationer bör uppstå om röjningsarbetet sinkas och man fortfarande inte 
 
 När det inre låsets magi utlöses klämtar en klocka hos [ättlingarna till de dvärgar](kung_göff.md) som en gång hjälpte till med begravningen av Bux Bare, Bergabrodern. Eftersom anfädernas konung svurit att skydda hjältens sista viloplats är det bara att ge sig ut för att återställa ordningen. Ett löfte är ett löfte.
 
-> I vår kampanj passade sällskapets tjuv på att knycka Bux svärd i tumultet som uppstod vid öppnandet av graven. Gruppens druid förhäxade några av MONS hundar till att attackera sin husse och de lyckades fördriva gasten snabbare än XAYE hann agera. XAYE är alltså både missnöjd och misstänksam eftersom samtalet med gasten nu helt gått om intet och Bux svärd inte stod att finna (gömt i en myrstack). För att bre på eländet är MONS i dåligt skick efter att ha blivit hundbiten tre gånger. En bräcklig allians formades för att få skoghuggaren hem och omhändertagen samtidigt som gruppens blodsmagiker hoppas på framtida lärdomsutbyten med häxan. Det ska inte vara lätt...
+> I vår kampanj passade sällskapets tjuv på att knycka Bux svärd i tumultet som uppstod vid öppnandet av graven. Gruppens druid förhäxade några av MONS hundar till att attackera sin husse och de lyckades fördriva gasten snabbare än XAYE hann agera. XAYE är alltså både missnöjd och misstänksam eftersom samtalet med gasten nu helt gått om intet och Bux svärd inte stod att finna (gömt i en myrstack). För att bre på eländet är MONS i dåligt skick efter att ha blivit hundbiten tre gånger. En bräcklig allians formades för att få skogshuggaren hem och omhändertagen samtidigt som gruppens blodsmagiker hoppas på framtida lärdomsutbyten med häxan. Det ska inte vara lätt...
 
 ## Återställning av graven
 
 Detta är ett uppdrag som RPna kan råka på i [Vigstejn](kung_göff.md), särskilt om de besöker [Syskonen Syn](syskonen_syn.md#uppdrag-at-aventyrare). Det förutsätts att Bux svärd har tagits från graven så att äventyret kan handla om att spåra tjuven snarare än att stapla tunga stenar i prydliga rader.
 
-RPna behöver ha sällskap av [Garin & Raffir](kung_göff.md#garin-raffir), gärna även [SLUR](slur.md) som expeditionsledare, ceremoniellt utsedd av Kung GÖFF själv. I annat fall får SL vara egen dräng och anpassa.
+RPna behöver ha sällskap av [GARIN & RAFFIR](kung_göff.md#garin-raffir), gärna även [SLUR](slur.md) som expeditionsledare, ceremoniellt utsedd av Kung GÖFF själv. I annat fall får SL vara egen dräng och anpassa.
 
 ### Gasten
 
@@ -103,7 +103,7 @@ Detta arbete erbjuder mest slag mot STYRKEPROV och HANTVERK. Man behöver dessut
 
 Dvärgarna är pragmatiska och pålästa nog att ta sig an problemen ett åt gången. Svärdet är viktigast, följt av lejandet av en lämplig SYMBOLIST av TRAMAHANS ätt. När man väl har delarna kan man återvända till graven för att utföra grovarbetet.
 
-Garin eller Raffir behärskar STENSÅNG enligt SL's diskretion. Sökandet efter [ätten TRAMAHAN](släkten_tramahan.md) torde leda till staden [TRAME](trame.md).
+GARIN eller RAFFIR behärskar STENSÅNG enligt SL's diskretion. Sökandet efter [ätten TRAMAHAN](släkten_tramahan.md) torde leda till staden [TRAME](trame.md).
 
 ### Störningar
 
