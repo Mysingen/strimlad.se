@@ -67,7 +67,7 @@ En förlorad trollmygga är en stor affär och ovärdiga innehavare jagas till d
 
 > Detta möte kan bara ske längs någon av de större vägar som leder genom Vigstejns ruinband. Detta eftersom rödelöparen väl känner till dvärgarnas regler om färd i området och valt att, den här gången, respektera dessa.
 
-Rödelöparen Gul'ullra Tinalâr är in prekär situation. Hans kropp har delats i två vid ryggslutet. Fallna blad av nyponrosor som blåst över kroppen dekorerar den pöl av blod som läckt ur alven. Minotauren som föll Tinalâr så lömskt och lyckosamt i bakhåll roar sig som bäst med att metodiskt krossa hennes bäckenben mot en staty föreställande en av Kung GÖFFS anfäder.
+Rödelöparen GUL'ULLRA'TIN är in prekär situation. Hans kropp har delats i två vid ryggslutet. Fallna blad av nyponrosor som blåst över kroppen dekorerar den pöl av blod som läckt ur alven. Minotauren som föll Tinalâr så lömskt och lyckosamt i bakhåll roar sig som bäst med att metodiskt krossa hennes bäckenben mot en staty föreställande en av Kung GÖFFS anfäder.
 
 Om ingen ingriper kommer minotauren att fullborda övergreppet genom att äta delar av alvens överkropp och därmed få i sig dennes alvrubin. Detta gör monstret till ett attraktivt byte i sig, men kan även leda till intressanta komplikationer om rubinen passerar munhålan hel och sedan börjar bygga upp alven igen, inne i minotauren.
 
