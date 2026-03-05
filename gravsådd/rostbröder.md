@@ -106,13 +106,13 @@ MAMLIN undviker strid. Hon ogillar beteendet och förstår att det inte ökar ky
 
 ### Maktspel
 
-Se [Aalgard Majestät](broder_rost.md#aalgard-majestat). MAMLIN har makt i Ormkyrkan. Hon använder sin följedemonen för att befästa sig själv som Sista Uttydare av Rättgång.
+Se [Aalgard Majestät](broder_rost.md#aalgard-majestat). MAMLIN har makt i Ormkyrkan. Hon använder sin följedemonen för att befästa sig själv som Sista Uttydare av Rättegång.
 
 [Syskonen Syn](syskonen_syn.md) skulle benämna MAMLIN "överläkare" om de fick höra talas om henne.
 
 ### Demoniskt inflytande
 
-En demon följer MAMLIN i eterisk form. Den skulle inte missa en Rättegång hos Aalgard Majestät för allt i världen. I dessa sammanhang släpps den fram för att bättra på bilden av Orme som domargud. Med stöd av sektens bönfallande pipanden kan demonen spinna skepnader av röd dimma som skrämmer mässodeltagarna på ett roande sätt. Kvällens höjdpunkt är alltid det rituella offretmordet vilket låter varelsen frossa i skräck och lidande.
+En demon följer MAMLIN i eterisk form. Den skulle inte missa en Rättegång hos Aalgard Majestät för allt i världen. I dessa sammanhang släpps den fram för att bättra på bilden av ORME som domargud. Med stöd av sektens bönfallande pipanden kan demonen spinna skepnader av röd dimma som skrämmer mässdeltagarna på ett roande sätt. Kvällens höjdpunkt är alltid det rituella offretmordet vilket låter varelsen frossa i skräck och lidande.
 
 MAMLIN bekymrar sig över att demonen börjat ta människooffer för givet och även växt i styrka. Håller hon på att tappa kontrollen över sin falska gudabild? Skulle den vinna egen röst eller starkare fysisk form månne månget börja gå agurk.
 

@@ -2,7 +2,7 @@
 
 ## Kampanjpassning
 
-Rostbröderna är i Gravsådd löst inordnade under dyrkan av Orme i form av en munkorden som uträttar kyrkans smutsigare hantverk. Ormkyrkan presenterar sig som bärar*en* av Alderländsk religiös tradition och som gudomlig garant för de mänskliga släktenas säkerhet under domarguden Orme. Man har begränsad kontroll över sin munkorden men det ger brödraskapet en lite grannare fasad att dölja sig bakom. 
+Rostbröderna är i Gravsådd löst inordnade under dyrkan av ORME i form av en munkorden som uträttar kyrkans smutsigare hantverk. Ormkyrkan presenterar sig som bärar*en* av alderländsk religiös tradition och som gudomlig garant för de mänskliga släktenas säkerhet under domarguden ORME. Man har begränsad kontroll över sin munkorden men det ger brödraskapet en lite grannare fasad att dölja sig bakom. 
 
 > Jag försöker ge Rostbröderna en mer ambivalent framtoning som helare, men där gåvorna kan ha avsevärda nackdelar. Dessa kan vara kroppsligt motbjudande (som riddare Erevs [demonpansar](rostbröder.md#mogpansar) eller ha mer subtila effekter.
 
@@ -20,7 +20,7 @@ Rostbröderna gillar inte varandra särskilt mycket men är ändå ett väldrill
 
 ## Uppdraget
 
-Gervix och Robilan söker ospecificerat "hemsökta silverskatter" sedan de tutats i av sina överordnade att sådan själslig smuts förargar Orme. Särskilt mynt måste avlägsnas från gravar och föras till Rostbrödernas kloster för rening. De känner inte till [Kalantina](kalantina.md) eller hennes [skatt](börri_skröjare.md#barbeskrinet) utan råkar bara befinna sig i närheten när spelet börjar. De övervakas av [Intendent MAMLIN](rostbröder.md#intendent-mamlin) som ibland gör nedslag i deras försök till upptäckter.
+Gervix och Robilan söker ospecificerat "hemsökta silverskatter" sedan de tutats i av sina överordnade att sådan själslig smuts förargar ORME. Särskilt mynt måste avlägsnas från gravar och föras till Rostbrödernas kloster för rening. De känner inte till [Kalantina](kalantina.md) eller hennes [skatt](börri_skröjare.md#barbeskrinet) utan råkar bara befinna sig i närheten när spelet börjar. De övervakas av [Intendent MAMLIN](rostbröder.md#intendent-mamlin) som ibland gör nedslag i deras försök till upptäckter.
 
 De två har redan besökt bosättningen väster om Storstugan där de tilltvingade sig uppgiften att [SLUR](slur.md), på friarresa, talat bredvid mun om att han en dag kommer att bli en rik man. För att riktigt bre på om sitt imponerande mod och beslutsamhet yppade han även att skatten vaktas av en osalig ande men att han vet hur denna kan besegras. Detta säger förstås inget om var skatten kan tänkas finnas, men ett spår är ändå ett spår.
 
@@ -30,7 +30,7 @@ Rostbröderna vet att de inte är välkomna i Vigstejn och att de förväntas h�
 
 ## Aalgard Majestät
 
-Sekten förkunnar att blodsdimman är faderguden Ormes domargestalt och tillber den för bot och vägledning. Sekten är organiserad i loger som möts på medlemmarnas egendomar. Logens möten leds av [Intendent MAMLIN](rostbröder.md#intendent-mamlin). Ämnet är ofta Rättegång; konsten att rätt gånga Ormes väg. Gruppen härleder "Aalgard" i sitt namn från Konung Algavard som under Mannafloden (**SL-boken s. 22**) skapade Alderlands brofäste i Ravland.
+Sekten förkunnar att blodsdimman är faderguden ORMES domargestalt och tillber den för bot och vägledning. Sekten är organiserad i loger som möts på medlemmarnas egendomar. Logens möten leds av [Intendent MAMLIN](rostbröder.md#intendent-mamlin). Ämnet är ofta Rättegång; konsten att rätt gånga ORMES väg. Gruppen härleder "Aalgard" i sitt namn från Konung Algavard som under Mannafloden (**SL-boken s. 22**) skapade Alderlands brofäste i Ravland.
 
 Sekten är populär bland människor (och ibland halvalver) i den elit som försöker behålla kontrollen över sina befolkningar sedan Ravland åter blivit farbart för upptäckare och emigranter. ("Befolkning" kan i sammanhanget handla om en by med så lite som 20 invånare.)
 

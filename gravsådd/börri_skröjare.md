@@ -1,6 +1,6 @@
 # Börri Skröjare
 
-BÖRRI av Vigstejn hette en dvärgakarl av ovanligt snitt. En begåvad sångare var han, och en manipulatör av naturens väsen. När druidism och stensång snart släppt sina sista hemligheter till virtuosen fann han sig uttråkad och svartsjuk på andras kunnande. [Syskonen Syn](syskonen_syn.md) ömmade för dvärgens missmod och erbjöd honom skolning. Men alvisk livsmagi studeras bäst genom linsen av sin motsats: dödsmagi.
+BÖRRI av Vigstejn hette en dvärgkarl av ovanligt snitt. En begåvad sångare var han, och en manipulatör av naturens väsen. När druidism och stensång snart släppt sina sista hemligheter till virtuosen fann han sig uttråkad och svartsjuk på andras kunnande. [Syskonen Syn](syskonen_syn.md) ömmade för dvärgens missmod och erbjöd honom skolning. Men alvisk livsmagi studeras bäst genom linsen av sin motsats: dödsmagi.
 
 Den då medelålders BÖRRI tog sig tillnamnet MÖRKBARB och kallade sig Skröjare — *Bestämmare* av den levande lerans brännmask, dess fixering. Aska föll där han gick fram och alla fruktade honom eftersom han ansågs vara lynnig.
 
