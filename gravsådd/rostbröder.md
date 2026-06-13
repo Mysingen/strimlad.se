@@ -106,7 +106,7 @@ MAMLIN undviker strid. Hon ogillar beteendet och förstår att det inte ökar ky
 
 ### Maktspel
 
-Se [Aalgard Majestät](broder_rost.md#aalgard-majestat). MAMLIN har makt i Ormkyrkan. Hon använder sin följedemonen för att befästa sig själv som Sista Uttydare av Rättegång.
+Se [Aalgard Majestät](broder_rost.md#aalgard-majestat). MAMLIN har makt i Ormkyrkan. Hon använder sin följedemon för att befästa sig själv som Sista Uttydare av Rättegång.
 
 [Syskonen Syn](syskonen_syn.md) skulle benämna MAMLIN "överläkare" om de fick höra talas om henne.
 

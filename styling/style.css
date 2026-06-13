@@ -44,6 +44,7 @@ body {
 
 blockquote, ul, ol, dl, table, pre {
   margin: 15px 0;
+  color: #d86200;
 }
 
 p {
